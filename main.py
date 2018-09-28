@@ -1,5 +1,6 @@
 import os
 import csv
+import pandas as pd
 
 # Path to collect data from the Resources folder
 pollcsv = os.path.join('.', 'Resources', 'election_data.csv')
