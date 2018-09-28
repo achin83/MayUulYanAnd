@@ -1,6 +1,10 @@
 import os
 import csv
+<<<<<<< HEAD
 import pandas as pd
+=======
+from pprint import pprint
+>>>>>>> master
 
 # Path to collect data from the Resources folder
 pollcsv = os.path.join('.', 'Resources', 'election_data.csv')
