@@ -1,0 +1,3 @@
+#Yelp.com
+client_id = "siej-rOqUcRUsJB4HrM-1Q"
+api_key = "mkqMQAQA0ZK_czKmE7xcrvk__Dgf02y5lSGO0qCBx_HqJoGBJJA_CSDL1fWhef4hF7793k-M4gLc5krcT70_vTWWjoddtEXk7Gt1Siqg8ybQFOEi9xsnFJY0T32xW3Yx"
