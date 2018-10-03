@@ -1,0 +1,2403 @@
+Restaurant,ID,Rating,Reviews,Price,City,State,ZipCode,Category
+Lucca Delicatessen,1bvordoxuK59aoPrOQpA7g,4.0,599,1,San Francisco,CA,94123,Delis
+Nick's Crispy Tacos,ziVej4oW2JpUConTE_Y_mg,4.0,3151,1,San Francisco,CA,94109,Mexican
+Jake's Steaks,ZPICS34Z5ieeGNNohW4Ynw,4.0,618,1,San Francisco,CA,94123,Sandwiches
+The Sandwich Spot,Uq0qPR7dxtTYcpqR8G-nog,4.0,618,1,San Francisco,CA,94123,Sandwiches
+Loving Cup,8LEnV8Z0-YKPWb1nLKgQHQ,4.0,1035,1,San Francisco,CA,94109,Desserts
+Marina Submarine,c1uPQc6ylqB4Pj-KYB8cpw,4.0,381,1,San Francisco,CA,94123,Delis
+Over the Moon,s0rMCa8QP8e2XdH3vAnoLA,4.0,311,1,San Francisco,CA,94109,Ice Cream & Frozen Yogurt
+Pluto's,PuOsLglHAg0kpHVvGj2new,4.0,658,1,San Francisco,CA,94123,American (New)
+Gio Gelati,JWsP9ZkE3gNuyk2TkdjzsA,5.0,86,1,San Francisco,CA,94123,Gelato
+Toma,ngn0WekzH3vzraKDcYi5GQ,4.0,279,1,San Francisco,CA,94123,Mexican
+The Black Horse London Pub,kM64kcWiK3TqhB0HeAUGeg,4.5,308,1,San Francisco,CA,94123,Pubs
+Horseshoe Tavern,lXHw8t6SlpJf2qKiAN7PLA,4.0,263,1,San Francisco,CA,94123,Pubs
+Chestnut Street Coffee Roastery,FCTaVlAbGzKNIA59mX38dg,4.0,289,1,San Francisco,CA,94123,Coffee & Tea
+Los Hermanos Mexican Food,GNc57dU-_JHP-GaHMktqiw,3.5,279,1,San Francisco,CA,94123,Mexican
+Bus Stop,YSKyqlDxFcXehH2RaYD67A,3.5,296,1,San Francisco,CA,94123,Sports Bars
+La Canasta,SrICQysLvs2Ft2uqbY8nxg,3.5,301,1,San Francisco,CA,94123,Mexican
+Marina Lounge,4wIqSoCBGo-VBHv-yqoGGA,4.0,117,1,San Francisco,CA,94123,Lounges
+Mauna Loa Club,DzPKa_2ec8JD81Y7lHtuXg,3.5,245,1,San Francisco,CA,94123,Dive Bars
+Monaghan's Bar,q1roWxUPn_W73lq5dsrsnw,3.5,208,1,San Francisco,CA,94123,Sports Bars
+Viking's Giant Submarines,bgoSfVaZFXDthHLbWxyeQw,4.0,237,1,San Francisco,CA,94123,Sandwiches
+Bay Subs & Deli,Nty8mxwmbRviQmWUKedhfg,4.5,132,1,San Francisco,CA,94115,Sandwiches
+SF Hole In The Wall Pizza,iQwdiPPdfM5JqUPYmHo8Fg,3.5,184,1,San Francisco,CA,94123,Pizza
+Fueling Station,PmIsfHFgjcxY5tWmsZKndA,4.5,109,1,San Francisco,CA,94109,Cafes
+Golden Gate Market Deli & Liquor,jUH5iN_cTh1BsEcMECreZw,4.5,99,1,San Francisco,CA,94123,Delis
+Pizzeria Avellino,YGdCt1nVHcQCCDVCCRmS6A,4.0,293,1,San Francisco,CA,94123,Pizza
+Black Magic Voodoo Lounge,uA6jOVyeAXR8juuNqU_m9A,4.0,160,1,San Francisco,CA,94123,Dive Bars
+Bar None,2DAdvB0JM1UTZXkVvk3_UA,2.5,644,1,San Francisco,CA,94123,Pubs
+Peet's Coffee,LHGSCk3oESgDIY-hnG4Kfg,4.0,88,1,San Francisco,CA,94123,Coffee & Tea
+Starbucks,eD-2M5raT0yHD9mEAmWtWw,3.5,141,1,San Francisco,CA,94123,Coffee & Tea
+Marina Pizza and Caffe,wTJhR3NdvpCB2ZAx_qRiqQ,3.0,234,1,San Francisco,CA,94123,Pizza
+The Final Final,y6pcHVbmjY-WkRIA_ZSj0Q,4.0,216,1,San Francisco,CA,94123,Sports Bars
+Michaelis Food Store,Z1Umjcm-gD49iItsZtY5Fg,4.5,94,1,San Francisco,CA,94109,Grocery
+Hunan Empire,aosv00cXSYlT9FqFnrV2Fw,3.5,113,1,San Francisco,CA,94123,Chinese
+The Buccaneer,h5ZpWq-yKA4TYFjNOD_lOw,4.0,234,1,San Francisco,CA,94109,Dive Bars
+Original Buffalo Wings,KFvymNR6xPbWJPrjtM5tlg,3.0,467,1,San Francisco,CA,94123,Chicken Wings
+Union Street Coffee Roastery,FlX-HcLrnK9gzLh-BDJ7Tg,3.0,150,1,San Francisco,CA,94123,Coffee & Tea
+Extreme Pizza - Marina District,IsaBDwCNmXw7b3HAtZ7F6Q,3.0,247,1,San Francisco,CA,94123,Pizza
+Peet's Coffee,Z5G6Va64QQwYBXNpO74nMw,4.0,155,1,San Francisco,CA,94115,Coffee & Tea
+The Hollow Cow Market,zXPPrqWjmktnrqz5pDpUIQ,4.0,51,1,San Francisco,CA,94123,Delis
+Hai Sun,Re5RjXCeNHf6yruPvArDdA,3.0,137,1,San Francisco,CA,94123,Chinese
+Cresta's Twenty Two Eleven Club,5Ebc8-ecaLuaLDjKnmY7eg,4.0,77,1,San Francisco,CA,94109,Dive Bars
+Greens Sports Bar,6JHpkG7ma5VqX1GDdkxg-g,3.5,240,1,San Francisco,CA,94109,Sports Bars
+The Bagelry,7K8J0BwbhLt7oOSQ6OOQ_A,3.5,240,1,San Francisco,CA,94109,Bagels
+Chestnut Diner,6hi9S4nLmAmk0KYr_EFNCQ,3.5,114,1,San Francisco,CA,94123,Diners
+Cafe Franco,6ynZSdeV_8We1d9gzx93cQ,4.5,55,1,San Francisco,CA,94123,Salad
+First Cup,z6DlLVZXBmLz4wKWLQBAGA,4.0,54,1,San Francisco,CA,94109,Coffee & Tea
+CC's Cocktails,L1TvomMCqqrW9XfzzmXfIg,4.5,29,1,San Francisco,CA,94123,Lounges
+Corsagna Deli,Pwrgh3jVDJyY_6aLQ_5C-g,4.5,39,1,San Francisco,CA,94123,Delis
+Peet's Coffee,3tdkb5CBqIw0FB7fIwGqOQ,4.0,84,1,San Francisco,CA,94109,Coffee & Tea
+Notes From Underground,Dkte2ZWlJdKG2NTSYLF3lQ,4.0,91,1,San Francisco,CA,94109,Coffee & Tea
+Pacific Catch,5xp-qHGhzEzXevsSzYrwkg,4.0,1518,2,San Francisco,CA,94123,Seafood
+Blackwood,UGKNNQ6bjL-ZttHSdZISfA,4.0,1328,2,San Francisco,CA,94123,Thai
+SusieCakes,MKjhQLLVP0udUB6P-rv_Aw,4.0,1052,2,San Francisco,CA,94123,Bakeries
+Gamine,RM1ioN-76NzXDbfv63GhTQ,4.0,875,2,San Francisco,CA,94123,French
+Roam Artisan Burgers,6wUNarxe7sJTriiqLjZHAA,4.0,1482,2,San Francisco,CA,94123,Burgers
+Home Plate,kesgk8dCRyg3qRDYpuAKGg,4.0,912,2,San Francisco,CA,94123,Breakfast & Brunch
+The Italian Homemade Company,FRpULkKmvD9caSKabQzq5w,4.5,694,2,San Francisco,CA,94123,Italian
+Delarosa,QQkroHtwS96-dzMpT4a-DA,4.0,1369,2,San Francisco,CA,94123,Italian
+Alegrias,tkLC24zVhWLCCFQp3NCKMw,4.0,728,2,San Francisco,CA,94123,Spanish
+Rooster & Rice,-Wei8JiA-RBzuSnO_9X0FQ,4.5,383,2,San Francisco,CA,94123,Chicken Shop
+Ace Wasabi  Rock-N-Roll Sushi,NMTWmJKWxJD1flwkn7JIPA,4.0,745,2,San Francisco,CA,94123,Sushi Bars
+Castagna,Ffb9HJIrt4YPFCQIpBg6gw,4.5,345,2,San Francisco,CA,94123,Italian
+Bistro Aix,j1yOqKczaI4czwycWDcspw,4.0,614,2,San Francisco,CA,94123,French
+Brazen Head,0PLv5h5eRTG6fuWLpUmf4A,4.0,648,2,San Francisco,CA,94123,Steakhouses
+Tacolicious,hcGIDuoE0Hn3-XKuICP0mg,3.5,1504,2,San Francisco,CA,94123,Mexican
+Palm House,9nltvO9__dkyRIT17D5TqQ,4.0,643,2,San Francisco,CA,94123,Caribbean
+Blue Barn Gourmet,9Tg6-QXCbL6LribaO5S4Lw,4.0,825,2,San Francisco,CA,94123,Sandwiches
+Super Duper Burgers,CR5_3AHC-CqySDwOrynxWA,4.0,774,2,San Francisco,CA,94123,Burgers
+Chubby Noodle,-D2haB9KuDk9a9OWKFjM0A,4.0,551,2,San Francisco,CA,94123,Noodles
+Tacko,uUWH7T9V0kyu-3nig_gatQ,4.0,670,2,San Francisco,CA,94123,Mexican
+Patxi's Pizza,mMbfBqC3RHiGWGZoY0eWCg,3.5,851,2,San Francisco,CA,94123,Pizza
+Rose's Cafe,KewsTgYKXUPuUU_X1I3O6w,3.5,894,2,San Francisco,CA,94123,Italian
+La Mediterranee,iZ5VBmyFAZyJCt88KLwhJw,4.0,1408,2,San Francisco,CA,94115,Middle Eastern
+Kara's Cupcakes,LD-AEBPmSwaQ1eWf9ZKLcQ,4.0,1217,2,San Francisco,CA,94123,Bakeries
+Nectar Wine Lounge,wr8AESmBkc7-nuQbg191QA,4.0,477,2,San Francisco,CA,94123,Wine Bars
+Causwells,DL-2iaugPoULjvZ6pyNRAQ,4.0,624,2,San Francisco,CA,94123,American (New)
+Ly's Vietnamese Cuisine,t6TROjhvQzXJEhjI_nm08g,4.5,358,2,San Francisco,CA,94123,Vietnamese
+The Plant Café Organic,rR_7mgpw0FmPgrTMJRsmuQ,3.5,928,2,San Francisco,CA,94123,Vegetarian
+Leopold's,sQavxElZ71EGMrQ1zktn8Q,4.5,983,2,San Francisco,CA,94109,German
+The Tipsy Pig,lbH9iQJM4wwgPQI2RL1oPg,3.5,1453,2,San Francisco,CA,94123,Gastropubs
+The Dorian,dglMkHYfCycYX3MX92oFxg,4.0,404,2,San Francisco,CA,94123,American (Traditional)
+Salt & Straw,_5Dzuo9r5vaXsqy8P9AlOQ,4.5,755,2,San Francisco,CA,94115,Ice Cream & Frozen Yogurt
+Ristorante Parma,mf8cgiuuHtO8aDQf1QUXWg,4.0,365,2,San Francisco,CA,94123,Italian
+The Original Ghirardelli Ice Cream & Chocolate Shop,vzBSlQezq2GJkDeqBQxdtw,4.0,2296,2,San Francisco,CA,94109,Ice Cream & Frozen Yogurt
+Flores,tKmqlKWOMMiU8pn0gLliXA,4.0,329,2,San Francisco,CA,94123,Mexican
+MAC'D,jvYlBwqNkkD32Q-4VPLK9Q,4.0,530,2,San Francisco,CA,94123,Comfort Food
+Marengo,jdxZe4JJJRcoeGnG2wtB5g,4.0,307,2,San Francisco,CA,94123,American (Traditional)
+Helmand Palace,ODed3UyqDFIFs3gDcXhm7A,4.5,761,2,San Francisco,CA,94109,Afghan
+Wrecking Ball Coffee Roasters,jdtLZsekui2VR9Xk_0aK1w,4.5,215,2,San Francisco,CA,94123,Coffee Roasteries
+Roma Antica,B09WOy0W83Od-Xw4xEXxog,4.5,248,2,San Francisco,CA,94123,Italian
+Pizzeria Delfina,wPJjpOZ0mnsajJLBkWUnwA,4.0,1418,2,San Francisco,CA,94115,Pizza
+Nabe,8iU_Gr2XdRt9D67g8B6pLA,4.5,143,2,San Francisco,CA,94123,Hot Pot
+Yukol Place Thai Cuisine,Nsi7vy0kCVwlmvn4fgAIOA,4.0,365,2,San Francisco,CA,94123,Thai
+The Brixton,hg0cuVFIqz2C4w6RsAuohA,3.5,782,2,San Francisco,CA,94123,American (New)
+Viva Goa,SAxC2Qim3Zd_GmTRKJOqiQ,4.0,399,2,San Francisco,CA,94123,Indian
+Vegan Picnic,qr9Tgbs4g7sf5azGc0wMuA,4.5,218,2,San Francisco,CA,94123,Vegan
+Balboa Cafe,7ZCuoFL4bmDY0Eh3bIZ2Jw,3.5,568,2,San Francisco,CA,94123,Bars
+Jane on Fillmore,Xc_ZRIqAbNfUb2m54xnRoA,4.0,883,2,San Francisco,CA,94115,Coffee & Tea
+Squat & Gobble,C-FmlwtyYfNJ_47T0xyS1g,3.5,837,2,San Francisco,CA,94123,Creperies
+Lite Bite,3hInKoS_u0FPJMIpbITsHw,4.5,258,2,San Francisco,CA,94123,American (New)
+Isa Restaurant,QINiEjMRGA7pKfvhPQtfBg,4.0,1936,3,San Francisco,CA,94123,French
+House of Prime Rib,oT08T3Vpn1I7jDmrBBRMTw,4.0,6538,3,San Francisco,CA,94109,American (Traditional)
+Zushi Puzzle,u2qFhVAiH3kQIGhEW6PmMA,4.0,1302,3,San Francisco,CA,94123,Sushi Bars
+Terzo,mpuhp2b83qNAKcE19-dSjQ,4.0,588,3,San Francisco,CA,94123,Mediterranean
+Capannina,HWWXRD3KWJRB-WBuXX9RKQ,4.0,783,3,San Francisco,CA,94123,Italian
+Bobo's,yNU6sPRWzVl0ngCRqat1TQ,4.0,1937,3,San Francisco,CA,94123,Steakhouses
+Izzy's San Francisco,ClL-QEflsWyrUA9ybj5vSg,3.5,956,3,San Francisco,CA,94123,Steakhouses
+A16,e3WDNQMYpLdMEmM2UV13rA,3.5,1899,3,San Francisco,CA,94123,Italian
+The MINA Test Kitchen,RNa3UQZiYV6B25J6J5bpSA,4.0,247,3,San Francisco,CA,94123,Pop-Up Restaurants
+Ruth's Chris Steak House,Kxwc8PIKy2JsegNwgBjAtA,4.0,1947,3,San Francisco,CA,94109,Steakhouses
+Maybeck's,bvqcwnYisSiyvaRvobBJLA,4.0,254,3,San Francisco,CA,94123,American (New)
+Cafe Boho,DP2HJpQ0lOrrY8efqB69aA,4.5,67,3,San Francisco,CA,94123,American (New)
+Rapha - San Francisco,K8EcFpeCVOOJNYlWE6gMcQ,4.0,98,3,San Francisco,CA,94123,Sports Wear
+Matterhorn Restaurant,av8vitp4twNYvUi4Ox0pGw,3.5,333,3,San Francisco,CA,94109,Fondue
+McCormick & Kuleto's Seafood & Steaks,afBjDUDJ29UEz96uZD27mA,3.0,1113,3,San Francisco,CA,94109,Seafood
+Chotto,W3Ap2qzSXJ9S0S_Mrjv2CA,4.0,589,3,San Francisco,CA,94123,Japanese
+Parigo,jRo4f2JpghFZE46SDU4jfQ,4.5,40,3,San Francisco,CA,94123,Wine Bars
+Bobo's Burger Bar,4QkR4-SkwuhocxGCn0bs5A,4.0,93,3,San Francisco,CA,94123,Burgers
+Greens Restaurant,XgYC_Yj1OjghUZu15yOeaQ,4.0,1912,3,San Francisco,CA,94123,Vegetarian
+Del Mar,3n0-csvHD2pubPooUrHqUw,4.0,30,3,San Francisco,CA,94123,Dance Clubs
+Vino Teca,VxAdoIGlwAl1285TcLFxUA,2.5,14,3,San Francisco,CA,94123,Italian
+Chez boudin,vowG_LE2OmsO6T5_U4nPNg,3.0,3,3,San Francisco,CA,94109,Bakeries
+Gary Danko,WavvLdfdP6g8aZTtbBQHTw,4.5,4944,4,San Francisco,CA,94109,American (New)
+Atelier Crenn,c3khi7kxBaA2ATUuMjtMZA,4.5,639,4,San Francisco,CA,94123,French
+La Folie,eSixRz7xcwtFdeh9hN5TyQ,4.5,1417,4,San Francisco,CA,94109,French
+Harris' Restaurant,FqYg7BcsryLFiUTknxpQpw,4.0,1720,4,San Francisco,CA,94109,Steakhouses
+Acquerello,mDM7-ho67ePJXd5TodtCOg,4.5,1029,4,San Francisco,CA,94109,Italian
+Spruce,ZfMLpV7p3EvRv3Idpx89sQ,4.0,1782,4,San Francisco,CA,94118,American (Traditional)
+Kiss Seafood,USbpXRK2pFey0V24QcgXsQ,4.0,525,4,San Francisco,CA,94115,Japanese
+The Progress,CS0pUlk25RV2-vhKFFbxqA,4.0,727,4,San Francisco,CA,94115,American (New)
+Hinata,yD9-WrXijc_grVmi_zkCfQ,4.5,326,4,San Francisco,CA,94109,Sushi Bars
+Keiko à Nob Hill,6ZNlnA733Rv0I9Mq5_yO0A,4.5,373,4,San Francisco,CA,94109,Japanese
+Farallon,4raSXRuvBH1CHawSsuJiBA,4.0,1511,4,San Francisco,CA,94102,Seafood
+Sons & Daughters,GoIbbBYDyr8W46YmxJct-g,4.0,624,4,San Francisco,CA,94108,American (New)
+Osso Steakhouse,9-TPmOn6AbW2fLMiugQCiA,4.0,649,4,San Francisco,CA,94108,Steakhouses
+Bar Crenn,1P8K-4e333xzfb8rBEkUog,4.0,42,4,San Francisco,CA,94123,Wine Bars
+OzaOza,Y96P7pYNYya_bP-Ogun-0w,4.5,81,4,San Francisco,CA,94115,Japanese
+An Japanese Restaurant,zWpV3kVw1CO9Fb3JroQpqw,4.5,116,4,San Francisco,CA,94115,Sushi Bars
+Robin,_CY0LgS5OOBhImGNeWwHWg,4.0,231,4,San Francisco,CA,94102,Sushi Bars
+Kinjo,OlgHnpdim58vWkjuh3rVcw,4.0,76,4,San Francisco,CA,94109,Japanese
+Birdsong,XVPiXV_TPivnr9szB5kc-A,4.5,77,4,San Francisco,CA,94103,American (New)
+RTB Fillmore,Tf6Yv0vD8OMiXI1v9jdQsg,4.0,51,4,San Francisco,CA,94115,American (New)
+AVERY,auXdl2WBTohNUH2_37Jyag,4.0,39,4,San Francisco,CA,94115,American (New)
+Starbucks,0JALmnz7zGgUPE7gU5JXhA,3.5,11,4,San Francisco,CA,94115,Coffee & Tea
+Club Mari's,xXqkC4OEiCcwvketTvFULQ,2.5,16,4,San Francisco,CA,94115,Bars
+Benkyodo Co,0100LAmvjZPFjEPswwrDBQ,4.5,889,1,San Francisco,CA,94115,Bakeries
+Sophie's Crepes,cegatrLOnlyeSgDpYOua2g,4.0,1631,1,San Francisco,CA,94115,Desserts
+Belly Good Cafe & Crepes,V6L23CJAM9cm0zzWAhSwVA,4.5,1220,1,San Francisco,CA,94115,Ice Cream & Frozen Yogurt
+"La Boulangerie de San Francisco, Pine",tQE4SPlX9ZlFSbF4JPU4pg,4.5,724,1,San Francisco,CA,94115,Bakeries
+The Cheese Steak Shop,RJjuozKTsgwPNa429tnxbg,4.0,847,1,San Francisco,CA,94115,Sandwiches
+Miyako Old Fashioned Ice Cream,L3_71hwGHkr38nZ2daksuA,4.5,305,1,San Francisco,CA,94118,Ice Cream & Frozen Yogurt
+Matcha Cafe Maiko,sSiUcnbwPQ4ssHY3EMV0Fw,4.5,441,1,San Francisco,CA,94115,Coffee & Tea
+El Burrito Express,CS6NaMbTlzD-9yc3DBBrKw,4.0,665,1,San Francisco,CA,94115,Mexican
+Cafe Murano,Q9KeURmTqRFLKb_3Dxq6Jw,4.0,274,1,San Francisco,CA,94115,Coffee & Tea
+Boba Guys,168JCbfPASa30FoHZZaIEg,4.0,445,1,San Francisco,CA,94115,Cafes
+Uji Time Dessert,-yFZPqNV3XGwMzfadm9l6A,4.0,582,1,San Francisco,CA,94115,Desserts
+Smitten Ice Cream,mMiOVbGovegeBg-6YyqDxA,4.0,2344,1,San Francisco,CA,94102,Ice Cream & Frozen Yogurt
+Bun Mee,_KtkAiwyxHbkn9O6yEMvjA,3.5,867,1,San Francisco,CA,94115,Vietnamese
+Yum Yum Hunan,BpFYTc8r8S1FHfBoCyxRSg,3.5,470,1,San Francisco,CA,94115,Chinese
+Cool Cravings,U1UGWvpNxPAlojTpe1LSvA,4.5,101,1,San Francisco,CA,94115,Cafes
+Kissako Tea,KKD4YiUXJ__ihFgUCJdo6Q,4.0,242,1,San Francisco,CA,94115,Coffee & Tea
+Tea Hut,AdABvu7gwwRjZKzVLQeDOQ,4.0,138,1,San Francisco,CA,94115,Bubble Tea
+The City Taqueria,imfAj62Nm0f7y0Cj_sbjsQ,3.5,295,1,San Francisco,CA,94115,Mexican
+Opa,tdE4ppqlvjDQ9_qWoNQ5ZA,4.0,199,1,San Francisco,CA,94115,Sandwiches
+Eddie's Cafe,V6JS0EaR0Gq_SSDllaOqKw,4.0,587,1,San Francisco,CA,94117,Soul Food
+Bay Subs & Deli,Nty8mxwmbRviQmWUKedhfg,4.5,132,1,San Francisco,CA,94115,Sandwiches
+Kung Food,f7plDqr6Dfu-Vbo-0JBmcw,4.0,395,1,San Francisco,CA,94115,Chinese
+Aube Creamery,NFqGrGplvgaOgqryMFBpNw,4.0,116,1,San Francisco,CA,94115,Desserts
+Andersen Bakery,FTir7qcSlmO3il2rSi0urQ,3.5,237,1,San Francisco,CA,94115,Bakeries
+Folklores Coffee Traders,aF682DEnmO6TBQdLb_dHwg,5.0,82,1,San Francisco,CA,94115,Coffee & Tea
+Pete's Deli & Cafe,e3d-jYxVx7YLTxQ2CEmb0g,4.0,153,1,San Francisco,CA,94115,Delis
+Loving Cup,_HlW-c1QD_CtGRK0cRo5SQ,4.0,397,1,San Francisco,CA,94102,Ice Cream & Frozen Yogurt
+Tony's Cable Car Restaurant,LOnMdHbYlpkRy0T2lf28fw,3.5,379,1,San Francisco,CA,94115,Burgers
+Ro Cafe,FH3uN3U_N7xbFQRI-DAJFg,4.5,109,1,San Francisco,CA,94118,Cafes
+Peet's Coffee,Z5G6Va64QQwYBXNpO74nMw,4.0,155,1,San Francisco,CA,94115,Coffee & Tea
+El Rancho Grande,VKPA24jl5g19ESyA9tN8Vw,4.0,307,1,San Francisco,CA,94117,Mexican
+The Fishbowl Bar & Grill,qMoaAv2WUAybwx-bOxCc5w,3.5,258,1,San Francisco,CA,94115,Pubs
+Fillmore Street Cafe,LP-1AKyY6tFkUvmd1p11-Q,4.0,147,1,San Francisco,CA,94115,Coffee & Tea
+Café Hana,yOxYyv_NKOXcdyfgvpPKSQ,3.5,182,1,San Francisco,CA,94115,Coffee & Tea
+MoYo's Froyo,pGtYO6HNIJ3VrBsmRqEgSg,3.5,120,1,San Francisco,CA,94115,Ice Cream & Frozen Yogurt
+Cafe La Vie,_DIGnA73a966BV02ekLKhg,4.0,276,1,San Francisco,CA,94102,Coffee & Tea
+Boba Guys,g2ckHUzTfnsFR_pW0Ism7g,4.5,55,1,San Francisco,CA,94117,Bubble Tea
+Tan Tan Coffee Shop,Dq4nwjdpoA1xqmPguJwf6w,4.0,61,1,San Francisco,CA,94115,Coffee & Tea
+Double Decker,2qv3jQh4qTwgvYuTMBUrHw,3.5,402,1,San Francisco,CA,94102,Burgers
+Chocolate Chair,dwccEjnsEmuDaAxY3d4JRw,2.5,322,1,San Francisco,CA,94115,Desserts
+Starbucks,TTE4bhJAxT7VoItXHxuVRw,3.0,88,1,San Francisco,CA,94115,Coffee & Tea
+Starbucks,aI8ZuaVOMPJLHDirI_CrNw,4.0,26,1,San Francisco,CA,94115,Coffee & Tea
+New King Lee's Chinese,AbwerL-FpnxEFgCGLHeEQA,3.0,132,1,San Francisco,CA,94115,Chinese
+Andy Goldsworthy's Wood Line,xJOwskhsT9QOPIphj_o7lA,4.5,32,1,San Francisco,CA,94129,Hiking
+Sunday Bird,1nYJIXhpe2oLQwexFGdxWQ,3.5,51,1,San Francisco,CA,94115,Korean
+Ben Wah,zP4uciQqdVGZVf72HttgJA,3.0,82,1,San Francisco,CA,94115,Chinese
+Starbucks,zXRXuOL92IweSEymGQ5lbw,3.0,89,1,San Francisco,CA,94115,Coffee & Tea
+Buchanan Market & Deli,forDwo-xvl7SlYzu9kL9CQ,4.0,28,1,San Francisco,CA,94115,Grocery
+Cumaica,DkwnDuQ295aH-InHJFsVNw,3.0,81,1,San Francisco,CA,94115,Coffee & Tea
+Grove Street Market,w8BHtKaXLKXJwn8p0RShGw,4.5,35,1,San Francisco,CA,94102,Grocery
+Sweet Maple,-DrR38H1Abk0wCyu9XOLug,4.0,3057,2,San Francisco,CA,94115,American (Traditional)
+B Patisserie,2XQm-uFcTS7oc8MFP-8olA,4.5,2120,2,San Francisco,CA,94115,Bakeries
+Marufuku Ramen SF,HHtpR0RslupSQ99GIIwW5A,4.5,1511,2,San Francisco,CA,94115,Ramen
+Woodhouse Fish Company,PFk6k_hEGG0n6_FAJSm9EQ,4.0,2068,2,San Francisco,CA,94115,Seafood
+Little Star Pizza,__I9HmtBMV4dDkEgT22V4g,4.5,2760,2,San Francisco,CA,94117,Pizza
+La Mediterranee,iZ5VBmyFAZyJCt88KLwhJw,4.0,1408,2,San Francisco,CA,94115,Middle Eastern
+Roam Artisan Burgers,4eaK2-Q0dEXWMr5SOoV_Sg,4.0,1081,2,San Francisco,CA,94115,Burgers
+Pizzeria Delfina,wPJjpOZ0mnsajJLBkWUnwA,4.0,1418,2,San Francisco,CA,94115,Pizza
+Tataki,r2jiJk3yivcLkWSSYELGcA,4.0,1189,2,San Francisco,CA,94115,Sushi Bars
+Salt & Straw,_5Dzuo9r5vaXsqy8P9AlOQ,4.5,755,2,San Francisco,CA,94115,Ice Cream & Frozen Yogurt
+Fat Angel,W0mlelgnkSPU3ELhyzkXHA,4.0,803,2,San Francisco,CA,94115,Wine Bars
+Jane on Fillmore,Xc_ZRIqAbNfUb2m54xnRoA,4.0,883,2,San Francisco,CA,94115,Coffee & Tea
+Yasukochi's Sweet Stop,EfkCyCaKoUFVdkRoi2prMw,4.5,506,2,San Francisco,CA,94115,Bakeries
+Fillmore Bakeshop,9OKUEFQiWLntDYhpwCaJcg,4.0,485,2,San Francisco,CA,94115,Desserts
+Sift Dessert Bar,R69dsC7QTTf-XwTDJawMHQ,4.0,644,2,San Francisco,CA,94115,Desserts
+The Grove Fillmore,ugXtAA14p4EoD42zMaF1Xw,3.5,1463,2,San Francisco,CA,94115,Sandwiches
+Hinodeya Ramen Bar,Fe-YjAdSRLqDC2H_pqPcSw,4.0,715,2,San Francisco,CA,94115,Ramen
+Suppenküche,DGyoVB9PdI9_jw0CNi_OPg,4.0,3000,2,San Francisco,CA,94102,German
+Izakaya KOU,PiY8Ks8KWlIcAvqNdMjvBA,4.0,678,2,San Francisco,CA,94115,Tapas/Small Plates
+The Social Study,fQdVnPck_6cOOxO36hweeA,4.0,420,2,San Francisco,CA,94115,Wine Bars
+Brenda's Meat & Three,UbKrcsBaZoaBkBOajEX08g,4.0,837,2,San Francisco,CA,94115,Soul Food
+The Elite Cafe,NhvqEIpcLbwFhW1cEVSzoA,3.5,1222,2,San Francisco,CA,94115,Cajun/Creole
+Sweet Lime Thai Cuisine,Ldq4XfNsXM-ciulyDUlMmw,4.0,429,2,San Francisco,CA,94115,Thai
+Jitlada Thai Cuisine,DhxBcPJr1igtHNqDyvJ_lA,4.0,583,2,San Francisco,CA,94115,Thai
+Curbside Cafe,eL1aKZx9bplkBesYcGJ11w,3.5,673,2,San Francisco,CA,94115,Breakfast & Brunch
+Sheba Piano Lounge,TDG3DA5JtG3fdt4tqYJ94g,4.0,555,2,San Francisco,CA,94115,Ethiopian
+Suzu Noodle House,gPUXFQkf4koX8CmWJR7wMg,3.5,1402,2,San Francisco,CA,94115,Noodles
+Out The Door,L5IUpy5mivDyUuwgKcLh7g,3.5,649,2,San Francisco,CA,94115,Vietnamese
+Crown & Crumpet Tea Stop Cafe,pv5-sxnpf1K0nGfuUWtD1g,4.0,538,2,San Francisco,CA,94115,Tea Rooms
+Glaze Teriyaki,rf39v0UmaNk1SZZ9HuZ3hA,4.0,421,2,San Francisco,CA,94115,Japanese
+Pa'ina Lounge & Restaurant,_zfxJqH3XZ65X8sNYVKGqg,4.0,467,2,San Francisco,CA,94115,Hawaiian
+Playground,OEFXVT17JxEPgHtusrw1Mg,3.5,755,2,San Francisco,CA,94115,Korean
+On the Bridge,pLZFRsn8HjVzcITHqa8Yfw,3.5,1022,2,San Francisco,CA,94115,Japanese Curry
+Troya,o4x29HYKvEUf7Regrn-J9g,4.0,467,2,San Francisco,CA,94115,Mediterranean
+Waraku,IdqBJvRIA0YPwLZaoUNM0w,3.5,762,2,San Francisco,CA,94115,Ramen
+YakiniQ Cafe,rCpCBeWQ8NNI_q6kq6JlQQ,4.0,620,2,San Francisco,CA,94115,Bakeries
+Philmore Creamery,DicCVq8FwpfT9lD40B_sxg,5.0,98,2,San Francisco,CA,94115,Gelato
+Bumblebee Bakeshop,PcQ-jUJPWhld7UjSY9MuEQ,4.5,79,2,San Francisco,CA,94115,Bakeries
+Tanpopo,ld0mW_4EUFVK-izi5mD3GA,3.5,1354,2,San Francisco,CA,94115,Ramen
+Udon Mugizo,vth2jtXfVUCRJeIP680CyA,3.5,587,2,San Francisco,CA,94115,Japanese
+Dino & Santino's,dnwHftnwHH7rbHygjxmqwQ,3.5,610,2,San Francisco,CA,94115,Pizza
+Arang Restaurant,_CBWlkmYGYRwQFxpWwxEDg,3.5,584,2,San Francisco,CA,94115,Korean
+Royal Indian Cuisine on Fillmore,8-zW9T7u9L-TDVfJyLMOZw,4.5,191,2,San Francisco,CA,94115,Indian
+Smitten Ice Cream,EOkEoUwjJzc2hB5ny6_oXA,4.0,261,2,San Francisco,CA,94115,Ice Cream & Frozen Yogurt
+Scopo Divino,2k5yh0ZG2uc0ZDYNcNvXsw,4.5,166,2,San Francisco,CA,94115,Wine Bars
+Kui Shin Bo,zj09K037XrZ_51Yh5qsIAw,3.5,649,2,San Francisco,CA,94115,Japanese
+Ramen Yamadaya,I-XRpTAcFxCmNZ3ve04Dvw,3.5,1198,2,San Francisco,CA,94115,Ramen
+Jane The Bakery,Yb7cibCAku1zztMjiGuQHw,4.0,187,2,San Francisco,CA,94115,Bakeries
+The Mill,-NbDKVqG170J19MqSQ5q_A,4.0,1007,2,San Francisco,CA,94117,Coffee & Tea
+Nippon-Ya,31h9x2wqW_WRJ8t2E5HObQ,4.5,173,2,San Francisco,CA,94115,Candy Stores
+State Bird Provisions,QZQGRJZ4bZCmNoXjs3z1XQ,4.0,2477,3,San Francisco,CA,94115,Tapas/Small Plates
+DOSA on Fillmore,U1TgSEKZwgdTftTOxCtFOQ,4.0,2780,3,San Francisco,CA,94115,Indian
+SPQR,uEucSd4jwY_zb10AcEye_g,3.5,1862,3,San Francisco,CA,94115,Italian
+Song Tea & Ceramics,6YSoN27f_p4ExWIX3j2X5g,5.0,57,3,San Francisco,CA,94115,Coffee & Tea
+Octavia,8aqzfjnuT5LhuveW3e6CoA,4.0,448,3,San Francisco,CA,94109,American (New)
+Garibaldi's,p6bLw7PS63Kbge_wyIOP8w,4.0,519,3,San Francisco,CA,94115,American (New)
+Florio Bar & Cafe,xZIar7Wc8YCUiAz7S_0Gdg,3.5,305,3,San Francisco,CA,94115,French
+Benihana,9jciOppXj7bEOtLyL3I2HQ,3.0,1061,3,San Francisco,CA,94115,Teppanyaki
+Tsunami Panhandle,NBdAqG4Kdqy0BrCrWa0xUg,3.5,840,3,San Francisco,CA,94117,Sushi Bars
+Gardenias,M4hrvI7_NwJ9igOgQBsCiw,4.0,103,3,San Francisco,CA,94115,American (New)
+Sorrel,JoU4A0wItwpBr1s-pyiCxg,4.5,111,3,San Francisco,CA,94107,American (New)
+Che Fico,rbOIWC-Wx5qIHgFebtAQqA,4.0,223,3,San Francisco,CA,94117,Italian
+The Progress,CS0pUlk25RV2-vhKFFbxqA,4.0,727,4,San Francisco,CA,94115,American (New)
+Kiss Seafood,USbpXRK2pFey0V24QcgXsQ,4.0,525,4,San Francisco,CA,94115,Japanese
+OzaOza,Y96P7pYNYya_bP-Ogun-0w,4.5,81,4,San Francisco,CA,94115,Japanese
+jū-ni,OcRSAkpOhnWHjV7X0FoM5Q,4.5,225,4,San Francisco,CA,94117,Japanese
+An Japanese Restaurant,zWpV3kVw1CO9Fb3JroQpqw,4.5,116,4,San Francisco,CA,94115,Sushi Bars
+RTB Fillmore,Tf6Yv0vD8OMiXI1v9jdQsg,4.0,51,4,San Francisco,CA,94115,American (New)
+Petit Crenn,kiRsScNQs_UdDV6jPyeCWg,4.0,330,4,San Francisco,CA,94102,French
+AVERY,auXdl2WBTohNUH2_37Jyag,4.0,39,4,San Francisco,CA,94115,American (New)
+Starbucks,0JALmnz7zGgUPE7gU5JXhA,3.5,11,4,San Francisco,CA,94115,Coffee & Tea
+Club Mari's,xXqkC4OEiCcwvketTvFULQ,2.5,16,4,San Francisco,CA,94115,Bars
+Bi-Rite Creamery,wGl_DyNxSv8KUtYgiuLhmA,4.5,9349,1,San Francisco,CA,94110,Ice Cream & Frozen Yogurt
+Philz Coffee,wsPDEO08w_lH0x123_YEXg,4.5,1036,1,San Francisco,CA,94114,Coffee & Tea
+Mitchell's Ice Cream,76smcUUGRvq3k1MVPUXbnA,4.5,3708,1,San Francisco,CA,94110,Ice Cream & Frozen Yogurt
+El Farolito,SGRmnarrNuVEsAjYdEoA0w,4.0,4504,1,San Francisco,CA,94110,Mexican
+Hot Cookie,qZFRnzb-VTfkMC2vDoWJVA,4.0,1383,1,San Francisco,CA,94114,Bakeries
+La Taqueria,JARsJVKLPgs_yC3cwDnp7g,4.0,3588,1,San Francisco,CA,94110,Mexican
+Anthony's Cookies,PrlH7YcQ22m9DyuWbxJjMA,4.5,1599,1,San Francisco,CA,94110,Bakeries
+Garden Creamery,OvBC83vOK6vRw175vHiArg,4.5,607,1,San Francisco,CA,94110,Ice Cream & Frozen Yogurt
+Humphry Slocombe Ice Cream,47OC_X6KkiDDQ4jwoCUjFg,4.0,3298,1,San Francisco,CA,94110,Ice Cream & Frozen Yogurt
+Philz Coffee,akXf1BdFZjQb2fO8Ca7FtA,4.5,1626,1,San Francisco,CA,94110,Coffee & Tea
+Thorough Bread & Pastry,MTIqLOBdISaon4G22qb5Lg,4.5,789,1,San Francisco,CA,94114,Patisserie/Cake Shop
+Rosamunde Sausage Grill - San Francisco,g9LSMqUK5dkUcmpgTnU-dQ,4.5,1550,1,San Francisco,CA,94117,Hot Dogs
+Super Duper Burgers,hXeusGZQvH5oMxaR6XgYwA,4.0,1201,1,San Francisco,CA,94114,Burgers
+Taqueria Cancún,g0VCHer2uE5NLOEdblZuSw,4.0,1939,1,San Francisco,CA,94110,Mexican
+Dinosaurs,yC5ATYRQah7MjeTiRsGcvA,4.0,852,1,San Francisco,CA,94114,Vietnamese
+Four Barrel Coffee,E8RJkjfdcwgtyoPMjQ_Olg,4.0,2020,1,San Francisco,CA,94103,Coffee & Tea
+Pancho Villa Taqueria,UjjNgzBFAVXF3iVXPVjH_Q,4.0,2367,1,San Francisco,CA,94103,Mexican
+Kasa Indian Eatery,Pvr9hnB4RP54crj4gdTUag,3.5,1056,1,San Francisco,CA,94114,Indian
+Pakwan Restaurant - 16th Street,zf62D_W7iGzgdV6U_CeApQ,4.0,1632,1,San Francisco,CA,94103,Indian
+Truly Mediterranean,0QydZwQebF1b36i9OwHppA,4.0,1138,1,San Francisco,CA,94103,Mediterranean
+Boba Guys,18TtLS_JtiS2OH30FLqNrw,4.0,1331,1,San Francisco,CA,94110,Bubble Tea
+Mission Pie,YV9PYdUD0O4sLDz1DUk0Gw,4.0,1688,1,San Francisco,CA,94110,Bakeries
+Yamo,D1-_5ff4aic1-7rLqzUd4g,3.5,1877,1,San Francisco,CA,94110,Burmese
+Smitten Ice Cream,mMiOVbGovegeBg-6YyqDxA,4.0,2344,1,San Francisco,CA,94102,Ice Cream & Frozen Yogurt
+Marcello's Pizza,AQviX2W0XXJqYtc73KaNxQ,4.0,662,1,San Francisco,CA,94114,Pizza
+Réveille Coffee Co.,FaT8F0_7su4exwvKJ8ULPw,4.0,375,1,San Francisco,CA,94114,Coffee & Tea
+El Castillito,1ULAxKR5_7RWzQ4CRJD1hg,4.0,795,1,San Francisco,CA,94114,Mexican
+Rhea's Deli & Market,humRe1SGupNdDJUxEdDmMg,4.0,578,1,San Francisco,CA,94110,Delis
+Toronado,hRx9n9PJ7FLmoi9GwoFg3g,4.0,1740,1,San Francisco,CA,94117,Dive Bars
+Spike's Coffees & Teas,2hR4tWOCcz88HFYB4U3FkA,4.5,197,1,San Francisco,CA,94114,Coffee & Tea
+Arinell Pizza,QjnmVuqVArA7d-syiUCiUw,4.0,1092,1,San Francisco,CA,94110,Pizza
+Arizmendi Bakery,_2_1FQO_DGzeCTky0x9DQA,4.5,554,1,San Francisco,CA,94110,Bakeries
+Palmyra,ZD5-5Gu44WrcsYtw7qMgiw,4.0,797,1,San Francisco,CA,94117,Mediterranean
+Lucky 13,7rs_PZ3yO9ZrVVSyx3bB0g,4.0,659,1,San Francisco,CA,94114,Dive Bars
+Castro Coffee Company,5oNzSLvDDUyDIHCI4asntA,4.5,199,1,San Francisco,CA,94114,Coffee & Tea
+Zeitgeist,UXru0FThfONxJQ95oPnaBw,3.5,2616,1,San Francisco,CA,94103,Dive Bars
+Phat Philly,UU10C7_zKoZZzAvOvz96oQ,4.0,987,1,San Francisco,CA,94110,Sandwiches
+Five Star Truffles Co.,gMqVjmNcdU7K6k6OI1Fj1A,4.5,183,1,San Francisco,CA,94114,Coffee & Tea
+Philz Coffee,cnjPZ4eI2lHTHIPlbHk9HQ,4.5,301,1,San Francisco,CA,94114,Coffee & Tea
+Taqueria el Buen Sabor,o9KZAEgORSys5J4oqiGtEg,4.0,548,1,San Francisco,CA,94110,Mexican
+Castro Tarts,ExM3wD4Sn1LXsrBM5LXK0w,4.0,260,1,San Francisco,CA,94114,Vietnamese
+Basa Seafood Express,imHjAJ9uuUK_PNkzT9kCag,4.5,560,1,San Francisco,CA,94110,Seafood
+Little Heaven,MQv3nVGFKOVb8iFO9oc1IA,4.5,202,1,San Francisco,CA,94110,Creperies
+Turner's Kitchen,oxIccYsvTXBOxWvK9GdTsA,4.5,274,1,San Francisco,CA,94110,Sandwiches
+Bernie's,E4FkDzb2W1kKGiBT6df4hg,4.5,308,1,San Francisco,CA,94114,Coffee & Tea
+Dynamo Donut & Coffee,I0UVBT1-k0LqUICRLr9l5A,4.0,1807,1,San Francisco,CA,94110,Coffee & Tea
+Coffee Bar,5a0deGsSdIP6gXl_On1kCw,4.0,1057,1,San Francisco,CA,94110,Coffee & Tea
+El Metate Restaurant,2y2lTn53XJCGFh8lkXJ8OA,4.0,1065,1,San Francisco,CA,94110,Mexican
+Balompie Cafe,48jDL_PmclHPRW9txNrSDw,4.0,616,1,San Francisco,CA,94110,Salvadoran
+Butter,SEZpdigGSqVNWnyANNIMeA,4.0,1145,1,San Francisco,CA,94103,Dive Bars
+Tartine Bakery & Cafe,ri7UUYmx21AgSpRsf4-9QA,4.0,7383,2,San Francisco,CA,94110,Bakeries
+Kitchen Story,XQLmEdXoMzOpffwoFaBtaQ,4.0,2657,2,San Francisco,CA,94114,Breakfast & Brunch
+Zazie,gqVl3RprESEqkIPeJH0yOg,4.0,4040,2,San Francisco,CA,94117,Breakfast & Brunch
+Pizzeria Delfina - San Francisco,bai6umLcCNy9cXql0Js2RQ,4.0,2228,2,San Francisco,CA,94110,Pizza
+Beretta,4KfQnlcSu4bbTqnvGdGptw,4.0,3329,2,San Francisco,CA,94110,Italian
+Loló,1hMD7RQogPDWpE-p3LKjXA,4.0,1889,2,San Francisco,CA,94110,Tapas/Small Plates
+Mission Beach Cafe,_2EHMIdoYeWgsuAiWydjYQ,4.0,2574,2,San Francisco,CA,94103,Coffee & Tea
+Limón Rotisserie,r7RwvYMwxDuK3u26fHbYDA,4.0,2988,2,San Francisco,CA,94110,Latin American
+Craftsman and Wolves,AfqpSxetSUMc63ZPCfbneg,4.0,1398,2,San Francisco,CA,94110,Bakeries
+Starbelly,J7_-faNq_Ag9qTOlDn81Pw,4.0,1640,2,San Francisco,CA,94114,Comfort Food
+Little Star Pizza,OoyK7MyuPtKOQAXmEmyM5g,4.0,1950,2,San Francisco,CA,94103,Pizza
+Shizen Vegan Sushi Bar & Izakaya,CYttYTEiQuhSfo3SEh79fA,4.5,1177,2,San Francisco,CA,94103,Sushi Bars
+Little Star Pizza,__I9HmtBMV4dDkEgT22V4g,4.5,2760,2,San Francisco,CA,94117,Pizza
+The Monk's Kettle,g2ktKLz4rNTi8T5WUEUYuw,4.0,2079,2,San Francisco,CA,94103,Bars
+Woodhouse Fish,fGj7q3Qro-Efk7t-IVnpXQ,4.0,1575,2,San Francisco,CA,94114,Seafood
+Eiji,-zetzVfO4X0dpiiTmjdeKg,4.0,1039,2,San Francisco,CA,94114,Sushi Bars
+DOSA on Valencia,yYhMl5jjJRU92BhAGZACfw,4.0,2207,2,San Francisco,CA,94110,Indian
+Lovejoy's Tea Room,s-ihKanDRDHTD8U49HFA5Q,4.5,1119,2,San Francisco,CA,94114,British
+Gracias Madre,rwiL8C8989DlHMD88bxi3A,4.0,2912,2,San Francisco,CA,94110,Vegan
+Tuba Authentic Turkish Restaurant,bH8FgQYhxkj5qQ4wL7vPFA,4.5,914,2,San Francisco,CA,94110,Mediterranean
+Suppenküche,DGyoVB9PdI9_jw0CNi_OPg,4.0,3000,2,San Francisco,CA,94102,German
+Griddle Fresh,3sGEIoyXkMmc1YX1TYkSMg,4.0,906,2,San Francisco,CA,94114,Breakfast & Brunch
+Chow,oRvgzZeQ2nsTzi5Tq4efYQ,4.0,1914,2,San Francisco,CA,94114,American (Traditional)
+Sushi Time,OzFb5aZuA3RGV_YZlxorNg,4.0,695,2,San Francisco,CA,94114,Japanese
+Urban Putt,fPYCsVL3s0vM13jJeOWAig,4.5,1194,2,San Francisco,CA,94110,Mini Golf
+Limón Rotisserie,chWLsfWUJ5k8-73t9FOM9A,3.5,2350,2,San Francisco,CA,94110,Latin American
+El Techo,HECB3khkUffaD2zWCngLuw,4.0,1539,2,San Francisco,CA,94110,Latin American
+Ritual Coffee Roasters,VOoHZDC-dgDUzTSsmgESOQ,4.0,1852,2,San Francisco,CA,94110,Coffee & Tea
+Blue Bottle Coffee,EFefgQdk_19WxQXvVtwEog,4.5,1651,2,San Francisco,CA,94102,Coffee & Tea
+Canela Bistro & Wine Bar,zK9-A4cIZwOUMpGBDz25DA,4.0,574,2,San Francisco,CA,94114,Spanish
+Cha-Ya,29lhGyTOtiWGkLCWDJZZFg,4.0,1125,2,San Francisco,CA,94110,Japanese
+Eureka Restaurant & Lounge,L2Iy2Wp7ClrVCfSUrfZDMw,4.0,591,2,San Francisco,CA,94114,American (New)
+Papalote Mexican Grill,jwb3vTh8rn3OsN9wlI56-Q,3.5,2151,2,San Francisco,CA,94110,Mexican
+The Ice Cream Bar,s3Vi_0iue-hIRJ7O78JzRQ,4.0,1259,2,San Francisco,CA,94117,Ice Cream & Frozen Yogurt
+Mozzeria,chZfJOs022rr8DufI4r3Uw,4.0,664,2,San Francisco,CA,94103,Pizza
+Udupi Palace,8ZmEszI4ZMncK9kuJYQjuA,4.0,1260,2,San Francisco,CA,94110,Indian
+Sushi Zone,M175LTlKPJjAWREIUPyMGg,4.0,1022,2,San Francisco,CA,94103,Sushi Bars
+Cha Cha Cha,kOYj2sGMZnyC1lU-_Uw5fA,4.0,3096,2,San Francisco,CA,94117,Caribbean
+Farmhouse Kitchen Thai Cuisine,8kck3-K4zYKTJbJko0JlXQ,4.0,1473,2,San Francisco,CA,94110,Thai
+Picaro,KRcMsXmeILmC8OXmcXOQgA,4.0,1408,2,San Francisco,CA,94103,Spanish
+Blackbird,Cs5DX-6syMfiJ1rACSRDVQ,4.0,669,2,San Francisco,CA,94114,Bars
+Noe Valley Bakery,oHuPyoGY7nhCQeprHCv21g,4.0,691,2,San Francisco,CA,94114,Bakeries
+Fable,reXWH9Wo0ZTOuQsTMNOSxg,4.0,418,2,San Francisco,CA,94114,American (New)
+The Front Porch,wxzx3duu1c0CcomzEOvfOQ,4.0,2573,2,San Francisco,CA,94110,Southern
+Chantal Guillon Macarons,TfvirefqknwFZGCGYvHFgw,4.5,990,2,San Francisco,CA,94102,Desserts
+The Little Chihuahua,7rUZnmRVyCpq4TrB9Brsiw,4.0,1400,2,San Francisco,CA,94117,Mexican
+Pica Pica Arepa Kitchen,_Iupdt0IslH_jU8zkKcWLA,4.0,1351,2,San Francisco,CA,94103,Gluten-Free
+U :Dessert Story,aVskw5NKrs7ibAQ54E_bZw,4.0,371,2,San Francisco,CA,94114,Desserts
+Lupa Trattoria,0COxcLD-42ecMqBYyoUfyQ,4.0,600,2,San Francisco,CA,94114,Italian
+Aslam's Rasoi,XANvY_2W7MR6YTyR8CGzWQ,4.0,864,2,San Francisco,CA,94110,Indian
+Anchor Oyster Bar,ZDvIMjJ-7I0561ckM4pAeA,4.5,1377,3,San Francisco,CA,94114,Seafood
+Frances,dMlsQsPU8Y_oiPYC5hHi2A,4.5,1425,3,San Francisco,CA,94114,American (New)
+Foreign Cinema,n6L5VIGunR51-D55C-eYeQ,4.0,4519,3,San Francisco,CA,94110,Breakfast & Brunch
+Nopa,ttarnopezxmp2ROB1N2PaA,4.0,4804,3,San Francisco,CA,94117,American (New)
+L'ardoise Bistro,9yM20-7fj4LMrOO30nqkBw,4.5,1194,3,San Francisco,CA,94114,French
+Delfina,YqvoyaNvtoC8N5dA8pD2JA,4.0,1971,3,San Francisco,CA,94110,Italian
+Lolinda,wEpiKz--Z2b1q_FSCCNiow,4.0,1733,3,San Francisco,CA,94110,Steakhouses
+Espetus Brazilian Steak House,ciEDsTWhajcdL3KuJqBRlw,4.0,3171,3,San Francisco,CA,94102,Steakhouses
+Firefly Restaurant,i_OkjtKWm02Upc-PlcUrrg,4.0,1411,3,San Francisco,CA,94114,American (New)
+Saru Sushi Bar,6TL8udi-vy_5rH-wikMSoA,4.5,753,3,San Francisco,CA,94114,Sushi Bars
+Poesia,1FZM1wOnjMYg0KPSD9qTjg,4.0,723,3,San Francisco,CA,94114,Italian
+Bar Crudo,CTE5lnXUYp4xidmh35knNg,4.0,1791,3,San Francisco,CA,94117,Seafood
+Absinthe Brasserie & Bar,353bun0151fMbR3ut2d-nw,4.0,3128,3,San Francisco,CA,94102,French
+Zuni Café,oqsu3pKpgRMGHj9QItsx0A,4.0,2584,3,San Francisco,CA,94102,Italian
+Catch,b7YegTB6cWpi0XbI9ZEkBQ,3.5,871,3,San Francisco,CA,94114,Seafood
+La Ciccia,1toCkhuD0b57iFotMu3XEQ,4.5,1018,3,San Francisco,CA,94131,Seafood
+Blue Plate,rxY7canIJeXtICb6lprUcQ,4.0,1334,3,San Francisco,CA,94110,American (Traditional)
+Contigo,c5Pog3vEqmBFOBdL7R3vAg,4.0,810,3,San Francisco,CA,94114,Spanish
+Locanda,43Ca7h2QxO6so8IvRk91FQ,4.0,935,3,San Francisco,CA,94110,Italian
+Commonwealth,2QxsgelKVnEdd-PQ2efI8A,4.0,994,3,San Francisco,CA,94110,American (New)
+Flour + Water,qs7FgJ-UXgpbAMass0Oojg,3.5,2150,3,San Francisco,CA,94110,Italian
+Bistro Central Parc,W97siDhQbWIVa0MEpcq9iA,4.5,899,3,San Francisco,CA,94117,French
+Rich Table,Xdx2_n3nk9Td_aSe7E5ARQ,4.0,1032,3,San Francisco,CA,94102,American (New)
+Bacco,7yYLaUjI5cFRaXWDKfRGbg,4.0,430,3,San Francisco,CA,94114,Italian
+Prubechu,OA0z9GHU34MDxCSwqUOdRQ,4.5,327,3,San Francisco,CA,94110,Guamanian
+Nomica,LsZE-cxJ_J7lBbwUBPE3QQ,4.0,227,3,San Francisco,CA,94114,Japanese
+Garçon,f7GbmIcePXbV7ZtQv4_JNg,3.5,789,3,San Francisco,CA,94110,French
+Nihon Whisky Lounge,vOjAWfhzLaXHa1v5cGnuIQ,3.5,1367,3,San Francisco,CA,94103,Japanese
+INDO,D8TnH9-dWtqVLOkOama82w,5.0,57,3,San Francisco,CA,94114,Indonesian
+Heirloom Cafe,gwuCZV_4nIwevDenicG8tw,4.0,468,3,San Francisco,CA,94110,Cafes
+AL's Place,xRxqebiQobZqJIRtDxnZsA,4.0,627,3,San Francisco,CA,94110,Seafood
+Yuzuki Japanese Eatery,TWfQDEwVLeLGHL4dcJ7Shg,4.0,377,3,San Francisco,CA,94110,Japanese
+Aster,VXuaXEjpPo-snl_XUPHEOw,4.0,363,3,San Francisco,CA,94110,American (New)
+AsiaSF,6LfqlrbkpjZt83bEMZWq7A,4.0,1720,3,San Francisco,CA,94103,Asian Fusion
+Rintaro,d40PbnRah7AWH_dclw1h_Q,4.0,467,3,San Francisco,CA,94103,Izakaya
+Christopher Elbow Artisanal Chocolate,Rfbuh7esixy4_mYWz_vmHQ,4.5,412,3,San Francisco,CA,94102,Desserts
+Monsieur Benjamin,9e2UrZrwbWsTyN3hWyS6Ig,4.0,815,3,San Francisco,CA,94102,French
+Blowfish Sushi,7E4oGj36ctPi58hm9-PYHw,3.5,1387,3,San Francisco,CA,94110,Sushi Bars
+Tsubasa Sushi,ormG-hRL73C1HELmc_N72g,4.5,314,3,San Francisco,CA,94102,Sushi Bars
+Pläj Scandinavian Restaurant & Bar,feufnVt4k_t2eJakDU1bAw,4.0,609,3,San Francisco,CA,94102,Scandinavian
+The Morris,KqGOvG1m5jgDL-pKGXEoNQ,4.5,185,3,San Francisco,CA,94110,American (New)
+Bar Agricole,iBmV2ylAPbipMNf49yOIfw,3.5,1037,3,San Francisco,CA,94103,Bars
+Revelry Bistro,Sn88jc5tEJH-D4qxqZn8PQ,4.5,175,3,San Francisco,CA,94102,French
+Central Kitchen,mq9l0EKCDyuwvyAC5OmaqQ,3.5,530,3,San Francisco,CA,94110,American (New)
+Tsunami Panhandle,NBdAqG4Kdqy0BrCrWa0xUg,3.5,840,3,San Francisco,CA,94117,Sushi Bars
+Uma Casa,J-mZZ_Yrng_XhPtx5x403Q,4.0,205,3,San Francisco,CA,94131,Portuguese
+1601 Bar & Kitchen,do1T-8_w5HaLHBgMYLw2Xw,4.0,234,3,San Francisco,CA,94103,Asian Fusion
+Tawla,Fg1E0pdEGYMxalfNJGjgQg,3.5,317,3,San Francisco,CA,94103,Mediterranean
+Son's Addition,bOFgkNT9z0TczFvL0Y7Bng,4.0,155,3,San Francisco,CA,94110,American (New)
+Cala,rV5Kn_L_2djX5EMVI67CIw,3.5,348,3,San Francisco,CA,94102,Mexican
+Lazy Bear,uBaXDGwJPUkOSLWxS2vZ9Q,4.5,490,4,San Francisco,CA,94110,American (New)
+Californios,9S6GK2In2b1tuJ7xoC84pA,4.5,244,4,San Francisco,CA,94110,Mexican
+Jardiniere,inVsc1turxk_OpM9E2Q1Rw,4.0,1595,4,San Francisco,CA,94102,French
+Ijji Sushi,7jmzwBlILphGspyorxkGXg,4.5,161,4,San Francisco,CA,94117,Sushi Bars
+jū-ni,OcRSAkpOhnWHjV7X0FoM5Q,4.5,225,4,San Francisco,CA,94117,Japanese
+Kingza,2QGpLQwpzcPK99JfS5G4cQ,4.5,130,4,San Francisco,CA,94110,Sushi Bars
+Maruya,k8UnUjLkikZSdJ8NYWl6zA,4.0,330,4,San Francisco,CA,94103,Japanese
+Sushi Hon,3MRyd2-Zx9smDLXWPAL3kw,4.5,224,4,San Francisco,CA,94110,Japanese
+Petit Crenn,kiRsScNQs_UdDV6jPyeCWg,4.0,330,4,San Francisco,CA,94102,French
+Sasaki,ouf3PRrw86VuiAQXgDljYQ,4.5,59,4,San Francisco,CA,94110,Sushi Bars
+Robin,_CY0LgS5OOBhImGNeWwHWg,4.0,231,4,San Francisco,CA,94102,Sushi Bars
+Nightbird,Nhdz8ztI0SQkdcW7C38VGA,4.0,112,4,San Francisco,CA,94102,American (New)
+Doma,8oVK6iM82dBTFLb10LYkBg,4.5,61,4,San Francisco,CA,94110,Japanese
+Birdsong,XVPiXV_TPivnr9szB5kc-A,4.5,77,4,San Francisco,CA,94103,American (New)
+Barcino,8NTW-bp5prQmhKEI5f4qxw,3.5,122,4,San Francisco,CA,94102,Tapas Bars
+Charin,kWegnu-lL4ht82TmzvbT2Q,4.0,13,4,San Francisco,CA,94110,American (New)
+Reform Club,yUa_V0-kqPzTu3f7tT4-SA,5.0,5,4,San Francisco,CA,94110,American (New)
+Baker Doe,FrZouKmSH-_z3geSWePLJg,4.5,10,4,San Francisco,CA,94103,Bakeries
+Precita Market & Deli,c0E_gK7tYpm4XeS2ut8-ig,3.5,10,4,San Francisco,CA,94110,Convenience Stores
+Saigon Sandwich,hqQoVK0vadOX7_4gN1sh3g,4.5,3064,1,San Francisco,CA,94102,Vietnamese
+Tacorea,u39mZEYojBiNic3lqKhPNw,4.5,1236,1,San Francisco,CA,94108,Mexican
+Golden Gate Bakery,m3xdxV8YNH5uh1N01xdnLA,4.5,3078,1,San Francisco,CA,94133,Bakeries
+Bob's Donut & Pastry Shop,GXu3PD4IPsxIHpo011aydg,4.5,2692,1,San Francisco,CA,94109,Bakeries
+Boba Guys,yn5gA62ekL-TzKBBI_rq-A,4.0,1647,1,San Francisco,CA,94108,Coffee & Tea
+Philz Coffee,jmLzQDrgRvJF4_9v7ryhrg,4.5,1492,1,San Francisco,CA,94102,Coffee & Tea
+The Chairman Truck,sT8TRzofJym5w0khZkOJhw,4.0,1406,1,San Francisco,CA,94102,Food Trucks
+Good Mong Kok Bakery,-sg6DqQNGyTMt0MHoY7diQ,4.0,2184,1,San Francisco,CA,94108,Bakeries
+The Flying Falafel,y97u_oCqjAjstK4YOY9ygA,4.5,762,1,San Francisco,CA,94103,Falafel
+Señor Sisig,ma-IFK7XaRdVwA9lxNyMXA,4.0,1418,1,San Francisco,CA,94104,Filipino
+Tommy's Joynt,0YPcBWiU-8t2kGe-DOhW5g,4.0,2703,1,San Francisco,CA,94109,American (Traditional)
+Fresh Brew Coffee,U9HWtltvf_U2y1wYSOwFUA,4.5,485,1,San Francisco,CA,94108,Coffee & Tea
+Beard Papa,-6VcjD0CMrsxFr9g_y0QIA,4.0,989,1,San Francisco,CA,94103,Bakeries
+Hai Ky Noodles,wCf2GGyEOkaSFE0xCYpgOA,4.0,846,1,San Francisco,CA,94109,Chinese
+Beanstalk Cafe,O0iAR6OBHXqFtK4nKO9g2Q,4.0,775,1,San Francisco,CA,94108,Coffee & Tea
+Golden Boy Pizza,PTFxtXS47ZVRCdZIrEWvGw,4.5,3059,1,San Francisco,CA,94133,Pizza
+Tselogs,-Y_9AT6NpvHz15vd4B0CbA,4.5,447,1,San Francisco,CA,94102,Filipino
+The Sentinel,kEhq0qT_JFxgeh-pCS4lPA,4.0,1281,1,San Francisco,CA,94105,Sandwiches
+Hot Sauce and Panko,NwqdohySKrDnK0RsAde9UA,4.5,1006,1,San Francisco,CA,94109,Chicken Wings
+The Bird,WOVHQYzSAdyXYOiYDTmujQ,4.0,1069,1,San Francisco,CA,94105,Chicken Shop
+Lahore Karahi,5zKrxtjKK09F_Dwgs5Kxwg,4.0,1341,1,San Francisco,CA,94109,Indian
+Chabaa Thai Cuisine,pvJaoH4wL-Q0Kfu8k0Sw9Q,3.5,1176,1,San Francisco,CA,94102,Thai
+Bite,ZXwnSN4GlEuSTNCRrjjRMg,4.5,658,1,San Francisco,CA,94104,Delis
+Smitten Ice Cream,mMiOVbGovegeBg-6YyqDxA,4.0,2344,1,San Francisco,CA,94102,Ice Cream & Frozen Yogurt
+Beard Papa's,Nw8h8pc4TzHdVlPA3gsOlA,4.0,993,1,San Francisco,CA,94103,Bakeries
+Chutney,atXwmmJOrBLOaq-OROY2EA,3.5,1191,1,San Francisco,CA,94102,Indian
+Golden Gate Fortune Cookies,7CR8EP4gV-oYXyNa2-PTcw,4.5,796,1,San Francisco,CA,94108,Bakeries
+Cordon Bleu,Di4kb-1tnjP5OKFuV8qbUA,4.0,1002,1,San Francisco,CA,94109,Vietnamese
+Freshroll Vietnamese Rolls & Bowls,l1oXDZh6vE-cYreeAcfRBw,4.0,1100,1,San Francisco,CA,94103,Vietnamese
+Tú Lan,cZ1D-Cb2uyDJXik2nFiN0w,4.0,629,1,San Francisco,CA,94103,Vietnamese
+Pho Tan Hoa,aPWsJK-BuGQftRY5WECmAw,4.0,588,1,San Francisco,CA,94102,Vietnamese
+Coletta Gelato,-wnf65F-tUZS4eTiTTAayw,5.0,321,1,San Francisco,CA,94107,Gelato
+Tempest,qfdWWJCMvoTKI8u7rshm_Q,4.0,674,1,San Francisco,CA,94103,American (Traditional)
+Plentea - San Francisco,vMiM0kaavveZZ61lBe-LJg,3.5,1798,1,San Francisco,CA,94108,Tea Rooms
+Frena Bakery and Cafe,N-vfl3FXnj4M7N6jW-1EGA,4.5,275,1,San Francisco,CA,94103,Bakeries
+Philz Coffee,K0-z1Wj0tysWhSgMaXtlGg,4.5,429,1,San Francisco,CA,94102,Coffee & Tea
+Joy's Place,54EOuXs22MK_QYVNgBL-4A,4.0,555,1,San Francisco,CA,94109,Desserts
+Chai Bar By David Rio,9hkKmtG2BruWwrqltt0Klg,4.5,364,1,San Francisco,CA,94103,Tea Rooms
+Sai Jai Thai Restaurant,bGI_oq-DVPo2bWJZxDf9gw,4.0,854,1,San Francisco,CA,94109,Thai
+Stella Pastry & Cafe,Av-PbVkajf1XrgqIS8POSQ,4.0,1200,1,San Francisco,CA,94133,Bakeries
+Pho 2000,bLa9Jm04dPersyUN7LFrvw,4.0,678,1,San Francisco,CA,94109,Vietnamese
+Golden Coffee Shop,rBwyayyqFMD8chqenrRxag,4.0,441,1,San Francisco,CA,94109,Breakfast & Brunch
+Un Cafecito,yqEcwYU47FoPPayugsSD_Q,4.5,184,1,San Francisco,CA,94102,Coffee & Tea
+Philz Coffee,hWE2CDphzZ3nXlwv3Uk6Og,4.5,1374,1,San Francisco,CA,94158,Coffee & Tea
+i-Tea,xe6IZGzW8fgxalv6RCBS5A,4.0,471,1,San Francisco,CA,94108,Bubble Tea
+Good Luck Cafe and Deli,kK0s7FAovaLmVDM4D_NdSQ,4.5,386,1,San Francisco,CA,94108,Delis
+Morty's Delicatessen,KRO4PzfmbRgCu1Ayt1LE1g,4.0,501,1,San Francisco,CA,94102,Sandwiches
+Loving Hut,NoxxbgVp7ilvMm6O9FX9hA,4.0,605,1,San Francisco,CA,94103,Sandwiches
+Asha Tea House,lz8Kn4blqgUUV3vMBsM_AQ,4.0,478,1,San Francisco,CA,94108,Coffee & Tea
+Aria Korean Tapas,KA-P3d2NcbJy5SQN-vCzPA,4.0,478,1,San Francisco,CA,94109,Korean
+Brenda's French Soul Food,lJAGnYzku5zSaLnQ_T6_GQ,4.0,9689,2,San Francisco,CA,94102,Breakfast & Brunch
+Dottie's True Blue Cafe,uEeWn6sPq-giWvfE9uhQ7A,4.0,4099,2,San Francisco,CA,94103,American (Traditional)
+Blue Bottle Coffee,lNbKeOfCMTNkoihZHqrbrg,4.0,2153,2,San Francisco,CA,94103,Coffee & Tea
+Pearl's Deluxe Burgers,TRBP1G1l8vZkjgfqdx96Cw,4.0,2065,2,San Francisco,CA,94109,Burgers
+Tropisueño,_EncdQezAzcShATMFXL0dA,4.0,3928,2,San Francisco,CA,94103,Mexican
+Super Duper Burgers,zjlwTVZOyCU8OzzUPEavQQ,4.0,2558,2,San Francisco,CA,94103,Burgers
+Ryoko's,mydKjdG8gJOcRQ9cZwkQpQ,4.0,2667,2,San Francisco,CA,94102,Sushi Bars
+Taylor Street Coffee Shop,lvoKIKQ8zD4ZvcbUmImrQg,4.0,1096,2,San Francisco,CA,94102,Burgers
+Mr Holmes Bakehouse,9lX1QuC6GBj7WyKImHkRRw,4.0,1921,2,San Francisco,CA,94109,Bakeries
+Katana-Ya,F3bL-3Btko-JSupCC2pPAw,3.5,4029,2,San Francisco,CA,94102,Sushi Bars
+Mensho Tokyo,ey_UUXdDMUoO77QIF6SGaQ,4.0,1605,2,San Francisco,CA,94102,Ramen
+Lers Ros,WFgRFq_KxIs2fkYo1iD6Tg,4.0,2074,2,San Francisco,CA,94109,Thai
+Zero Zero,8skVQNkVBv90iiPtFeSpzw,4.0,3030,2,San Francisco,CA,94107,Pizza
+Tadu Ethiopian Kitchen,xkTx2lxZQptqxNeCBCaArA,4.5,575,2,San Francisco,CA,94102,Ethiopian
+Swan Oyster Depot,eI0DpD2Xx8hFlk7eAdFCqQ,4.0,2519,2,San Francisco,CA,94109,Seafood
+Kin Khao,kqk5BoCJU59MC9fH0IB4wQ,4.0,1609,2,San Francisco,CA,94102,Thai
+Farm : Table,TcbKvh-e1lxywJuN6in5JQ,4.0,1600,2,San Francisco,CA,94109,Coffee & Tea
+Farmerbrown,L7pc5vy6tv8WDcrwOGplDA,3.5,3447,2,San Francisco,CA,94102,Soul Food
+Colibri Mexican Bistro,u30abI5AtOKAddJRxUfZTg,4.0,2040,2,San Francisco,CA,94102,Mexican
+The View Lounge,lOCewxz6QNegZbArImNBfw,4.0,1501,2,San Francisco,CA,94103,Lounges
+Little Delhi,Qr0dBKxCtWWUr9bJ74aWQA,4.0,1818,2,San Francisco,CA,94102,Indian
+Hogwash,t5OypGYSwYIXKjkEQx3BNw,4.5,913,2,San Francisco,CA,94102,Gastropubs
+Honey Honey Cafe and Crepery,W1DGoHrkx8qptuWCcWSPLA,4.0,2162,2,San Francisco,CA,94102,Breakfast & Brunch
+HRD,bUr4iq2mKKiBOu2HKynylg,4.0,2361,2,San Francisco,CA,94107,Korean
+Hog Island Oyster Co,Xg-FyjVKAN70LO4u4Z1ozg,4.5,5328,2,San Francisco,CA,94111,Seafood
+Samovar Tea - Yerba Buena Gardens,Ml0ZjPaKXYmXTyGLvkhY8A,4.0,2216,2,San Francisco,CA,94103,Tea Rooms
+Fino Ristorante & Bar,rj3zIk7t9ySGMxVGGTA8gg,4.0,1049,2,San Francisco,CA,94109,Italian
+Deli Board,BcW0vRdM8N-rteR2FfV1jg,4.5,1163,2,San Francisco,CA,94103,Delis
+Mikkeller Bar,A4dzocYPoer0llJydoQU-g,4.0,1104,2,San Francisco,CA,94102,Gastropubs
+Hops & Hominy,AoxdFkE06fQs_ZP0S0VRPw,4.0,1898,2,San Francisco,CA,94108,Southern
+R&G Lounge,ka1_lat2boQwLMsOCiwGiA,3.5,4093,2,San Francisco,CA,94108,Chinese
+La Fusión,DLpHmXitZxDLdqTwydUSdA,4.5,1067,2,San Francisco,CA,94104,Latin American
+Akiko's Restaurant,IRD_9JUjR-06zztisuTdAA,4.0,1731,2,San Francisco,CA,94108,Sushi Bars
+Shalimar,6KhSJxwHTQqHiaT35TDkQQ,4.0,1371,2,San Francisco,CA,94102,Pakistani
+Rye,GIm5jbvmymBNo_e7Y84efw,4.0,1285,2,San Francisco,CA,94102,Lounges
+Sightglass Coffee,VD527WwvrhE3Nhzf5vaMNw,4.0,1674,2,San Francisco,CA,94103,Coffee & Tea
+Super Duper Burgers,uK9gleO9ufjw53z-qekWaw,4.0,1218,2,San Francisco,CA,94103,Burgers
+Blue Bottle Coffee,EFefgQdk_19WxQXvVtwEog,4.5,1651,2,San Francisco,CA,94102,Coffee & Tea
+Mymy,VzlVF1yc_BboRwwqJcvkxg,4.0,1503,2,San Francisco,CA,94109,Breakfast & Brunch
+Muracci's Japanese Curry & Grill,7qK2Gwu0afQMtYFSJvvCqQ,4.0,1617,2,San Francisco,CA,94108,Japanese Curry
+Marlowe,c0WpyZFR3EoEBKcoY2LZ3Q,4.0,2513,2,San Francisco,CA,94107,American (New)
+Montesacro Pinseria-Enoteca,ikkPHZqQQ2UU2hGFyBuffQ,4.5,511,2,San Francisco,CA,94103,Pizza
+Box Kitchen,GyBh5QsGham__kK7eJ2feQ,4.5,706,2,San Francisco,CA,94103,Burgers
+Hopwater Distribution,mbmJRdYFNUKeV_toR0KfVA,4.5,644,2,San Francisco,CA,94108,American (Traditional)
+Garaje,tnhfDv5Il8EaGSXZGiuQGg,4.5,1399,2,San Francisco,CA,94107,Mexican
+Sanraku,cjfJOMF6hpE7bX0ESWdAEg,4.0,1487,2,San Francisco,CA,94109,Japanese
+Local Edition,jp4X-7QjdffRBab9XMf2Bg,4.0,1490,2,San Francisco,CA,94105,Lounges
+Rusty's Southern,wZv5s1J3xmUkO-x9b8_-yQ,4.5,777,2,San Francisco,CA,94109,Southern
+Sotto Mare Oysteria & Seafood,8dUaybEPHsZMgr1iKgqgMQ,4.5,3219,2,San Francisco,CA,94133,Seafood
+Sushirrito,rMuLW1qVB-deU5NStYerWA,4.0,1405,2,San Francisco,CA,94108,Japanese
+Liholiho Yacht Club,KkAVX3Wb7E3lP5F_f_8pXg,4.5,1894,3,San Francisco,CA,94109,Bars
+House of Prime Rib,oT08T3Vpn1I7jDmrBBRMTw,4.0,6538,3,San Francisco,CA,94109,American (Traditional)
+Bourbon & Branch,aud84H-NpMx3opWPtLX-vg,4.0,2907,3,San Francisco,CA,94102,Cocktail Bars
+The House,ZoZjbOYR-apY8XvommlNUA,4.5,4396,3,San Francisco,CA,94133,Asian Fusion
+Kokkari Estiatorio,PsY5DMHxa5iNX_nX0T-qPA,4.5,4159,3,San Francisco,CA,94111,Greek
+Wayfare Tavern,ykvr3ib1gHQHI4tznSn8iA,4.0,3608,3,San Francisco,CA,94111,American (Traditional)
+Hakkasan,dN_v0Lu6xhv0yJcx-M0fpg,4.0,1553,3,San Francisco,CA,94108,American (New)
+Cafe Claude,gsf5yf5HS3h8Z8MHpJ4t3w,4.0,1908,3,San Francisco,CA,94108,French
+Amber India,dC_kA-R2qb-0iEmoI4VKPg,4.0,1929,3,San Francisco,CA,94103,Indian
+The Rotunda,QhXJqmPoR6jyCf44ck7Sxg,4.0,1493,3,San Francisco,CA,94108,American (New)
+Press Club,Fvn-UN7IQvxlfLBpJdbMUA,4.0,1126,3,San Francisco,CA,94103,Wine Bars
+Absinthe Brasserie & Bar,353bun0151fMbR3ut2d-nw,4.0,3128,3,San Francisco,CA,94102,French
+Bluestem Brasserie,dhTrfvdlpFE33USafJ3cjQ,3.5,1550,3,San Francisco,CA,94103,Brasseries
+Bouche,mfD5wlWS6tY92FJHDcBwJA,4.5,705,3,San Francisco,CA,94108,French
+Roy's Restaurant,iWUSAD2WALWNFF0pPiomHA,4.0,2184,3,San Francisco,CA,94105,Seafood
+AsiaSF,6LfqlrbkpjZt83bEMZWq7A,4.0,1720,3,San Francisco,CA,94103,Asian Fusion
+The Cavalier,_RkG6ao09nTYczVfLG-Zrw,4.0,935,3,San Francisco,CA,94103,American (New)
+Le Colonial,_ZC_Zvq5DqaPVXIqFzPkBQ,3.5,1575,3,San Francisco,CA,94109,Vietnamese
+Mourad Restaurant,6Wzy5p_0lLajjMhDIs0i1g,4.0,824,3,San Francisco,CA,94105,Moroccan
+Seven Hills,dTWMVRcMVC4zynbFQC7A2A,4.5,904,3,San Francisco,CA,94109,Italian
+Tadich Grill,WxxE5kE8omgQhJE8sWIvmA,4.0,2189,3,San Francisco,CA,94111,Seafood
+Perbacco,ztL8KI0ed0snCiK88ZUfNw,4.0,1929,3,San Francisco,CA,94111,Italian
+Ruth's Chris Steak House,Kxwc8PIKy2JsegNwgBjAtA,4.0,1947,3,San Francisco,CA,94109,Steakhouses
+54 Mint - Ristorante Italiano,QajaCa7rYHgaQ5TvZD6M-A,4.0,1045,3,San Francisco,CA,94103,Italian
+Espetus Brazilian Steak House,ciEDsTWhajcdL3KuJqBRlw,4.0,3171,3,San Francisco,CA,94102,Steakhouses
+BIX,PzPPcGVg5O4UuW5cTopJhA,4.0,1693,3,San Francisco,CA,94133,American (Traditional)
+Trestle,jcFf2ZnJYL0nWCdIpqiA-g,4.5,722,3,San Francisco,CA,94133,American (New)
+Scala's Bistro,euV7oTZ9ImaZahhe-6N6ng,3.5,1243,3,San Francisco,CA,94102,Italian
+Cockscomb,oaBpGm6woGN69J9iRqu0Fw,4.0,1023,3,San Francisco,CA,94107,Bars
+State Bird Provisions,QZQGRJZ4bZCmNoXjs3z1XQ,4.0,2477,3,San Francisco,CA,94115,Tapas/Small Plates
+Tonga Room & Hurricane Bar,458NXhlB0ZtEaJUPI3PPcA,3.5,2440,3,San Francisco,CA,94108,Asian Fusion
+Minamoto Kitchoan,H6jEWhnxWlzTobANR-VNJg,4.5,357,3,San Francisco,CA,94104,Desserts
+The Fly Trap,MYl6xxo93hNfy8bR0X9yPw,4.0,943,3,San Francisco,CA,94107,Bars
+Cotogna,HVJdo4f_6MxkM_1aCAK3NA,4.0,1297,3,San Francisco,CA,94133,Italian
+Town Hall,Tyn-UqOTpVHtZAgrB0lWyQ,3.5,1885,3,San Francisco,CA,94105,American (New)
+Pläj Scandinavian Restaurant & Bar,feufnVt4k_t2eJakDU1bAw,4.0,609,3,San Francisco,CA,94102,Scandinavian
+John's Grill,SEuHSFDOoux4MqusTQPNMw,3.5,1131,3,San Francisco,CA,94102,Steakhouses
+La Mar Cebichería Peruana,Qbr2JG96K6d31NqqAUxf9g,4.0,3390,3,San Francisco,CA,94111,Seafood
+Crustacean,BahDyzswTsdaSa8jnOaK-A,3.5,1379,3,San Francisco,CA,94109,Asian Fusion
+Restaurant Jeanne D' Arc,gFcSLTJo3HXdkXScg0FgcA,4.0,346,3,San Francisco,CA,94108,French
+Luce,FDi2dELjM0T_Es8Ka-C6gQ,3.5,700,3,San Francisco,CA,94103,American (New)
+The Slanted Door,ZuhygpLHdwsELMWa3Nbymw,3.5,5347,3,San Francisco,CA,94111,Vietnamese
+Salt House,jk1T4xIb_FH_SsiVng43HA,3.5,1675,3,San Francisco,CA,94105,American (New)
+The Big 4,0XtBuSGMhpMOMKRBjtJ4FA,4.0,607,3,San Francisco,CA,94108,Lounges
+Anchor & Hope,iy1KBR5hRNcgCaqiUoBSoA,3.5,1437,3,San Francisco,CA,94105,Seafood
+Top Of The Mark,f0c44sTsuLDmJO7tPCJ-tQ,3.5,1258,3,San Francisco,CA,94108,Breakfast & Brunch
+Frascati,xdAgbLBQcffIxI8mYgjT1Q,4.5,1141,3,San Francisco,CA,94109,American (New)
+Fringale,Ug9a63OBRBje0796bFFPgA,4.0,1037,3,San Francisco,CA,94107,French
+Ristorante Milano,v1aUahwzM8CTeLA0O7J8ww,4.0,677,3,San Francisco,CA,94109,Italian
+5A5 Steak Lounge,Q8cYhJGa9pwlu63f-KMV-A,4.0,2017,3,San Francisco,CA,94111,Steakhouses
+Benu,q2EbLD93gEO5uXXx7Pk3bw,4.5,972,4,San Francisco,CA,94105,American (New)
+Farallon,4raSXRuvBH1CHawSsuJiBA,4.0,1511,4,San Francisco,CA,94102,Seafood
+KUSAKABE,U0GqpXzcIDlad7vQHbB63Q,4.5,750,4,San Francisco,CA,94111,Sushi Bars
+Acquerello,mDM7-ho67ePJXd5TodtCOg,4.5,1029,4,San Francisco,CA,94109,Italian
+Alexander's Steakhouse,PLx_VnZyFmxTS1zNTaDJxA,4.0,1567,4,San Francisco,CA,94107,Steakhouses
+Campton Place,iU-XQ4dhII3WF1UKR4XrNQ,4.0,703,4,San Francisco,CA,94108,American (New)
+Harris' Restaurant,FqYg7BcsryLFiUTknxpQpw,4.0,1720,4,San Francisco,CA,94109,Steakhouses
+Sons & Daughters,GoIbbBYDyr8W46YmxJct-g,4.0,624,4,San Francisco,CA,94108,American (New)
+Quince,zFxD8QinHt69Bs7M2mgB-Q,4.0,1385,4,San Francisco,CA,94133,French
+Roka Akor - San Francisco,qKVwVCJ_5D0iOxJYE9wSJw,4.0,1079,4,San Francisco,CA,94133,Steakhouses
+Jardiniere,inVsc1turxk_OpM9E2Q1Rw,4.0,1595,4,San Francisco,CA,94102,French
+Hinata,yD9-WrXijc_grVmi_zkCfQ,4.5,326,4,San Francisco,CA,94109,Sushi Bars
+Michael Mina,5I3fM8fRdkJdKL-_BJ1qvw,4.0,1148,4,San Francisco,CA,94111,Middle Eastern
+La Folie,eSixRz7xcwtFdeh9hN5TyQ,4.5,1417,4,San Francisco,CA,94109,French
+Boulevard,Tttm1r5Dw1sRMCfc3EQWPw,4.0,2542,4,San Francisco,CA,94105,American (New)
+Keiko à Nob Hill,6ZNlnA733Rv0I9Mq5_yO0A,4.5,373,4,San Francisco,CA,94109,Japanese
+Morton's The Steakhouse,ITFRPmzOeEp6dY3Dufh8vw,3.5,1122,4,San Francisco,CA,94102,Steakhouses
+Osso Steakhouse,9-TPmOn6AbW2fLMiugQCiA,4.0,649,4,San Francisco,CA,94108,Steakhouses
+Mister Jiu's,p22TPx1EFZcuEzl2qhuzGA,4.0,446,4,San Francisco,CA,94108,Chinese
+Coi,HG5cvtfUcpMojb2RyB2ZJQ,4.0,739,4,San Francisco,CA,94133,American (New)
+Hashiri,E-jaK7rK8nclJfIkeAHtsA,4.5,79,4,San Francisco,CA,94103,Japanese
+Birdsong,XVPiXV_TPivnr9szB5kc-A,4.5,77,4,San Francisco,CA,94103,American (New)
+Kiss Seafood,USbpXRK2pFey0V24QcgXsQ,4.0,525,4,San Francisco,CA,94115,Japanese
+Omakase,WpcWACqlAodx5dbe5GJWZA,4.5,345,4,San Francisco,CA,94103,Sushi Bars
+Parallel 37,GnxzYamcJRd5NG94wGxdcw,4.0,192,4,San Francisco,CA,94108,American (New)
+Saison,XGHTrreDK35ciuA8R6naNQ,4.0,420,4,San Francisco,CA,94107,American (New)
+The Progress,CS0pUlk25RV2-vhKFFbxqA,4.0,727,4,San Francisco,CA,94115,American (New)
+Atelier Crenn,c3khi7kxBaA2ATUuMjtMZA,4.5,639,4,San Francisco,CA,94123,French
+Robin,_CY0LgS5OOBhImGNeWwHWg,4.0,231,4,San Francisco,CA,94102,Sushi Bars
+An Japanese Restaurant,zWpV3kVw1CO9Fb3JroQpqw,4.5,116,4,San Francisco,CA,94115,Sushi Bars
+Eight Tables by George Chen,2FOv-XAZ2sMIlrE5xJc1Hw,5.0,46,4,San Francisco,CA,94133,Chinese
+Khai,hE6Fc0ts1-EPaCvRW4Gt8w,4.5,116,4,San Francisco,CA,94103,Vietnamese
+OzaOza,Y96P7pYNYya_bP-Ogun-0w,4.5,81,4,San Francisco,CA,94115,Japanese
+Petit Crenn,kiRsScNQs_UdDV6jPyeCWg,4.0,330,4,San Francisco,CA,94102,French
+Nightbird,Nhdz8ztI0SQkdcW7C38VGA,4.0,112,4,San Francisco,CA,94102,American (New)
+The Phoenix Supper Club,ANP7Ewne8LfMHWSiz5kLhA,4.5,22,4,San Francisco,CA,94103,American (New)
+Maruya,k8UnUjLkikZSdJ8NYWl6zA,4.0,330,4,San Francisco,CA,94103,Japanese
+Jai Yun,BnZYqj66esOPiSbqeJb7zA,3.5,136,4,San Francisco,CA,94133,Chinese
+Barcino,8NTW-bp5prQmhKEI5f4qxw,3.5,122,4,San Francisco,CA,94102,Tapas Bars
+Kinjo,OlgHnpdim58vWkjuh3rVcw,4.0,76,4,San Francisco,CA,94109,Japanese
+RTB Fillmore,Tf6Yv0vD8OMiXI1v9jdQsg,4.0,51,4,San Francisco,CA,94115,American (New)
+Villa Taverna,5vAr0fMMF1BBW-ZJgr3UYg,4.5,16,4,San Francisco,CA,94111,Italian
+AVERY,auXdl2WBTohNUH2_37Jyag,4.0,39,4,San Francisco,CA,94115,American (New)
+Baker Doe,FrZouKmSH-_z3geSWePLJg,4.5,10,4,San Francisco,CA,94103,Bakeries
+Tongwong Coffee,q5SZfHVW2QsaywYJ6Ykmxg,5.0,2,4,San Francisco,CA,94103,Coffee & Tea
+Club Mari's,xXqkC4OEiCcwvketTvFULQ,2.5,16,4,San Francisco,CA,94115,Bars
+Luckyrice Feast,s0b3Y6dW-O8rwxDjJNz3UQ,3.0,3,4,San Francisco,CA,94111,Asian Fusion
+Mandarin Lounge,mQcPH4b77-fPh7yFuqLctQ,1.0,1,4,San Francisco,CA,94104,Lounges
+Golden Boy Pizza,PTFxtXS47ZVRCdZIrEWvGw,4.5,3059,1,San Francisco,CA,94133,Pizza
+Golden Gate Bakery,m3xdxV8YNH5uh1N01xdnLA,4.5,3078,1,San Francisco,CA,94133,Bakeries
+Liguria Bakery,CfU_8BIc6SX7lhDYAB9Xkw,4.5,672,1,San Francisco,CA,94133,Bakeries
+XOX Truffles,qkHlhvv6DrCkvY54ogcPiA,4.5,577,1,San Francisco,CA,94133,Chocolatiers & Shops
+Stella Pastry & Cafe,Av-PbVkajf1XrgqIS8POSQ,4.0,1200,1,San Francisco,CA,94133,Bakeries
+The Codmother Fish and Chips,PDhfVvcVXgBinZf5I6s1KQ,4.5,2705,1,San Francisco,CA,94133,British
+Good Mong Kok Bakery,-sg6DqQNGyTMt0MHoY7diQ,4.0,2184,1,San Francisco,CA,94108,Bakeries
+Alimento,v5-upYI3belSfXOeT1dNWw,4.5,587,1,San Francisco,CA,94133,Gelato
+Caffe Greco,uzqUJiCHUqV2c3PnvSsqeQ,4.0,941,1,San Francisco,CA,94133,Coffee & Tea
+Golden Gate Fortune Cookies,7CR8EP4gV-oYXyNa2-PTcw,4.5,796,1,San Francisco,CA,94108,Bakeries
+Bob's Donut & Pastry Shop,GXu3PD4IPsxIHpo011aydg,4.5,2692,1,San Francisco,CA,94109,Bakeries
+Hot Sauce and Panko,NwqdohySKrDnK0RsAde9UA,4.5,1006,1,San Francisco,CA,94109,Chicken Wings
+Swensen's Ice Cream,cf6el4kGXe686x4Kb6F18Q,4.5,979,1,San Francisco,CA,94109,Ice Cream & Frozen Yogurt
+Buster's Cheesesteak,Iq0137dlAydEXdKJorWJxw,4.0,742,1,San Francisco,CA,94133,American (Traditional)
+Freddie's Sandwiches,yGEc-cj9Quk5mUh7maoPXA,4.5,431,1,San Francisco,CA,94133,Sandwiches
+The Boardroom,mi8ADETT7WJfssSTld7OmA,4.0,407,1,San Francisco,CA,94133,Sports Bars
+Cavalli Cafe,ejAOLv4S6-s3BOwTiPZQ7Q,4.0,367,1,San Francisco,CA,94133,Coffee & Tea
+The Baked Bear - Custom Ice Cream Sandwiches,7YxKRfOZtsuH702EkyTwtw,4.5,344,1,San Francisco,CA,94133,Ice Cream & Frozen Yogurt
+The Saloon,JDAXKz1T76--VLeJLUIaPQ,4.0,430,1,San Francisco,CA,94133,Jazz & Blues
+Delicious Dim Sum,Fo5Wscbb9rwcLuaO-sc2zQ,4.0,831,1,San Francisco,CA,94133,Dim Sum
+Nick's Crispy Tacos,ziVej4oW2JpUConTE_Y_mg,4.0,3151,1,San Francisco,CA,94109,Mexican
+Caffe Trieste,j9EVcmunMUIFut_EpsYrog,4.0,625,1,San Francisco,CA,94133,Cafes
+Señor Sisig,ma-IFK7XaRdVwA9lxNyMXA,4.0,1418,1,San Francisco,CA,94104,Filipino
+Hole In The Wall Coffee,LYR-FTjuFk_cCKI7mqO10A,4.5,126,1,San Francisco,CA,94133,Coffee & Tea
+Loving Cup,8LEnV8Z0-YKPWb1nLKgQHQ,4.0,1035,1,San Francisco,CA,94109,Desserts
+Sam's,U768gBDU8XM3_cr-yJxwvg,4.0,559,1,San Francisco,CA,94133,American (Traditional)
+Golden Star Vietnamese Restaurant,1pq5mmp71nXWBK_jG9VxHg,4.0,1170,1,San Francisco,CA,94108,Vietnamese
+In-N-Out Burger,_RysiB_bqTgCBmG8W96H4A,4.0,1695,1,San Francisco,CA,94133,Fast Food
+Gelato Classico Italian,yHUapaoG0LNKVgUagsFXpQ,4.0,224,1,San Francisco,CA,94133,Ice Cream & Frozen Yogurt
+Good Luck Cafe and Deli,kK0s7FAovaLmVDM4D_NdSQ,4.5,386,1,San Francisco,CA,94108,Delis
+Northstar Cafe,MWPXDx0XBFDh9qkrIvXHzQ,4.0,284,1,San Francisco,CA,94133,Bars
+The Baked Bear - Custom Ice Cream Sandwiches,W01ZzmeWz0vJip3TVDmdyA,4.5,363,1,San Francisco,CA,94133,Ice Cream & Frozen Yogurt
+Hot Spud,JcyoZPdWdhlsrIVEMdLQ2A,4.5,485,1,San Francisco,CA,94133,Gluten-Free
+Tony's Coal-Fired Pizza And Slice House,huUzLVDESMfD-MV0w3BjpQ,3.5,385,1,San Francisco,CA,94133,Pizza
+Za Pizza,WKJzi4g1OGp1nW_6ZJD_rQ,4.0,1034,1,San Francisco,CA,94109,Pizza
+Yo Yo's,JPL5OqxmoKGWXZxVSlYkag,4.0,509,1,San Francisco,CA,94111,Japanese
+Saint Frank Coffee,AsmIi9jXkb9ACliVB4Fp9w,4.5,592,1,San Francisco,CA,94109,Coffee & Tea
+Kam Po Kitchen,0Yw-OWhZAU8BI852cx21ug,4.0,404,1,San Francisco,CA,94133,Cantonese
+Tanguito,AdupguljIIejtEOnExddkQ,4.0,553,1,San Francisco,CA,94133,Argentine
+Columbus Cafe,Ibz2bWXEU2kLjVYBtB4BPg,4.0,334,1,San Francisco,CA,94133,Dive Bars
+Cafe Me,bdFlEMBC6HRgoHKcgoHc1g,4.5,282,1,San Francisco,CA,94111,Coffee & Tea
+Li Po Cocktail Lounge,YfTg4ghDPIF48HxcFQvJdQ,4.0,567,1,San Francisco,CA,94108,Dive Bars
+Caffe Capriccio,__RnSySB3Z1rESyxOLilyw,4.0,386,1,San Francisco,CA,94133,Breakfast & Brunch
+Sam Wo Restaurant,Z_X0WvSmh9DUxBD9xhet9Q,4.0,834,1,San Francisco,CA,94108,Chinese
+Plentea - San Francisco,vMiM0kaavveZZ61lBe-LJg,3.5,1798,1,San Francisco,CA,94108,Tea Rooms
+Beacon Coffee & Pantry,jCBTQri4FzW6aQVXLBh1_w,4.0,267,1,San Francisco,CA,94133,Coffee & Tea
+901 Columbus Cafe,8O2Z292anffuimm9OXkbUA,4.0,327,1,San Francisco,CA,94133,Cafes
+Yan's Kitchen,SuGcF3UywZs6dOu8U45Anw,4.0,471,1,San Francisco,CA,94111,Chinese
+Bow Bow Cocktail Lounge,lQZNnHj-Km46ujwouI_zqQ,4.0,243,1,San Francisco,CA,94133,Karaoke
+Mara's Italian Pastry,eBwXYcyh_4C4xiKYCy1ygw,3.5,535,1,San Francisco,CA,94133,Bakeries
+Mama's On Washington Square,MvAo0hj9FXOeNL5PwBZ0fQ,4.0,3949,2,San Francisco,CA,94133,Breakfast & Brunch
+Tony's Pizza Napoletana,mSMZJj2pFvttWLpcDmgrEA,4.0,4282,2,San Francisco,CA,94133,Pizza
+Sotto Mare Oysteria & Seafood,8dUaybEPHsZMgr1iKgqgMQ,4.5,3219,2,San Francisco,CA,94133,Seafood
+Don Pisto's,voFE8DTKsTFi1Vzm_zzd0Q,4.0,1700,2,San Francisco,CA,94133,Mexican
+Italian Homemade Company,K9XVDlPNhrrSVEJN7uWqJQ,4.5,1123,2,San Francisco,CA,94133,Grocery
+Fog Harbor Fish House,f-m7-hyFzkf0HSEeQ2s-9A,4.0,4611,2,San Francisco,CA,94133,Seafood
+Molinari Delicatessen,FmGF1B-Rpsjq1f5b56qMwg,4.5,1015,2,San Francisco,CA,94133,Delis
+È Tutto Qua,F6SOy6-3tP4i-ipACZUS0g,4.0,1951,2,San Francisco,CA,94133,Italian
+Trattoria Contadina,6e7gMgVJRQ5rtkIbTF6TLQ,4.0,1214,2,San Francisco,CA,94133,Italian
+Baonecci Ristorante,gtIud2JPu_tW3LMldEOUaw,4.5,908,2,San Francisco,CA,94133,Pizza
+Il Casaro Pizzeria & Mozzarella Bar,I8T8aoAsFQYwQiRvLBayFA,4.5,903,2,San Francisco,CA,94133,Italian
+Tommaso's,MWaeG9XhJdFzbcrSrpF6mQ,4.0,1505,2,San Francisco,CA,94133,Italian
+Hollywood Cafe,vVN_oVe6jvr4PCmXg_m9CA,4.5,1873,2,San Francisco,CA,94133,Breakfast & Brunch
+Piccolo Forno,o43B4DnnQbvkdDK6AVafQg,4.5,398,2,San Francisco,CA,94133,Pizza
+Franchino,kgKMZc97EdDaq77dtTqqNQ,4.0,1044,2,San Francisco,CA,94133,Italian
+Original Joe's,GtKxIGU6LJu14UErdNulmQ,4.0,1158,2,San Francisco,CA,94133,Italian
+The Stinking Rose,ZiF9L8JML7kwfOi989OaTQ,3.5,3656,2,San Francisco,CA,94133,Italian
+Firenze by Night Ristorante,GJ0eh6qBV0NjVwmPQUkHXQ,4.0,928,2,San Francisco,CA,94133,Italian
+Capo's Chicago Pizza,OEBWAAJ3FmcseeP1oNwzBQ,4.0,693,2,San Francisco,CA,94133,Italian
+Sodini's Green Valley Restaurant,iZCSLA7clUGpUFzRnZtQkw,4.0,831,2,San Francisco,CA,94133,Italian
+R&G Lounge,ka1_lat2boQwLMsOCiwGiA,3.5,4093,2,San Francisco,CA,94108,Chinese
+15 Romolo,m0ip9nECwVVjfjulwrKisQ,4.0,1020,2,San Francisco,CA,94133,Tapas/Small Plates
+Betty Lou's Seafood & Grill,OH3GLEJvGhbER4d3xMuPIA,4.5,410,2,San Francisco,CA,94133,Seafood
+Mo's Grill,iFZuhhzJCfq5qQBOV5LWKw,4.0,795,2,San Francisco,CA,94133,Burgers
+Il Pollaio,66khyY7kxNKiW6x7anZj9g,4.5,360,2,San Francisco,CA,94133,Italian
+Boudin Bakery & Cafe,yyi2GpG_p7TX7XAq_eHSZA,4.0,2994,2,San Francisco,CA,94133,Bakeries
+La Trappe,O1MMFEvWtjzvD0dlSymreg,4.0,807,2,San Francisco,CA,94133,Belgian
+Caffe Sport,3523gS3FWpFdGFR7vjvhnA,4.0,649,2,San Francisco,CA,94133,Italian
+Mona Lisa Restaurant,bC3FfFqfaQu7gZznjkmt9Q,4.0,1249,2,San Francisco,CA,94133,Italian
+Mario's Bohemian Cigar Store Cafe,UjeOgcv831QTChTP04-Uag,4.0,546,2,San Francisco,CA,94133,Italian
+Curry Leaf,c70nh-BV7Nn_rnNXDXnABg,4.5,519,2,San Francisco,CA,94133,Indian
+Vesuvio Cafe,ZKVAo-v0LgVFhKQOXytsQQ,4.0,829,2,San Francisco,CA,94133,Lounges
+Hunan Home's Restaurant,cHoNUKltOAJWSmNfsZ1h-w,3.5,1872,2,San Francisco,CA,94133,Chinese
+Surisan,i09UMzccKgyLwGYKDVP28w,4.5,947,2,San Francisco,CA,94133,Korean
+Eight AM,4-ra3RxOy1PpvnaK49dy8w,4.5,970,2,San Francisco,CA,94133,American (New)
+The Buena Vista,wdlyeH5ug7uZpvtb-N97fQ,4.0,2296,2,San Francisco,CA,94109,Bars
+Massawa Restaurant,87wvt5-EkwbD1NY2gR5sAQ,4.5,230,2,San Francisco,CA,94133,Ethiopian
+Calzone's Restaurant,eIp-wW02p_jcrZ2atZGDRA,3.5,1385,2,San Francisco,CA,94133,Pizza
+Bodega,nF2XsQVUMFj-_LudpenBVg,4.5,160,2,San Francisco,CA,94133,Wine Bars
+House of Nanking,C0whbbQhUMBv8X-Mmtqrcg,3.5,3112,2,San Francisco,CA,94133,Chinese
+Maykadeh,OpBTLNaGnGcn8DRsLcEfQQ,4.0,741,2,San Francisco,CA,94133,Middle Eastern
+Comstock Saloon,fL02NLRFLMQT7Pot44gxhA,4.0,884,2,San Francisco,CA,94133,Lounges
+Caffé DeLucchi,IEsEE24dqyKEoqDNoHHMeA,3.5,901,2,San Francisco,CA,94133,Italian
+Candicake,FqplvrJGyzT2KYp8n4scvA,5.0,203,2,San Francisco,CA,94133,Cupcakes
+Victoria Pastry,VxtDQfBA3ECjTUO7CG1YXQ,4.0,471,2,San Francisco,CA,94133,Bakeries
+Tony Nik's Cafe,54iy2DqZfGgZWgADciELHg,4.0,280,2,San Francisco,CA,94133,Lounges
+Swan Oyster Depot,eI0DpD2Xx8hFlk7eAdFCqQ,4.0,2519,2,San Francisco,CA,94109,Seafood
+La Fusión,DLpHmXitZxDLdqTwydUSdA,4.5,1067,2,San Francisco,CA,94104,Latin American
+Ideale,Ws6FGlrk0yxBT7GFpik57g,4.0,689,2,San Francisco,CA,94133,Italian
+Leopold's,sQavxElZ71EGMrQ1zktn8Q,4.5,983,2,San Francisco,CA,94109,German
+The House,ZoZjbOYR-apY8XvommlNUA,4.5,4396,3,San Francisco,CA,94133,Asian Fusion
+Kokkari Estiatorio,PsY5DMHxa5iNX_nX0T-qPA,4.5,4159,3,San Francisco,CA,94111,Greek
+Park Tavern,4-pWX0F9mi_VlN1IAxweSQ,4.0,1465,3,San Francisco,CA,94133,American (New)
+House of Prime Rib,oT08T3Vpn1I7jDmrBBRMTw,4.0,6538,3,San Francisco,CA,94109,American (Traditional)
+Hillstone,_D1Ev_zTZs5ijHkleK6C2w,4.0,2040,3,San Francisco,CA,94111,American (New)
+Wayfare Tavern,ykvr3ib1gHQHI4tznSn8iA,4.0,3608,3,San Francisco,CA,94111,American (Traditional)
+Cafe Jacqueline,JJnkXwf96vh1Uu7XZWZZAg,4.0,615,3,San Francisco,CA,94133,French
+BIX,PzPPcGVg5O4UuW5cTopJhA,4.0,1693,3,San Francisco,CA,94133,American (Traditional)
+Trestle,jcFf2ZnJYL0nWCdIpqiA-g,4.5,722,3,San Francisco,CA,94133,American (New)
+Albona Ristorante Istriano,bbZXNAr-zs9PAwlu01LTCQ,4.5,655,3,San Francisco,CA,94133,Italian
+Frascati,xdAgbLBQcffIxI8mYgjT1Q,4.5,1141,3,San Francisco,CA,94109,American (New)
+Scoma's Restaurant,jqEpBbf_qNfWuz_GBkwCjw,4.0,3251,3,San Francisco,CA,94133,Seafood
+Stones Throw,uvQDJdwQM_pe_blEYQlgSg,4.5,846,3,San Francisco,CA,94109,American (New)
+Cotogna,HVJdo4f_6MxkM_1aCAK3NA,4.0,1297,3,San Francisco,CA,94133,Italian
+Seven Hills,dTWMVRcMVC4zynbFQC7A2A,4.5,904,3,San Francisco,CA,94109,Italian
+5A5 Steak Lounge,Q8cYhJGa9pwlu63f-KMV-A,4.0,2017,3,San Francisco,CA,94111,Steakhouses
+Crab House at Pier 39,kWrVV4mS-SLy-Ph_DeJSAg,3.5,2059,3,San Francisco,CA,94133,Seafood
+North Beach Restaurant,tzQaJ4-X7wZocpYBKKCRhQ,3.5,744,3,San Francisco,CA,94133,Italian
+Tadich Grill,WxxE5kE8omgQhJE8sWIvmA,4.0,2189,3,San Francisco,CA,94111,Seafood
+Perbacco,ztL8KI0ed0snCiK88ZUfNw,4.0,1929,3,San Francisco,CA,94111,Italian
+Piperade,eG5VcB6XuSp-C1mAggD_Cg,4.0,837,3,San Francisco,CA,94111,Basque
+Allegro Romano,5yY41syV-6KwSi-sfmv7CA,4.0,534,3,San Francisco,CA,94109,Italian
+Da Flora-A Venetian Osteria,EziYeY5tc3CVRLPXF-_McA,4.0,287,3,San Francisco,CA,94133,Italian
+Okoze Sushi,FkmficKyZxewFcG5H2FcNg,4.0,621,3,San Francisco,CA,94109,Sushi Bars
+The Speakeasy SF,L4EY97dIqxblXf75eeySNw,4.5,263,3,San Francisco,CA,94133,Performing Arts
+Tonga Room & Hurricane Bar,458NXhlB0ZtEaJUPI3PPcA,3.5,2440,3,San Francisco,CA,94108,Asian Fusion
+Ristorante Milano,v1aUahwzM8CTeLA0O7J8ww,4.0,677,3,San Francisco,CA,94109,Italian
+Franciscan Crab Restaurant,KfrgWyMWH1HBGvoUkDYoRQ,3.5,1570,3,San Francisco,CA,94133,Seafood
+Istanbul Modern SF,0T1Kc6tUWaG3cPnyiD40Hw,5.0,79,3,San Francisco,CA,94133,Turkish
+Pabu,BRz0ocqDzNlGS-AG1IpXtA,4.0,783,3,San Francisco,CA,94111,Japanese
+Top Of The Mark,f0c44sTsuLDmJO7tPCJ-tQ,3.5,1258,3,San Francisco,CA,94108,Breakfast & Brunch
+Tosca Cafe,RRcRzlyM3YL10XubBNKHFQ,3.5,450,3,San Francisco,CA,94133,Italian
+The Big 4,0XtBuSGMhpMOMKRBjtJ4FA,4.0,607,3,San Francisco,CA,94108,Lounges
+1760,r-H1GLL-5ST9_wzzhK-_CQ,4.0,658,3,San Francisco,CA,94109,American (New)
+Venticello Ristorante,ottYyioDD3E8OBzrF4QXfg,4.0,472,3,San Francisco,CA,94108,Italian
+Ichido,fchN6rNVAb1-OqxLMcdrvA,4.5,79,3,San Francisco,CA,94133,Seafood
+Cold Drinks Bar,1BK60N2F581Yi0IqmccL_g,4.5,71,3,San Francisco,CA,94133,Cocktail Bars
+Cocotte,xO2V0wkXP3Na-mWhLo1ZxQ,4.0,463,3,San Francisco,CA,94109,French
+Leo's Oyster Bar,EKLjQC4LH_WPFJPubtPfMQ,4.0,281,3,San Francisco,CA,94111,Bars
+Nico,aDM5I7syc0LR49nf7pLIXQ,4.0,239,3,San Francisco,CA,94111,American (New)
+Bob's Steak & Chop House,cj14YLKJk5fWDjYc6auZVg,3.5,551,3,San Francisco,CA,94104,Steakhouses
+B44 Catalan Bistro,9GDwCGORwtpgiQJs3K72JA,3.5,1002,3,San Francisco,CA,94104,Spanish
+Rue Lepic,mNFQuOA_hhrqmJeHg-AzKA,4.0,269,3,San Francisco,CA,94108,French
+Waterfront Restaurant,DeGdhZKXoTnyyFc8GC2BHg,3.0,1063,3,San Francisco,CA,94111,Seafood
+The Lounge,8wGfkHlQyS-tfZYwdQNuMQ,4.0,118,3,San Francisco,CA,94108,Lounges
+Lord Stanley,s6qUvb3LGcQtS38AG2i74Q,3.5,209,3,San Francisco,CA,94109,Modern European
+AltoVino,scOW_lrWRh0dPb5aFS8pmg,4.5,35,3,San Francisco,CA,94133,Italian
+Sam's Grill & Seafood Restaurant,rae5BYOri8Def-VVYZzpSg,3.5,335,3,San Francisco,CA,94104,Seafood
+Laurel Court Restaurant & Bar,4qm1k0WytiIJZ3WO4lyPMQ,3.0,312,3,San Francisco,CA,94108,Bars
+Toy Soldier,CJoB6XuCZ8XGoU8Nht6i-A,4.0,99,3,San Francisco,CA,94104,American (New)
+Gary Danko,WavvLdfdP6g8aZTtbBQHTw,4.5,4944,4,San Francisco,CA,94109,American (New)
+Quince,zFxD8QinHt69Bs7M2mgB-Q,4.0,1385,4,San Francisco,CA,94133,French
+KUSAKABE,U0GqpXzcIDlad7vQHbB63Q,4.5,750,4,San Francisco,CA,94111,Sushi Bars
+Roka Akor - San Francisco,qKVwVCJ_5D0iOxJYE9wSJw,4.0,1079,4,San Francisco,CA,94133,Steakhouses
+La Folie,eSixRz7xcwtFdeh9hN5TyQ,4.5,1417,4,San Francisco,CA,94109,French
+Coi,HG5cvtfUcpMojb2RyB2ZJQ,4.0,739,4,San Francisco,CA,94133,American (New)
+Acquerello,mDM7-ho67ePJXd5TodtCOg,4.5,1029,4,San Francisco,CA,94109,Italian
+Michael Mina,5I3fM8fRdkJdKL-_BJ1qvw,4.0,1148,4,San Francisco,CA,94111,Middle Eastern
+Keiko à Nob Hill,6ZNlnA733Rv0I9Mq5_yO0A,4.5,373,4,San Francisco,CA,94109,Japanese
+Mister Jiu's,p22TPx1EFZcuEzl2qhuzGA,4.0,446,4,San Francisco,CA,94108,Chinese
+Eight Tables by George Chen,2FOv-XAZ2sMIlrE5xJc1Hw,5.0,46,4,San Francisco,CA,94133,Chinese
+Osso Steakhouse,9-TPmOn6AbW2fLMiugQCiA,4.0,649,4,San Francisco,CA,94108,Steakhouses
+Parallel 37,GnxzYamcJRd5NG94wGxdcw,4.0,192,4,San Francisco,CA,94108,American (New)
+Jai Yun,BnZYqj66esOPiSbqeJb7zA,3.5,136,4,San Francisco,CA,94133,Chinese
+Kinjo,OlgHnpdim58vWkjuh3rVcw,4.0,76,4,San Francisco,CA,94109,Japanese
+Villa Taverna,5vAr0fMMF1BBW-ZJgr3UYg,4.5,16,4,San Francisco,CA,94111,Italian
+Mandarin Lounge,mQcPH4b77-fPh7yFuqLctQ,1.0,1,4,San Francisco,CA,94104,Lounges
+Absolute Bagels,JV5oa5-KGdiWnqrKPoxSug,4.5,1179,1,New York,NY,10025,Bakeries
+Doaba Deli,6NcU2JAznLr9dDHp6GgQyw,4.5,213,1,New York,NY,10025,Indian
+Xi'an Famous Foods,XiIBASyS65DX3E_staW0JQ,4.0,327,1,New York,NY,10025,Chinese
+Hungarian Pastry Shop,8Qe6g3Dv5NXN1Zq-egJk9w,3.5,580,1,New York,NY,10025,Bakeries
+Roti Roll Bombay Frankie,Y2I946V78wOdwaUD9chmqg,4.0,340,1,New York,NY,10025,Indian
+Sal & Carmine's Pizza,Qab4GBAxxjacF4KsXLFETA,3.5,308,1,New York,NY,10025,Pizza
+Taqueria y Fonda La Mexicana,YKAwpTnKO-n5vB9-pqaCLQ,3.5,459,1,New York,NY,10025,Mexican
+Koronet Pizza,A46G2OAvLxFswiONB50Rrg,3.5,575,1,New York,NY,10025,Pizza
+Beard Papa's,JaFHhBaCNRJYaGW9zeFQCQ,4.5,783,1,New York,NY,10024,Bakeries
+Cool Fresh Juice Bar,a2V1TZm-KjIYKa8Miffn1Q,4.5,73,1,Manhattan,NY,10025,Juice Bars & Smoothies
+Filicori Zecchini,5QszELqJFqeFgpeujfknlQ,4.0,165,1,New York,NY,10025,Coffee & Tea
+The Halal Guys,WEDQ3ysOS2twleC7TZlmGw,3.5,337,1,New York,NY,10025,Halal
+By the Way Bakery,yaBrQbt7kMrbXAo6qrzpYw,4.5,182,1,New York,NY,10024,Bakeries
+Shiny Tea,-yyCWn1iihJ3XpFNIq16-w,4.5,90,1,New York,NY,10025,Bubble Tea
+Little Italy Pizza,HpjArOwDD0ddcD2cvCDp6Q,4.0,222,1,New York,NY,10025,Pizza
+Broadway Dive Bar,KKBVN_B6iSJXINk2HQ46gQ,4.0,126,1,New York,NY,10025,Dive Bars
+Joe Coffee Company,EO1zP_tunYXKHYx-Xnqbeg,4.0,351,1,New York,NY,10024,Coffee & Tea
+Broadway Restaurant,W0c-FS060axwxHcCtJwuRw,4.0,148,1,New York,NY,10025,Diners
+Broadway Bagel,hH5PbL-5BpYKKhJhkD_kqA,4.0,144,1,New York,NY,10025,Bagels
+BO's Bagels,Fx_zqaXVgc8BzwIfcbEKkw,4.5,187,1,New York,NY,10026,Bagels
+Lion's Head Tavern,Y_8ZwQYDznZX1-rs_wm6RQ,4.0,194,1,New York,NY,10025,Bars
+La Toulousaine,-vi_QVn-2NmA8IcaR6xyGw,3.5,197,1,New York,NY,10025,Bakeries
+Lee Lee's Baked Goods,YNgBR2pGWmMZAYFQbByODA,4.5,128,1,New York,NY,10026,Bakeries
+Cafe Viva,kyb7m3xsdP44Kz3RcsWIAA,3.5,201,1,New York,NY,10025,Pizza
+Lenny's Bagels,NzHiK8Csmypx4f6jYhSqiQ,4.0,117,1,New York,NY,10025,Delis
+Milk Bar Upper West Side,ZTlbDn7S3ZZfCDMlpVrAQg,3.5,462,1,New York,NY,10024,Desserts
+Panchos,DY2wlHlgC5eHITs-d5rT4w,4.5,51,1,New York,NY,10025,Mexican
+Mila Cafe,FvXuQowHsViFdkpF5M6Xvw,4.0,122,1,New York,NY,10025,Breakfast & Brunch
+Mani Market Place,VKKXe8TdToQN5vXfxj5csg,4.5,61,1,New York,NY,10025,Delis
+Kuro Kuma Espresso & Coffee,2JdCSsfcRQt0L_8DN3ttKA,4.5,140,1,New York,NY,10027,Coffee & Tea
+Oren's Daily Roast,7YW6FGfOKG5IaSca0wW8WA,4.0,135,1,New York,NY,10025,Coffee & Tea
+16 Handles,DldbsUqtMSDC1xIHLbnjng,4.0,88,1,New York,NY,10025,Ice Cream & Frozen Yogurt
+Super Tacos,R4L19kfjFVoJoiRw_nXmqg,3.5,133,1,New York,NY,10025,Mexican
+Little Bean Coffee,QDSUr46BlJP2_vhUI5nZtg,4.5,63,1,New York,NY,10026,Coffee & Tea
+Oaxaca Taqueria,La78lTOdzTrdFYTGXUp7og,3.5,351,1,New York,NY,10024,Mexican
+Earth Cafe,Q6qHkTit6cROizlLt2oQXA,3.5,159,1,New York,NY,10025,Cafes
+Park West Cafe & Deli,bJkTqu1m0jlEt3H8FCypJQ,4.5,55,1,New York,NY,10025,Delis
+DTUT,doBm7WkYKNG-KRExevrRtA,4.0,444,1,New York,NY,10128,Bars
+Insomnia Cookies,uB06543q7HRgXc_8S5wtFA,3.5,288,1,New York,NY,10024,Bakeries
+Culture Tea Bar,Zz4UZSodpCcfIUGO7XYl4A,4.5,101,1,New York,NY,10027,Bubble Tea
+Tea Magic,oRF8tpn0SoXb6QP7qf0iPg,3.5,194,1,New York,NY,10025,Coffee & Tea
+Joy Burger Bar,_9TDcp-kRMeLyje8gMopDg,3.5,536,1,New York,NY,10029,Burgers
+Pie Pie Pizza,SIpueSX4PFX1zaUsb7tmlA,4.0,59,1,New York,NY,10025,Pizza
+Jerusalem Restaurant,Z4OF9kKSikiYZCx62_aq8A,3.0,151,1,New York,NY,10025,Middle Eastern
+Chapati House,3N3XesISm5tg_nsjL10eFA,4.0,194,1,New York,NY,10027,Indian
+Freddie & Pepper's,JFw_Zj4CFTJbTPKJdPQ_Gw,4.0,399,1,New York,NY,10023,Pizza
+Matcha Love By Ito En,rEOG5IJN_5TI2Xn8d3D0Dg,4.0,168,1,Edgewater,NJ,07020,Coffee & Tea
+Zanny's Cafe,eCAOhaI3cKSIQUvDWd6MGQ,3.5,83,1,New York,NY,10025,Coffee & Tea
+Two Boots Upper West Side,nYJzYoiENZdZW57a75H_Ww,3.0,164,1,New York,NY,10025,Pizza
+Falafel On Broadway,n_KosOPSHS81Yq0D6X3peQ,4.0,171,1,New York,NY,10027,Middle Eastern
+Levain Bakery,H4jJ7XB3CetIr1pg56CczQ,4.5,6915,2,New York,NY,10023,Bakeries
+Jacob's Pickles,xt4sa64WOrpJvZBDPNPNYg,4.0,3281,2,New York,NY,10024,Comfort Food
+Calle Ocho,H9GD7km7riFooM0FkdwOPg,4.0,2369,2,New York,NY,10024,Cuban
+Thai Market,p2zm0HnXZkI2yCAuYLb45g,4.0,894,2,New York,NY,10025,Thai
+Levain Bakery,QHYqNQhQ8NVK0RX68Y4PuQ,4.5,615,2,New York,NY,10026,Bakeries
+Amy Ruth's,tsiC3VpO-hZEb98Qk3p-DQ,4.0,2273,2,New York,NY,10026,Southern
+Saiguette,sKIYGvENchifk1YwFe77pA,4.0,507,2,New York,NY,10025,Vietnamese
+The Mermaid Inn,vQcK7BH6maW9dAZWJOuW3Q,4.0,961,2,New York,NY,10024,Seafood
+Carmine's Italian Restaurant - Upper West Side,mTWlEiCUEBlxBAkIikkB1A,4.0,1133,2,New York,NY,10024,Italian
+Flor de Mayo,B87c3bE_u53yNYO1cmHSIw,4.0,497,2,New York,NY,10025,Chinese
+Mitsuwa Marketplace,JUPxlDVMxuRSsqMcH6RCVg,4.5,1443,2,Edgewater,NJ,07020,Japanese
+Seasoned Vegan,IJg3TdXz8IzKTfcspmr8MQ,4.0,877,2,New York,NY,10026,Vegan
+Flor De Mayo,H1jops1lmuhrq9lP7lEGJQ,4.0,1077,2,New York,NY,10024,Chinese
+Pio Pio 6,zGtR4FNGDD1EjdxIzKF-HA,3.5,680,2,New York,NY,10025,Latin American
+Lido,J9xVQScnr0lYWl61_mLXMA,4.0,841,2,New York,NY,10026,Italian
+Arco Cafe,f_1BjTChf6bobreSRpqhsw,4.0,224,2,New York,NY,10025,Italian
+Peacefood Cafe,zBf-m72ATTPTey-_9vu3Yw,4.0,1122,2,New York,NY,10024,Vegan
+Awash Ethiopian Restaurant,tbg4gR3jUUllR28cySo2kg,4.0,417,2,New York,NY,10025,Ethiopian
+Lolo's Seafood Shack,XOnspIaW6mYVmrvgqOaYSQ,4.0,558,2,New York,NY,10026,Seafood
+Freda's Caribbean & Soul Cuisine,BQcgpQxUM39PMO_YDl_CqA,4.0,466,2,New York,NY,10025,Caribbean
+Maison Pickle,XsElXaLxUPKquI78poB8yw,4.0,564,2,New York,NY,10024,Cocktail Bars
+Barney Greengrass,XKWvRI7WI4LotDLUboUUGA,4.0,643,2,New York,NY,10024,Specialty Food
+Shake Shack,wXpCNNTT2kqh-fTnSWXdEA,4.0,2287,2,New York,NY,10024,Burgers
+Dinosaur Bar-B-Que,XzUW9MvEGOFs9_aNj11j2Q,4.0,2735,2,Harlem,NY,10027,Barbeque
+Community Food & Juice,8lLs3dsSN-Am2_EtNfbXqA,3.5,839,2,New York,NY,10025,American (New)
+Silver Moon Bakery,LXxYiSqSereUtkY6EDEnHQ,3.5,375,2,New York,NY,10025,Bakeries
+Melba's,4rWJGwb3rjDoZHA0AECa5A,4.0,845,2,New York,NY,10026,Southern
+Candle Cafe West,UYUIi1gaaJQqvx0tyiHUNg,4.0,376,2,New York,NY,10024,Cafes
+Smoke Jazz & Supper Club,trbr9pYDDmXCj9z8m2d6LQ,4.0,333,2,New York,NY,10025,Jazz & Blues
+Land,83BXSwE0166sObnXLUE4bQ,4.0,996,2,New York,NY,10024,Thai
+Pisticci,wZkZmjZEJDraLJgAalnHvA,4.0,737,2,New York,NY,10027,Italian
+Malaysia Grill,B9Mbi12NpBJkZcRtQNtMBA,4.0,255,2,New York,NY,10024,Malaysian
+Dive Bar,ubjgMch7fGLJNW60M2xilg,4.0,409,2,New York,NY,10025,Dive Bars
+Luke's Lobster Upper West Side,ahWC_GUPWPMyYiSKsgBPiA,4.0,626,2,New York,NY,10024,Seafood
+Ayurveda Cafe,1TLoaB7SXJZo3W5f4OGm8w,4.0,284,2,New York,NY,10025,Indian
+Crepes on Columbus,g8vu1G_fZLrPpGf2UHk6-Q,3.5,498,2,New York,NY,10025,Creperies
+The Hamilton,KMrQFZY20m4-Dnu3VGltrg,4.5,105,2,New York,NY,10025,Cocktail Bars
+Jin Ramen,EvAJBgBdgOt1jx1EufRN7w,4.0,681,2,New York,NY,10024,Ramen
+Buchetta Brick Oven Pizza,LZcpNrQQqC5IWbE4c-9Cyw,4.0,197,2,New York,NY,10025,Pizza
+Celeste,rJJiGJx3kfMAxtD7P7okHQ,4.0,826,2,New York,NY,10024,Italian
+Good Enough to Eat,cQxtisUT6TgEGSN7gpnTDg,3.5,1315,2,New York,NY,10024,Breakfast & Brunch
+Casa Mexicana,XO6IbZn2oxonPrfcXHK4HA,4.0,166,2,New York,NY,10025,Mexican
+Vino Levantino,fp8X7ERa-0Ot_QD36I4ghw,4.0,207,2,New York,NY,10025,Mediterranean
+Szechuan Garden,xCHApgtkLpEyh0lz-uhZvg,4.0,212,2,New York,NY,10025,Szechuan
+Bodrum Mediterranean Restaurant,6KcS6hc2j4kJi2XTGxC1eg,4.0,351,2,New York,NY,10024,Mediterranean
+Koko Wings,z28cRtpdfiJfzIp1vkMAwQ,3.5,262,2,New York,NY,10025,Korean
+Osteria Cotta,Q1_UvNyONsaVS_VC1mD9Dw,4.0,683,2,New York,NY,10024,Italian
+Naruto Ramen,FLKABU82NNDnCvZSZD75Bg,4.0,187,2,New York,NY,10025,Ramen
+Awadh,lP8uDU4oNEkPD8-Ik-PvQQ,3.5,266,2,New York,NY,10025,Indian
+Birch Coffee,b_E6Ogi2nCO1Sz9NTLUlrQ,3.5,298,2,New York,NY,10025,Coffee & Tea
+Buceo 95,9BzRiWO6PSdR-l3dzCm3VA,4.0,393,3,New York,NY,10025,Tapas Bars
+Fleming's Prime Steakhouse & Wine Bar- Edgewater,mZ1gKg1OT9-YHxplYLKIpw,4.0,426,3,Edgewater,NJ,07020,Steakhouses
+HAVEN Riverfront Restaurant and Bar,ME0627wYk0ikhX2yf1fN7w,4.0,621,3,Edgewater,NJ,07020,American (New)
+The Milling Room,PnGSE8JGbMZKtdHi9go7Kg,4.0,352,3,New York,NY,10024,American (New)
+Burke & Wills,mWQiNb6IUGqIRLzR3rE-Fg,4.0,371,3,New York,NY,10024,Australian
+Momoya,PTYUAAJbEmvIv4EsyRrcnA,4.0,387,3,New York,NY,10024,Sushi Bars
+Vai Restaurant,iBPQRnM_TMQX6tYdjCbCXA,4.0,336,3,New York,NY,10024,Italian
+Amelie,UJe9_p6NEl0kA6xHVo5PKw,4.5,77,3,New York,NY,10024,French
+Crave Fishbar,0LKC_M1bumyOcgWgbH9OdQ,4.0,219,3,New York,NY,10024,Seafood
+Clay,9fydXI0fj2s-EmlF7vm8Og,4.5,100,3,New York,NY,10027,American (New)
+Tessa,8nXo6lNJlXQQIdy8Kf7J9Q,4.0,299,3,New York,NY,10024,Mediterranean
+RedFarm,B7bxdtvLYR7Nmex4AIFd4w,3.5,528,3,New York,NY,10024,Dim Sum
+Minton's Playhouse,sJPayLq6EqepJbPGLlFfHw,3.5,166,3,New York,NY,10026,Jazz & Blues
+La Mirabelle,3pgbgiPTA2WmZ9fsDKlojA,4.0,106,3,New York,NY,10024,French
+Rebecca's,XJ8mq5IE2LQ0AYq574KAIw,4.0,247,3,Edgewater,NJ,07020,Cuban
+Talia's Steakhouse & Bar,vdmLsd-_-EQ7W6TnvfYdAQ,3.0,284,3,New York,NY,10025,Steakhouses
+Ristorante Morini,l1EdTmBBFzxQIZDftPZeUQ,4.0,243,3,New York,NY,10028,Italian
+Manhattan Cricket Club,weCOWpBaTreowCDFuBznqw,4.0,78,3,New York,NY,10024,Cocktail Bars
+Sfoglia Restaurant,3P8hb1ZOCA8IjEGfqpSpxg,4.0,257,3,New York,NY,10128,Italian
+OLMA Restaurant & Bar,5sTcJ4QDxE8ieVz2dLpjtQ,4.0,89,3,New York,NY,10024,Seafood
+Korali Estiatorio,Bn1mZhb501Tvf7_-Pfi9_g,4.0,162,3,New York,NY,10128,Greek
+Waterside Restaurant & Catering,-ry1ti7hInsrR5dC2wZ0TA,3.0,345,3,North Bergen,NJ,07047,American (New)
+Cesca,VUcrIqM40HWWb2sxAS9mLA,3.5,286,3,New York,NY,10023,Italian
+Paola's Restaurant,dWc0ijADaD6ZdclJ5LqQdg,3.5,142,3,New York,NY,10128,Italian
+Dean & DeLuca,b8icBOr_QocfxiZHzIqa6Q,3.5,149,3,New York,NY,10028,Specialty Food
+The Cecil Steakhouse,twvQigBbR8xysrUjZclbtA,3.5,59,3,New York,NY,10026,Steakhouses
+The Kosher Marketplace,E5aMm_pUrb8QfaFxM6Dv9g,4.0,25,3,New York,NY,10024,Specialty Food
+Chocolate Works,asxC0_vQ0ZQ1Wcgv4Z63wA,3.5,34,3,New York,NY,10025,Desserts
+La Sirène,EaNRl3vlDOsNF-gkCR5mBA,4.5,24,3,New York,NY,10024,French
+Il Gatto Nero,zGGIbJyhDZQk3y-PbUVdsA,3.5,28,3,New York,NY,10025,Italian
+The Wright,W1GdZLkOWkrjuQCeXW79vw,3.5,70,3,New York,NY,10128,American (New)
+Citarella Gourmet Market - Upper West Side,nO9b-iD_-EsZ-F0q0_0djw,3.5,84,3,New York,NY,10023,Grocery
+Acappella,0ilxaqMZ-V-y-CsQnEpYWg,3.5,69,3,Edgewater,NJ,07020,Italian
+Peri Ela,GFdJfLJUlOcwD3NZamijKA,3.5,74,3,New York,NY,10128,Turkish
+The Owl's Tail,ftL-f4OoFFshVYSZwTOrYA,5.0,14,3,New York,NY,10023,Cocktail Bars
+Demarchelier Restaurant,HTZ9GOR_Cylt6bxG55co7Q,2.5,187,3,New York,NY,10028,French
+Juice Press,brW_0BzmlskoFoycBNoclQ,3.5,26,3,New York,NY,10128,Juice Bars & Smoothies
+Central Markets,Qn10NNqKN3f85VdK15VOLw,2.5,38,3,New York,NY,10025,Grocery
+Hudson Beach Cafe,8x82oG3DrVT1btlyQEUC6A,2.5,16,3,New York,NY,10025,Burgers
+City Pastry,aPicXra8di8yAU30Raxm0A,4.5,3,3,New York,NY,10026,Bakeries
+Starbucks,h8YR7eTACfNv9hdjbjcjbA,3.0,5,3,New York,NY,10025,Coffee & Tea
+Butch Bakery,lc3yTgcQnTMdxMuMxEd1qw,3.0,8,3,Manhattan,NY,,Bakeries
+The Corner Restaurant,W2XCv-LimSF8p9nXLdt_YQ,2.0,13,3,New York,NY,10128,American (Traditional)
+Guggenheim Museum Store,vRqbgA3Rb04cqZznZbdLXQ,3.0,1,3,New York,NY,10128,Gift Shops
+Gari Columbus,iHwhkW0LLlu81ZCir-lFQA,4.0,313,4,New York,NY,10024,Sushi Bars
+103rd Street Coffee Cart,gJsQyIBm6DkrTHVP1y-LIg,4.5,3,4,New York,NY,10025,Coffee & Tea
+Sing's Deli,o5Rkhc6jx3uTXhQko6RO1w,3.0,6,4,New York,NY,10128,Delis
+Zheng's River Restaurant,HKjazh_40Gei5rP5ir-F2w,4.0,1,4,New York,NY,10026,Chinese
+Cucina Bene II,QKm9J6QXfsFHSXKsjDNIxg,2.5,11,4,New York,NY,10029,Pizza
+Benjamin's Corner,9KlSOF-kA0anifAvQABoVw,2.0,1,4,New York,NY,10027,Food Stands
+Café On One,6Sj904Mjc1-xt4inj6pLyA,1.5,8,4,Manhattan,NY,10024,Cafes
+Primo's Cafe,QrYXI69HihIMKqUvccj2FA,2.5,2,4,New York,NY,10027,Cafes
+Eastside Goumet Deli Incorporated,UxIC9lB5uaNV-YC5NctZ4w,2.0,4,4,New York,NY,10029,Delis
+Baskin-Robbins,LCqrPD-pQt7VUzdrbQkdUQ,1.5,4,4,New York,NY,10128,Ice Cream & Frozen Yogurt
+Sisig City,PEeoyqiSGpWpZ9hOMyibvw,2.5,2,4,Staten Island,NY,10305,Filipino
+Soft Swerve,7-jMpWGUxPB8EEtmoqNdqg,4.5,1401,1,New York,NY,10002,Ice Cream & Frozen Yogurt
+Sugar Sweet Sunshine Bakery,qVSOes5JoWc5_umv4nd4Hg,4.0,1996,1,New York,NY,10002,Bakeries
+Vanessa's Dumpling House,IhSVn0TaX8xXb3wcQ-fgcA,4.0,2327,1,New York,NY,10002,Chinese
+Cheeky Sandwiches,gHdejB1Mx2P5UjAgZ6BT2w,4.5,1055,1,New York,NY,10002,Sandwiches
+Prince Street Pizza,zj8Lq1T8KIC5zwFief15jg,4.5,2139,1,New York,NY,10012,Pizza
+Wah Fung No 1 Fast Food,X8ZS-dgiMIJvhwf9SaDnjw,4.5,1036,1,New York,NY,10002,Chinese
+Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,4.0,2535,1,New York,NY,10013,Ice Cream & Frozen Yogurt
+Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,4.5,2238,1,New York,NY,10013,Ice Cream & Frozen Yogurt
+Shu Jiao Fu Zhou Cuisine Restaurant,lynQoI3w_pzYfHGeuUU-Qg,4.5,547,1,New York,NY,10002,Chinese
+Eileen's Special Cheesecake,6G_NSMacAfdf-WYOpcQ4uw,4.5,1390,1,New York,NY,10012,Bakeries
+Petee's Pie Company,PWsU_ORsfcjeeUqocm9vQg,4.5,572,1,New York,NY,10002,Bakeries
+Banh Mi Saigon,MDMw0HFK3rgeGRl-FZC9Fg,4.0,1358,1,New York,NY,10013,Vietnamese
+88 Lan Zhou Handmade Noodles,Lbs8QBRN1U7IYBo5Mcv-RQ,4.0,1515,1,New York,NY,10013,Chinese
+Gaia Italian Café,jdNdy-MwBtnXoBGC_JVvwQ,4.5,898,1,New York,NY,10002,Italian
+Breakroom,MfbVI5reXLIIs8Cc2HwgQw,4.5,1418,1,New York,NY,10013,Burgers
+Juicy Spot Cafe,lh6ULw-ZkVgKrAM-zznqqw,4.5,369,1,New York,NY,10002,Juice Bars & Smoothies
+Erin McKenna's Bakery,V7spJMcFmlZXBHUuhx3Mpw,3.5,1031,1,New York,NY,10002,Bakeries
+Stax Ice Cream,-NtHP64oJGd1ZunqQjx8fg,4.5,304,1,New York,NY,10002,Ice Cream & Frozen Yogurt
+Round K,kuKSvCZDFrgOrY-dcrOefg,4.5,309,1,New York,NY,10002,Coffee & Tea
+Boba Guys,9_PfzNxJP2iqqJs8hDubgw,4.0,586,1,New York,NY,10002,Coffee & Tea
+Kam Hing Coffee Shop,nOCjslrdcKBQQYgD5qUs9Q,4.5,589,1,New York,NY,10013,Bakeries
+Shanghai Cafe,x_t-FtDa5HVgc-wecp0HBg,3.5,2026,1,New York,NY,10013,Shanghainese
+10Below Ice Cream,qfk_JyRqMmm6FDfoqN6GiA,4.0,1225,1,New York,NY,10013,Ice Cream & Frozen Yogurt
+Wolfnights,jpw7iGUzsj_AECKt351X8w,4.0,462,1,New York,NY,10002,American (New)
+Spicy Village,8ig0yf0003DAp4YOGTlbVg,4.0,536,1,New York,NY,10002,Chinese
+Creperie,ruE5cqNFvkkIgkk0dL5pYA,4.0,460,1,New York,NY,10002,Creperies
+Cheese Grille,8EBOj5bMglNI-jRIQvf6wg,4.0,488,1,New York,NY,10002,American (Traditional)
+Saigon Vietnamese Sandwich Deli,ocXYGC2oiGDJSzA7qu4SGw,4.0,577,1,New York,NY,10013,Sandwiches
+Tasty Hand-Pulled Noodles,97q5nUQTuBo_h00XCxna2A,4.0,1429,1,New York,NY,10013,Chinese
+12 Corners Coffee,slWILOuiZQFhao3_3lW3Dw,4.5,309,1,New York,NY,10002,Coffee & Tea
+Kopitiam,r2JVKalbucGf2nryywuL2w,4.0,348,1,New York,NY,10002,Malaysian
+Roasting Plant,fiVtLDD20uyMh_qiAKyZGA,4.0,258,1,New York,NY,10002,Coffee & Tea
+Parisi Bakery,6q6WWGaO75PQkpWOQ2zzHQ,4.5,373,1,New York,NY,10012,Bakeries
+Pho Grand,yvg56iLnpb2cDb1rCZrCUA,3.5,715,1,New York,NY,10002,Vietnamese
+Super Taste,bT4CDzyhV-frXV6ijvXnvw,4.0,478,1,New York,NY,10002,Chinese
+Cafe Himalaya,noBCTbD1Ylf5QR7PXy-rkA,4.0,558,1,New York,NY,10009,Himalayan/Nepalese
+Empanada Mama L.E.S,Uut2fBy53XdIgx1rLWdQeg,3.5,497,1,New York,NY,10002,Colombian
+Patacon Pisao,XpgquUrYWa-URbgi-3pykg,4.0,330,1,New York,NY,10002,Venezuelan
+Sam's Fried Ice Cream,KxK58KNpMw9A-gnysr6I5w,4.5,194,1,New York,NY,10002,Ice Cream & Frozen Yogurt
+Pause Cafe,sR60I9PI_63noBQcGoIrbw,4.5,317,1,New York,NY,10002,Moroccan
+Melt Bakery,ReYr4cHNlnZ4jiC4R7IRZg,4.0,346,1,New York,NY,10002,Ice Cream & Frozen Yogurt
+Old Man Hustle,fzN8PuCQ1l2sAvCyiMWC8g,4.5,146,1,New York,NY,10002,Cocktail Bars
+Trapizzino,Sp-vnk-waTvKblG_88M4TA,4.5,161,1,New York,NY,10002,Italian
+Big Wong,L37A2JWXfwR_PgKColA8xA,3.5,1304,1,New York,NY,10013,Chinese
+Bar Pa Tea,V49pn2KD8848gpSRMqLIww,4.0,475,1,New York,NY,10012,Bubble Tea
+Teado Tea Shop,AYjVpQ5jYz5gJJqXh_B_CA,4.5,281,1,New York,NY,10002,Coffee & Tea
+Punjabi Grocery & Deli,PdzL9svqapSqH4o8bF86Pw,4.5,357,1,New York,NY,10009,Indian
+Yaya Tea Garden,6xPlSpyxE3PLJVeRvt2BwQ,4.0,437,1,New York,NY,10002,Coffee & Tea
+China North Dumpling,ovOupYdkZOWUeDMOdt--ng,4.0,267,1,New York,NY,10002,Chinese
+Spreadhouse Cafe,wTA00Dov2lFYXKnZ58eXAQ,4.0,353,1,New York,NY,10002,Cafes
+Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,4.5,3054,2,New York,NY,10002,Donuts
+Katz's Delicatessen,V7lXZKBDzScDeGB8JmnzSA,4.0,9848,2,New York,NY,10002,Delis
+Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,4.0,4323,2,New York,NY,10002,Bakeries
+Russ & Daughters,VrCCr45dhN-RRM107iptdg,4.5,1837,2,New York,NY,10002,Bagels
+The Boil,tiSw-6DIm3-mMORyEIOVyg,4.5,1684,2,New York,NY,10002,Cajun/Creole
+The Meatball Shop,P4hm-IKNMbBbtfWSvPf25A,4.0,2672,2,New York,NY,10002,Italian
+Cafe Katja,zo4mcEfVKaktdj_gnSFhGQ,4.5,729,2,New York,NY,10002,Pubs
+Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,4.0,5630,2,New York,NY,10012,Pizza
+Zest Sushi,ZfuZ2byArGq-5j8zX8Afeg,4.0,736,2,New York,NY,10002,Sushi Bars
+La Contenta,6Ct7OeTRn4caY9g0swFBsw,4.5,626,2,New York,NY,10002,Mexican
+Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,4.0,3053,2,New York,NY,10012,Cuban
+Joe's Shanghai,0CjK3esfpFcxIopebzjFxA,4.0,5392,2,New York,NY,10013,Shanghainese
+Rice To Riches,HxC2ZN010NxAFwjTqUVpzw,4.0,2840,2,New York,NY,10012,Desserts
+99 Favor Taste,Xf6e3HaP0AgMBxY7dEDkOA,4.0,1434,2,New York,NY,10002,Chinese
+Barrio Chino,RzKR9QcYP03EQ_8DxTxowg,4.0,1048,2,New York,NY,10002,Mexican
+The MasalaWala,sCC7-hSdCkNPExejZT9BAQ,4.5,1220,2,New York,NY,10002,Indian
+Verlaine,XghOzJn16M-nvaKMOdC5og,4.0,1332,2,New York,NY,10002,Tapas/Small Plates
+Ice & Vice,HaRZCA7LK8BzG0buH2SaZA,4.5,668,2,New York,NY,10002,Desserts
+il laboratorio del gelato,HjZvV6WAdsusCRlY0iSxYg,4.0,1226,2,New York,NY,10002,Ice Cream & Frozen Yogurt
+Russ & Daughters Cafe,0rQz8mkleT62eUkiAVs4UA,4.0,754,2,New York,NY,10002,Bagels
+Sweet Chick,8F81LrdFm6P5kkFpsw0n0w,4.0,1296,2,New York,NY,10002,Southern
+Cocoron,JhJLPp6KuBcD3CHCkEKJ_A,4.0,922,2,New York,NY,10002,Japanese
+Rubirosa,WG639VkTjmK5dzydd1BBJA,4.0,1692,2,New York,NY,10012,Italian
+Milk & Cream Cereal Bar,cGx9CYLxw6fqUQU-MFup8A,4.5,712,2,New York,NY,10013,Ice Cream & Frozen Yogurt
+Pig and Khao,nxTEuWKzkK1tCF4LrhFSUQ,4.0,1332,2,New York,NY,10002,Filipino
+Freemans,w4cFJhUpjGXqqWBd3BbY4w,4.0,1914,2,New York,NY,10002,Breakfast & Brunch
+Jajaja,XipQLDbyTl5tsLlyzAWzug,4.5,444,2,New York,NY,10002,Mexican
+Simple NYC,AjlmpAQV8W4--y0EksO-9g,4.5,298,2,New York,NY,10002,Poke
+Claw Daddy's,hfMtSdxRsC3JQP3yrm6nag,4.0,1189,2,New York,NY,10002,Cajun/Creole
+Nyonya,M-odQWSEfsR2mVEw7nKG-g,4.0,1867,2,New York,NY,10013,Asian Fusion
+Congee Village,rYw5rQbWRX9buZHZbxqWdA,3.5,1411,2,New York,NY,10002,Cantonese
+Dudleys,L7_MTRZyYp_i-cnH2CU4zQ,4.0,577,2,New York,NY,10002,Cafes
+Essex,hRZyaQ80R9s9ztEBDJqiuw,3.5,1800,2,New York,NY,10002,Bars
+Morgenstern's Finest Ice Cream,1lNt64-Qu4tTwr3JdF-7Iw,4.0,1319,2,New York,NY,10002,Ice Cream & Frozen Yogurt
+Top Hops,RubAy9zHKaxpJG5rLucRtg,4.5,292,2,New York,NY,10002,Beer Bar
+Rizzo's Fine Pizza,nUpA3sY5b6dynC7aj0eV6A,4.5,573,2,New York,NY,10002,Pizza
+Upstate,ehUuSk5gPTCQmwS_ubgKRA,4.5,1590,2,New York,NY,10003,Seafood
+Shanghai Asian Manor,R26zweQ8-xoZS7iHkXQOvw,4.0,1396,2,New York,NY,10013,Shanghainese
+Kottu House,BxB7lV381jp5pmosnIBpGA,4.5,243,2,New York,NY,10002,Sri Lankan
+Root & Bone,ULt3kmA0_hbZ3j6cMORCaA,4.0,1391,2,New York,NY,10009,Southern
+Orchard Grocer,YnDs59_dEQ61TdCD4fdyEw,4.5,123,2,New York,NY,10002,Delis
+Piacere,Z67mgMkN3RfdPEX5mXsyYA,4.0,634,2,New York,NY,10013,Pizza
+Ruby's Cafe,hGo9KArKThuOKxNbwmNpoA,4.0,985,2,New York,NY,10012,Burgers
+Supermoon Bakehouse,b5x-Fw7I7Y88TdFIzvbsnw,4.0,407,2,New York,NY,10002,Bakeries
+Sweet Moment,UZViRVpxNZvOM5KarmbT1g,4.5,560,2,New York,NY,10013,Coffee & Tea
+Pepe Rosso Social,04exhf1PZ79_Km9vHAzvfA,4.0,702,2,New York,NY,10013,Italian
+Kiki's,_4Grm99JEHnDWskCHAJfUg,4.5,461,2,New York,NY,10002,Greek
+Shopsin's,6jsGtz0vwEGZ44urQKQkeQ,4.0,671,2,New York,NY,10002,Diners
+Macaron Parlour,Qv55durebiw0UMYaK29Y5w,4.0,384,2,New York,NY,10009,Bakeries
+Jack's Wife Freda,Me4TxTbPPQZQopW1wOGx5g,4.0,1617,2,New York,NY,10012,Breakfast & Brunch
+Beauty & Essex,pfmAcS-g6SiNG0KlLvrqnA,4.0,2906,3,New York,NY,10002,American (New)
+The Stanton Social,GXW2ADbOJKLry33sRaH9mw,4.0,2698,3,New York,NY,10002,Lounges
+Dirt Candy,j0Q-yyxS2WiL3foCJEV4eg,4.0,519,3,New York,NY,10002,Vegetarian
+SakaMai,wcwftlB-61XG4ymGTR61aw,4.0,544,3,New York,NY,10002,Japanese
+Attaboy,H7S7-vF2z_HfaLo6BGPetw,4.0,450,3,New York,NY,10002,Cocktail Bars
+Balthazar Restaurant,KgpOYAG-r_eDsQXFXt0nnQ,4.0,2749,3,New York,NY,10012,French
+Uncle Boons,m6bu1AGIIIM9GNn9_cjsmg,4.0,706,3,New York,NY,10012,Thai
+Osteria Morini,KCBfW6sWl9Gx-LvMff08jg,4.0,1015,3,New York,NY,10012,Italian
+Apothèke,P3NfoMjBy_o2BTNNZ-5okg,4.0,1328,3,New York,NY,10013,Lounges
+Vandal,6GwOwhHPW8YCSfaOtM-55Q,3.5,1078,3,New York,NY,10002,Lounges
+Ed's Lobster Bar,Z2sNzskjS8Ck0plppRBJIg,4.0,874,3,New York,NY,10012,Seafood
+Stick With Me,uEYHwZmVy6EciszazojznA,4.5,207,3,New York,NY,10012,Chocolatiers & Shops
+Prune,4LV-7hGnfimAhoAuYhgvEg,3.5,991,3,New York,NY,10003,American (New)
+Bohemian Restaurant,8fr5FYU1ip0phERt1mrekg,4.5,672,3,New York,NY,10012,Japanese
+The Musket Room,vscYK65F_MUH8WqACKSdog,4.5,368,3,New York,NY,10012,American (New)
+Yopparai,kN3rkbjvqkY62CDRYUVz4g,4.5,192,3,New York,NY,10002,Izakaya
+Pylos,7xV4gzrgaOgQYtPC3FBZig,4.5,1047,3,New York,NY,10009,Greek
+Blue Ribbon Sushi Izakaya,TeBthQZ2xpxyvXheS08ovw,4.0,454,3,New York,NY,10002,Sushi Bars
+Bacaro,3D6UAhoKnF3A03rX_v5ngA,4.0,367,3,New York,NY,10002,Italian
+The Fat Radish,8fn5gUBncPJifhsEKmAejQ,3.5,516,3,New York,NY,10002,British
+Balvanera,e_EQojNWskn_hFbKA_UZ-Q,4.5,194,3,New York,NY,10002,Argentine
+Dirty French,nBkSqOhZMa1A7Yk3q8VPaA,4.0,542,3,New York,NY,10002,French
+Peasant,r_fUOUhz-pHZxFDV1hzy0w,4.0,652,3,New York,NY,10012,Italian
+Sammy's Roumanian Steakhouse,cCWR47_Qeb611F_J8iz_ig,4.0,389,3,New York,NY,10002,Steakhouses
+Saxon + Parole,7y7E2wavr-HBwEmq2snMLw,4.0,696,3,New York,NY,10012,American (New)
+Gentleman Farmer,FFwDFLVBTQvuacl4l1ODew,4.0,250,3,New York,NY,10002,American (New)
+Gato,Ve9eysLcTjGLbKp7tjOd9w,4.0,989,3,New York,NY,10012,Mediterranean
+Bowery Meat Company,qpkFmGyvbZv-g2fbwyNQUg,4.0,385,3,New York,NY,10003,Steakhouses
+Lure Fishbar - New York,aSFBv64GBpMOFPqIleeQFQ,4.0,1499,3,New York,NY,33139,Seafood
+Chefs Club by Food & Wine,Z6izDRJONqb0jHP8DMhgJg,4.0,369,3,New York,NY,10012,Bars
+Death & Co,H1QphdrrsaB472y9HXi2Ow,4.0,1364,3,New York,NY,10009,Lounges
+Please Don't Tell,aiRctIzCj9J3UqBHd-Z3HQ,4.0,1590,3,New York,NY,10009,Lounges
+Tomiño Taberna Gallega,EHINHIbLklEUShuANKjGgw,4.5,125,3,New York,NY,10013,Wine Bars
+Baar Baar,jYhbUh1TV7SCfPxjIhVpcg,4.0,249,3,New York,NY,10003,Gastropubs
+BondSt,m6sYBuozGY1JhnHlBf1Bzg,4.0,892,3,New York,NY,10012,Japanese
+Rawsome Treats,hdoVPO0EQNxOnKnLNx3DBg,4.5,68,3,New York,NY,10002,Desserts
+Copper & Oak,ajdv6_mWIkAXzn71CUdpkw,4.5,81,3,New York,NY,10002,Bars
+Tuome,R7EGjHWw0tNheY6-ahH8fQ,4.5,349,3,New York,NY,10009,American (New)
+The Eddy,TMzgYJWl-DeKaA3kGcuK8A,4.5,343,3,New York,NY,10003,American (New)
+Oiji,FsuJ7VC5vxX3wcLhFrb97Q,4.5,414,3,New York,NY,10003,Korean
+Estela,GCAQmtRdNhqVit5KGJ46Qg,4.0,440,3,New York,NY,10012,American (New)
+Wildair,Jy0nQ1uI8KPvTv8nBZGdMg,4.0,144,3,New York,NY,10002,American (New)
+Pegu Club,B2S5HWRfxe9G-BhKJix9Yg,4.0,931,3,New York,NY,10012,Lounges
+Socarrat Paella Bar - Nolita,7SekluUz__l0ZtPOaLBUeQ,4.0,421,3,New York,NY,10012,Spanish
+Cata Restaurant,BfuqZt_G-EFFRnADaHHPhg,3.5,292,3,New York,NY,10002,Tapas/Small Plates
+Peking Duck House,6LfskUyZzmcDSV6h5kOwGw,3.5,756,3,New York,NY,10013,Chinese
+Blue Ribbon Sushi,QR1YIRzFjd2bi5iBzT9zXg,4.0,1011,3,New York,NY,10012,Sushi Bars
+Boqueria Spanish Tapas - Soho,AIKjw2QLvVNdha3TciJYzg,4.0,857,3,New York,NY,10012,Spanish
+Il Buco,lwfCl81r5a0mjxDNxNGC9w,4.0,573,3,New York,NY,10012,Italian
+Dean & DeLuca,yknjbHNG7b0qL_Gw-U2luw,4.0,613,3,New York,NY,10012,Specialty Food
+Contra,5K0b-fEk96xUJCV_5ytNog,4.0,262,4,New York,NY,10002,American (New)
+Momofuku Ko,GticI2JB8Iw2ktRfLv6aRQ,4.5,241,4,New York,NY,10003,American (New)
+Kura,nEkVibaTuIFEcTNtltFgJg,4.5,399,4,New York,NY,10009,Japanese
+Le Coucou,obFs12x7mgYPGxgalBd22w,4.0,387,4,New York,NY,10013,French
+Kyo Ya,ytABgZNWnFXQUjOYjh460A,4.5,428,4,New York,NY,10009,Japanese
+Shabushabu Macoron,R9jTfyPlnfk23gy8VCCVAg,4.5,41,4,New York,NY,10002,Japanese
+Secchu Yokota,ynR4-QgEOsE7VhNfIWo73w,5.0,65,4,New York,NY,10009,Japanese
+Uchu,OINi1A9bSUUN5vi7xgi3ZQ,4.5,47,4,New York,NY,10002,Sushi Bars
+Sushi Dojo NYC,je92kXXWjANmiN-dfwNapg,4.0,360,4,New York,NY,10009,Sushi Bars
+Jewel Bako,juoHZs-uMmqW4gQ1iISvxA,4.0,507,4,New York,NY,10003,Sushi Bars
+MarkJoseph Steakhouse,3hRE9hN7Yp9AHJD8ahAVDQ,4.0,353,4,New York,NY,10038,Steakhouses
+The Box,LppKzOZ2ZGmD7GrP5JAh5Q,2.5,304,4,New York,NY,10002,Cocktail Bars
+Mayanoki,lPz4dEFSE1YzASjXYPVYnA,4.5,35,4,New York,NY,10003,Sushi Bars
+Woodward Gallery,8f4_m9EBg9e0I-gGfA0v3g,5.0,5,4,New York,NY,10002,Art Galleries
+et al.,WFfsu07M-XtVAcUebtpUdA,4.0,14,4,New York,NY,10002,Lounges
+Truffles Murder Mystery,agz8qfhZTWIHVvD6ltE78A,4.5,43,4,New York,NY,10036,Comedy Clubs
+2nd Ave Smoke Shop,2rrJ-7S_3ibvj1Z7-CWzVg,4.5,10,4,New York,NY,10003,Tobacco Shops
+Osaka Vibe Japanese Cuisine & Sushi,BbnsR23JXUMbZxvAv2i0YA,3.5,7,4,New York,NY,10003,Sushi Bars
+The Casino,xCnu_jy_v3tsDIZYxRaWmQ,4.0,1,4,Manhattan,NY,10002,Bars
+Chinese Food Cart,FOmtg0myxeFxKfxylzqSBw,5.0,1,4,New York,NY,10292,Chinese
+Heartschallenger,ly1AHkbsMgShh6mPmTVgOg,3.0,3,4,New York,NY,10012,Ice Cream & Frozen Yogurt
+Sisig City,PEeoyqiSGpWpZ9hOMyibvw,2.5,2,4,Staten Island,NY,10305,Filipino
+Dear Mama Coffee,5o-jorn07AInbmlNlYGC0g,4.5,191,1,New York,NY,10029,Coffee & Tea
+Joy Burger Bar,_9TDcp-kRMeLyje8gMopDg,3.5,536,1,New York,NY,10029,Burgers
+Tres Leches Cafe,lqnI_jISnH7RZWlPtKkViQ,5.0,79,1,New York,NY,10029,Bakeries
+Bangklyn East Harlem,_7Maf5WG682E7R-EHSz18w,4.5,71,1,New York,NY,10029,Thai
+Aromas Boutique Bakery,2IpbquaH7zUNnAVw_rLPLQ,5.0,27,1,New York,NY,10029,Bakeries
+Taco Mix,hSkeb_lmfxnoqg7EVo19Vw,4.0,320,1,New York,NY,10029,Mexican
+La Tropezienne Bakery,qx-xsyo2pTtrr0KY-GNcYA,4.5,102,1,New York,NY,10029,Bakeries
+Burritos y Mas NY Tex-Mex,iXtZQ7twXQiv7j2ZdxZqUg,4.5,122,1,New York,NY,10029,Tex-Mex
+Sidewalk Tacos,_VXlKJEUEoP0wG6ZxruteQ,4.5,50,1,New York,NY,10029,Food Trucks
+Frenchy Coffee NYC,06s4v9tM5JLnsa8UlZFHtQ,4.5,43,1,New York,NY,10029,Bakeries
+El Aguila,p7MviobRqz5rvdzmsjBdEw,4.0,166,1,New York,NY,10029,Mexican
+Love Cafe,R1X1PY1SSCKyFZI6CWJgmA,4.5,139,1,New York,NY,10029,Coffee & Tea
+Blue CoCo,iNGW4U-Rx2iVGbjOJkbxTQ,4.5,42,1,New York,NY,10029,Salad
+La Nostra Pizzeria,uCylIY_ELLa_7-MsVQWsSw,4.5,73,1,New York,NY,10029,Pizza
+Bosie Bakery,eommI5ObSvEqSp1PUjDGBw,4.5,44,1,New York,NY,10029,Coffee & Tea
+Paladar Brazilian BBQ & Pizzeria,s56akY1oyxA74UT0IJYB8w,5.0,36,1,New York,NY,10029,Pizza
+Elma's,lpoam-7-1cS_tekd_uc8HQ,5.0,25,1,New York,NY,10029,Caribbean
+UGC eats!,pg-crIvq6f5Cl6mGohzkTA,4.5,67,1,New York,NY,10035,Cafes
+Little Bean Coffee,QDSUr46BlJP2_vhUI5nZtg,4.5,63,1,New York,NY,10026,Coffee & Tea
+Cuchifritos,pFBNTJpy1eWmfu6aQ8e1YA,4.0,141,1,New York,NY,10029,Puerto Rican
+Gyro96,TltwCBJXifqJ1Ruy3qCKyQ,4.0,127,1,New York,NY,10128,Falafel
+Lloyd's Carrot Cake,DI5A-3PzqAHqh5ynp8yebw,4.0,111,1,New York,NY,10029,Bakeries
+Merrion Square Pub,jdj0gh4JcJYmuhwk56VMLA,3.5,205,1,New York,NY,10128,Pubs
+The Duck,TpHoe5Uiu1Scb4lsVtAVLA,3.5,93,1,New York,NY,10029,Dive Bars
+My NY Bakery Cafe,nHt_KvHIxR6k8ljgZzO6xA,3.5,121,1,New York,NY,10029,Cafes
+Quesadillas Doña Maty,WgAJUrVaMcMtQxsiIc02sQ,4.5,38,1,New York,NY,10029,Mexican
+Cassava House,6fiHfgz3T0wNeXKDxhpCtw,5.0,34,1,New York,NY,10035,Juice Bars & Smoothies
+Lechonera El Barrio,FsyEN6IBkkE9wZiOCGcO8A,3.5,68,1,New York,NY,10029,Latin American
+Dreamer's Pizza,AZrQIWeN46QHlAsRoW2gjg,3.5,70,1,New York,NY,10029,Pizza
+G&J's Pizzeria,QOKh93a45d59ugcHYsjVxg,4.0,42,1,New York,NY,10029,Pizza
+Baked Cravings,Xclw3G-84zHLzPgBHkWlXw,4.5,19,1,New York,NY,10029,Cupcakes
+Little Luzzo's,7aXY5AkXafxkDsq6k9E7Mg,3.5,132,1,New York,NY,10128,Pizza
+The Jewish Museum,PSa8t-nUjc5yrO1h5fZk_g,4.0,94,1,New York,NY,10128,Museums
+El Chevere,cw48jFQTYxfEFcVF2yNXTw,4.0,24,1,New York,NY,10029,Puerto Rican
+Vendy Plaza,9deJLwD0ojIzH48vLvHRRQ,5.0,17,1,New York,NY,10029,Street Vendors
+Blue Sky Deli Grocery Corp,bCJ5s5juhA_VJcUX4nCzeA,4.5,25,1,New York,NY,10029,Delis
+Tasty Mug Cafe,Gsj0RNw9THUZlCjzaKMXwQ,4.5,34,1,New York,NY,10029,Coffee & Tea
+Triple A Restaurant,RUekg91-5EwrKjmFGkIleA,3.5,43,1,New York,NY,10029,Diners
+Maoz Vegetarian,0dG6Qqw0TZDYInWPOhDBGQ,4.0,42,1,New York,NY,10029,Vegetarian
+MoonHouse,YCen62jqSWhPOAorQjSZdQ,3.5,81,1,New York,NY,10029,Chinese
+Lemon Life,jn7q4o79x_Sl27EcqGWvhQ,3.5,48,1,New York,NY,10029,Sushi Bars
+Bakery On 3rd Cafe,04PIAmEboAYWlMdBJZ-CIA,3.5,30,1,New York,NY,10029,Desserts
+Yummy City,Aux2Mp7bGnF3S6h60ab3iQ,4.0,32,1,New York,NY,10029,Chinese
+Famous Famiglia Pizzeria,bmRbx7Fa5zerZQXvS29CMw,3.5,74,1,New York,NY,10029,Pizza
+Yorkville Bagel & Cafe,7pqZ3lpAtinvJ6QKOzSXxg,4.0,60,1,New York,NY,10128,Bagels
+Sam's Famous Pizza,D8qF5exHyRAwb1DqAbPkaQ,3.5,70,1,New York,NY,10029,Pizza
+Dave's Gourmet,TO1RsVwHXOTjAbWZ5f2A1w,3.5,77,1,Manhattan,NY,10029,Delis
+China King,e-6UcplEErq2Hj14-eiM6Q,4.0,23,1,New York,NY,10029,Chinese
+118 Kitchen,bZ1x7QN9ylQiGgBXS0I_9w,4.0,36,1,New York,NY,10035,Tex-Mex
+MamaGyro,RG65RgQDCle9ZAtOq6-JMw,3.0,33,1,New York,NY,10029,Desserts
+Cascalote Latin Bistro,BxnrBKdLwdaEXyq97uxgKg,4.5,295,2,New York,NY,10029,Latin American
+Cafe Ollin,k3iUNUGsl-xpQ_EsOfTadA,4.0,368,2,New York,NY,10029,Mexican
+Earl's Beer & Cheese,DpZBA0-f7Um9lvnp1zZM2A,4.0,555,2,New York,NY,10029,Bars
+La Shuk,87WfLan3_7K_OYPYd5zUIA,4.5,299,2,New York,NY,10029,Moroccan
+Malii,I4FWrwXDC91lsfQLXYSeXA,4.5,190,2,New York,NY,10029,Thai
+Amor Cubano,UKDOoYu_g1HYBvs5TpdG6w,4.0,415,2,New York,NY,10029,Cuban
+Seasoned Vegan,IJg3TdXz8IzKTfcspmr8MQ,4.0,877,2,New York,NY,10026,Vegan
+D'Amore Winebar & Ristorante,RUfsaabXoeH_FDKS8ocWjA,4.5,203,2,New York,NY,10029,Wine Bars
+Patsy's Pizzeria,Kh0-HmlgmVUkRxR55_Vn1g,4.0,718,2,New York,NY,10035,Pizza
+El Kallejon,u9xVzV1OZC5pwtUgaHLM-A,4.5,231,2,New York,NY,10035,Tapas Bars
+Effy's Kitchen,E_JmgVNSkNvRauDZGuf6AA,4.0,180,2,New York,NY,10029,American (Traditional)
+East Harlem Bottling,6q-7JBqybIo_MFmFFtlDXQ,4.0,119,2,New York,NY,10029,Beer Bar
+Da Capo,E5rmVdrCn-0uwD2M9nkXdw,4.5,170,2,New York,NY,10029,Wine Bars
+Lexington Pizza Parlour,R86cJxXMiXRyqzlF24esgg,4.0,160,2,New York,NY,10029,Italian
+The Lexington Social,LNVu-bQA_ASIcWJlClgz-Q,3.5,181,2,New York,NY,10029,Mediterranean
+Nocciola Ristorante,foRWizWrQ32g6Vv4g9UTnA,4.0,190,2,New York,NY,10029,Italian
+Lupita's Restaurant,NXjCypQNl7tBrdR3gkFqdg,4.0,105,2,New York,NY,10029,Mexican
+Yura's Blue Plate,PX88lcxrdv0-RA1g3tUXHQ,4.5,146,2,New York,NY,10029,Desserts
+El Nuevo Caribeno,g7pAeomzeIQY4mCfpOyHUQ,4.0,73,2,New York,NY,10029,Latin American
+La Fonda Restaurant & Tapas Bar,wRB5UDy1rhal-14brCUc0Q,3.5,151,2,New York,NY,10029,Latin American
+Pro Thai,T4xmuPYBmMhF48bfi9rkfA,4.0,148,2,New York,NY,10029,Thai
+Polash,bgMbt6XbOaAu5VNXr5kCdQ,4.0,192,2,New York,NY,10035,Indian
+SpaHa Soul,cqdg3bP870-y2cHzckLcFw,4.5,106,2,New York,NY,10035,Soul Food
+Perk Kafe,m0RY0_NvlBIrRua3kHjFEw,4.5,100,2,New York,NY,10029,Coffee & Tea
+Sarabeth's East,oRYcCwhPRchQb-aLJ1Pv1Q,3.5,596,2,New York,NY,10128,American (Traditional)
+The Guthrie Inn,N-T9SPVMkAynCOCVm0OgPA,4.0,111,2,New York,NY,10029,Cocktail Bars
+Cantina Taqueria & Tequila Bar,UH_aksIxzGPPyhWZJbTP7A,4.0,361,2,New York,NY,10026,Mexican
+Lion Lion,DQV4cwauKsK_RJnhaqGAzQ,4.5,57,2,New York,NY,10029,Cocktail Bars
+Maxwells Central Park,8cycOQsmOt0ptlrBlOWdFA,4.0,139,2,New York,NY,10029,American (Traditional)
+La Chula,OsnvNfvVnpjnFklon1s-vg,4.0,107,2,New York,NY,10029,Mexican
+Amer,uCfX9Xs-0xEGeIs0XfyV8g,4.5,39,2,New York,NY,10029,Middle Eastern
+Zoma,ySzkBv-_DTNT30eONPnAkg,4.0,359,2,New York,NY,10026,Ethiopian
+Evelyn's Kitchen,uxjcn3_cQbk9DbEA3kiY0g,4.0,113,2,New York,NY,10035,Bakeries
+Third Avenue Ale House,xwdyPDcF1PifAiXyNnyA5Q,4.0,268,2,New York,NY,10128,American (Traditional)
+L Encanto D Lola,V7_IQ1ab69JilAlgrSnMXg,3.5,244,2,New York,NY,10026,Mexican
+67 Orange Street,DzlCEhXW6OadK6ETcmJpwQ,4.0,334,2,New York,NY,10026,Lounges
+Crêpe Café,Wfvbslm4MX9CE1ROjRvGng,3.5,83,2,New York,NY,10029,Creperies
+The Kiosk,ycQ7TifE__1A9F85thft1g,4.0,113,2,New York,NY,10029,Tapas/Small Plates
+La Avenida,Zjs9BS1R-BB1L4P_TRF46g,4.5,67,2,New York,NY,10029,Latin American
+Camaradas El Barrio,HjEWTNa6Zs27ok9q8RfKGw,3.5,170,2,New York,NY,10029,Bars
+Bawarchi Indian Cuisine,D_xGTuIZqh1g6ie9QybcYw,4.0,92,2,New York,NY,10029,Indian
+Barking Dog,fSQyhOKiZKtw0firV29EVg,3.0,454,2,New York,NY,10128,American (Traditional)
+Table d'Hôte,RP02PZPNdhfoL-TjOMiKVg,4.0,139,2,New York,NY,10128,French
+Made In Mexico Harlem,FrYsIO_pXB6csWkvy-nfbQ,4.0,72,2,New York,NY,10029,Cocktail Bars
+Quechua Nostra Peruvian Food,xpiscTGlepcNixpTlI0w6A,4.0,39,2,New York,NY,10029,Peruvian
+Cafe Con Leche,afYGzoMIRqXO76Z853ZiXQ,4.0,53,2,New York,NY,10029,Latin American
+Pascalou,5XQgZQF-5N94bkQ2d_PJIQ,4.0,172,2,New York,NY,10128,French
+Isohama,5UqEDoMZCrvhSKgCWg5GGw,4.0,132,2,New York,NY,10128,Japanese
+Armonie,0xS2Jj-RZuFQKgxEWuVxzA,4.0,99,2,New York,NY,10035,Pizza
+Thai Soup,oO_X1H5Lxo8sNykx6azLVQ,3.5,140,2,New York,NY,10035,Thai
+Ricardo Steak House,CfWe636m2CAUg4FAdl_zVQ,4.0,831,3,New York,NY,10029,Steakhouses
+Tastings Social Presents Mountain Bird,NMCUMp39CPenji-UbFnuCA,4.5,129,3,New York,NY,10029,French
+Sfoglia Restaurant,3P8hb1ZOCA8IjEGfqpSpxg,4.0,257,3,New York,NY,10128,Italian
+Korali Estiatorio,Bn1mZhb501Tvf7_-Pfi9_g,4.0,162,3,New York,NY,10128,Greek
+Paola's Restaurant,dWc0ijADaD6ZdclJ5LqQdg,3.5,142,3,New York,NY,10128,Italian
+Juice Press,brW_0BzmlskoFoycBNoclQ,3.5,26,3,New York,NY,10128,Juice Bars & Smoothies
+CBK Cookies,IyLs7B8v4a91RNHd6t_3Jg,5.0,4,3,New York,NY,10029,Desserts
+City Pastry,aPicXra8di8yAU30Raxm0A,4.5,3,3,New York,NY,10026,Bakeries
+Rao's,zo4JHfD2nWPUiqgsgDOaHQ,4.5,131,4,New York,NY,10029,Italian
+Sing's Deli,o5Rkhc6jx3uTXhQko6RO1w,3.0,6,4,New York,NY,10128,Delis
+Cucina Bene II,QKm9J6QXfsFHSXKsjDNIxg,2.5,11,4,New York,NY,10029,Pizza
+Dragon Town,cPbR1NvEQaxtoeFtTF5eOA,2.5,8,4,New York,NY,10029,Chinese
+Eastside Goumet Deli Incorporated,UxIC9lB5uaNV-YC5NctZ4w,2.0,4,4,New York,NY,10029,Delis
+Zheng's River Restaurant,HKjazh_40Gei5rP5ir-F2w,4.0,1,4,New York,NY,10026,Chinese
+Gray's Papaya,477o_-7VmcnTokazWtEa0A,3.5,1286,1,New York,NY,10023,Hot Dogs
+Beard Papa's,JaFHhBaCNRJYaGW9zeFQCQ,4.5,783,1,New York,NY,10024,Bakeries
+The Casbah - Halal Cart,tNTXNCUta735nGb0nfSrKQ,4.5,229,1,New York,NY,10023,Halal
+Wafels & Dinges,pUMaj8PvI1--cSB7gMEhXA,4.5,184,1,New York,NY,10023,Food Stands
+Freddie & Pepper's,JFw_Zj4CFTJbTPKJdPQ_Gw,4.0,399,1,New York,NY,10023,Pizza
+The Burrito Box,v4_89HfTm05NFTuukjsl_g,4.0,803,1,New York,NY,10019,Mexican
+My Pie,7jbInJHwOm4W_kesEe19mA,4.5,90,1,New York,NY,10023,Pizza
+Box Kite Coffee,1Au-74qnl8CTmQ9NBscSRA,4.0,112,1,New York,NY,10023,Coffee & Tea
+Rex,lwfrB59lvpkCBw2FZD3X6w,4.5,464,1,New York,NY,10019,Coffee & Tea
+16 Handles - UWS Amsterdam,oGoucpWHItedMM_4zFM8-Q,4.0,171,1,New York,NY,10023,Ice Cream & Frozen Yogurt
+Joe Coffee Company,ByBZ2UskVgZftg1JlG_w2w,4.0,99,1,New York,NY,10023,Coffee & Tea
+Bolivian Llama Party,yrXECkTezsI0Twgalc7M-A,4.5,268,1,New York,NY,10019,Food Stands
+Little Italy Pizza,uH1rHM0BomrX80D9xk-Qgg,3.5,179,1,New York,NY,10023,Pizza
+Sido Falafel & More,XCpvVDi-eMDid3s6LrDIuw,4.0,144,1,New York,NY,10023,Falafel
+LA Traviata Pizzeria,8Yv1jmEmwaB5-rsIVIXAig,3.5,152,1,New York,NY,10023,Pizza
+Coco Fresh Tea & Juice,hOIZzT1gpmHW_rW11meOmQ,4.0,61,1,New York,NY,10023,Bubble Tea
+Francesco's Pizzeria,3vuc7Gz95kY83gzxq1wnxA,3.5,185,1,New York,NY,10023,Pizza
+Oaxaca Taqueria,La78lTOdzTrdFYTGXUp7og,3.5,351,1,New York,NY,10024,Mexican
+Insomnia Cookies,uB06543q7HRgXc_8S5wtFA,3.5,288,1,New York,NY,10024,Bakeries
+The Muffins Cafe,cBxp4jTpdzuhH4h8FXHhWQ,3.5,120,1,New York,NY,10023,Cafes
+David Rubenstein Atrium,h42-x-yyEuuSV1RrPmfYWg,4.0,79,1,New York,NY,10023,Coffee & Tea
+Paris Baguette,6M_cl4-twLNWCHrhskyUHw,3.5,98,1,New York,NY,10023,Bakeries
+Pinkberry,tRXiGZDJxiS7xHYj48w37g,3.5,105,1,New York,NY,10023,Ice Cream & Frozen Yogurt
+Boule & Cherie,IJ2D-ZYk6zuxUBJo7pZFEA,4.0,71,1,New York,NY,10023,Coffee & Tea
+L'Arte del Gelato,9Nge2oSJxblhS0bTKkkCEg,4.5,40,1,New York,NY,10023,Gelato
+Joe Coffee Company,EO1zP_tunYXKHYx-Xnqbeg,4.0,351,1,New York,NY,10024,Coffee & Tea
+Lunch Box,KCISn0hhX9wH9ChgWRXnDw,4.0,131,1,New York,NY,10019,Sandwiches
+Gigi Cafe,DdV05YAQOtEjPddZRxw0RA,3.5,146,1,New York,NY,10023,Sandwiches
+Tasty Cafe,40FLWrgq9Hays-jUxPvgCQ,3.0,95,1,New York,NY,10023,Salad
+Fluffy's Cafe & Pizzeria,xY7FesCfqPLdIZ7oYYIj4w,3.5,200,1,New York,NY,10019,Cafes
+Pinkberry,q2qCeqpyVcDpLmevk9hhKA,3.5,147,1,New York,NY,10019,Ice Cream & Frozen Yogurt
+Tacos Y Quesadillas Mexico,XGdUYzkPkX94RoLlPDymeQ,4.0,30,1,New York,NY,10023,Street Vendors
+Bagel Talk,hhgzw_SgN-v1k0rxRUwB0A,3.0,192,1,New York,NY,10024,Bagels
+Chick'nCone,erKWJRrHNZ2oj8DkIryjfw,4.5,40,1,New York,NY,10019,Chicken Shop
+Wok City,ybQV8joopvU1_gG2RwLRog,3.0,72,1,New York,NY,10023,Chinese
+Tacos Y Quesadillas Mexico,m8z1eTTetr-JbSM1HU2t6Q,4.0,44,1,Manhattan,NY,10019,Food Trucks
+Justino's Pizzeria,fBmdOCTJuh0bYMFoLvgEaw,3.5,180,1,New York,NY,10019,Pizza
+Zucker's Bagels & Smoked Fish,6PQ7CdBJQxQV4E9GO1fA5g,2.5,166,1,New York,NY,10023,Sandwiches
+Blu Cafe,uz157PmNVyv5K1K1GtwdWA,4.0,44,1,New York,NY,10069,Cafes
+Andy's Deli,CNSiS02-vN-UpcErMeXMaQ,3.5,53,1,New York,NY,10023,Delis
+Giacomo Fine Foods,-wlJgbNPpPv5PWtvIDL6rQ,4.0,27,1,New York,NY,10023,Salad
+Saba's Pizza,srlZYFWcOjB_8cYY9yyr_A,3.5,77,1,New York,NY,10024,Pizza
+Andy's Deli,0i-j7XxlvHc6Xj7_RbH9iA,4.0,61,1,New York,NY,10024,Grocery
+Cafe 71,T9zHnqrTWa2_bZLCF9MZSw,2.5,108,1,New York,NY,10023,Salad
+Alan's Marketplace,AlZz1ZMHGupWt6GhBXPH8A,3.5,70,1,New York,NY,10023,Convenience Stores
+Los Viajeros NYC,vnDkQsM9ijg0AzkZBmCofA,4.5,33,1,New York,NY,10019,Food Trucks
+Bagels & Co,uHbnpLSNuOzQ46m5PLOBnA,3.5,60,1,New York,NY,10024,Bagels
+Columbus Gourmet Food,N0cHgnBEQ8KcEVY2Hi498A,2.5,81,1,New York,NY,10023,Specialty Food
+Panda Bubble Tea,r1JdJ_LF2S2iBZ-r1g5yzg,4.0,55,1,New York,NY,10019,Bubble Tea
+Lenwich,1Lsb6F7DprPLabtbMHNURA,3.5,116,1,New York,NY,10024,Sandwiches
+Levain Bakery,H4jJ7XB3CetIr1pg56CczQ,4.5,6915,2,New York,NY,10023,Bakeries
+Sushi Yasaka,HZWHBfeuP4Fb6y8b8uqnbA,4.0,1551,2,New York,NY,10023,Japanese
+Shake Shack,wXpCNNTT2kqh-fTnSWXdEA,4.0,2287,2,New York,NY,10024,Burgers
+Calle Ocho,H9GD7km7riFooM0FkdwOPg,4.0,2369,2,New York,NY,10024,Cuban
+Shalel Kitchen,Bt6RoIcazXayp1a8lMSvzA,4.0,571,2,New York,NY,10023,Lounges
+Alice's Tea Cup,kaSd6qzlsxn__ILDtGf3iA,4.0,979,2,New York,NY,10023,Breakfast & Brunch
+The Smith,JYNBy2r3LVhJbLHE1bASfg,3.5,1377,2,New York,NY,10023,American (New)
+Magnolia Bakery Upper West Side,7Oab05KVxJDrA8VfpgxEcQ,3.5,1003,2,New York,NY,10023,Desserts
+Levain Bakery,TuRPkrvAut11wfz1N3Sm7Q,4.5,278,2,New York,NY,10024,Bakeries
+Hummus Place,TxHx1fb8O_MsfQB_ODdTQg,4.0,564,2,New York,NY,10023,Vegetarian
+Le Pif,8oWkHl9tITphtI7KY4kT0w,4.0,248,2,New York,NY,10023,French
+Bouchon Bakery & Cafe,S3Fw7s_GA94lJLbLFrqZrw,4.0,1301,2,New York,NY,10019,Bakeries
+Ella Kitchen & Bar,BEYmqrP1_TC0nhnTGKkkJg,4.0,398,2,New York,NY,10023,Tapas/Small Plates
+Pasha Restaurant,-X-jyF6Wblm3R3ExI-6EVg,4.0,355,2,New York,NY,10023,Turkish
+Luke's Lobster Upper West Side,ahWC_GUPWPMyYiSKsgBPiA,4.0,626,2,New York,NY,10024,Seafood
+Zurutto Ramen & Gyoza Bar,ZOpnIsm7ihoO1gq2YmGdzw,4.0,272,2,New York,NY,10023,Ramen
+Jacques Torres Chocolate,WBZG2dxEo6erS_qHdmuKpQ,4.0,256,2,New York,NY,10023,Chocolatiers & Shops
+Vanguard Wine Bar,Gfo-8z_CMOpHZVhX-HKD0g,4.0,145,2,New York,NY,10023,Wine Bars
+Land,83BXSwE0166sObnXLUE4bQ,4.0,996,2,New York,NY,10024,Thai
+Mille-Feuille Bakery,fPQ2eE9lm8tc87O5-GLjyA,4.5,221,2,New York,NY,10036,Coffee & Tea
+Grom,U8juBUAqYYSIMEeGEpHjYg,4.0,525,2,New York,NY,10019,Ice Cream & Frozen Yogurt
+Nanoosh,RJnCxu9gAbYmCftd5BMOMg,3.5,392,2,New York,NY,10023,Middle Eastern
+Pomodoro Rosso,C8Ctyq7pXOPESK8cz_X2CA,3.5,263,2,New York,NY,10023,Italian
+El Mitote,B6bEkY9sJ_GU2pD2Rwb4gg,3.5,399,2,New York,NY,10023,Mexican
+Piccolo Cafe,v64bMLxutTS2MWIrywBczA,3.5,467,2,New York,NY,10023,Italian
+Chirping Chicken,KifkRh0gGD0voBw4FHFCVA,3.5,521,2,New York,NY,10024,American (Traditional)
+Parm,TsYrzVVtkKO4Asrk_L9stw,3.5,428,2,New York,NY,10023,Italian
+Pain d'Épices,iksF9-GUsrGgfd8kiBKE5Q,4.5,75,2,New York,NY,10023,Bakeries
+Irving Farm New York,0sXTHdwbJ_TEZq2WNjmGXw,4.0,515,2,New York,NY,10024,Coffee & Tea
+Peacefood Cafe,zBf-m72ATTPTey-_9vu3Yw,4.0,1122,2,New York,NY,10024,Vegan
+Pappardella,E2zKMwHhz4--dyplQ7gf8A,3.5,508,2,New York,NY,10023,Italian
+Flor De Mayo,H1jops1lmuhrq9lP7lEGJQ,4.0,1077,2,New York,NY,10024,Chinese
+Thai72,L2ZW-MdvRJ3gM2RIq8STbA,4.0,139,2,New York,NY,10023,Thai
+Playa Betty's,YsDmYRzJo3kiwZvIe1r0Fg,3.5,548,2,New York,NY,10023,Mexican
+Pier i Cafe,tmuHs6fSAUygPyRZUF-rEA,4.0,370,2,New York,NY,10023,American (Traditional)
+Sarabeth's West,vJpfMVBybyEF8p_qXWs0ug,3.5,852,2,New York,NY,10024,Breakfast & Brunch
+Tenzan,u8seGm3CnP6RGEiimftUIQ,3.5,412,2,New York,NY,10023,Sushi Bars
+Patsy's Pizzeria,EJOpdpy6QPTtmC7Fn04yHw,3.5,449,2,New York,NY,10023,Pizza
+Joanne Trattoria,MT_a_Tg3ENdxqZFQyJocgQ,3.5,390,2,New York,NY,10023,Italian
+Dark Bullet Sake & Oyster Bar,Vf38zUk09gMgEzg60BrACA,4.5,49,2,New York,NY,10023,Japanese
+Raku - It's Japanese II,_2V0as8DZDwVxAi3ZJ0JkA,4.0,255,2,New York,NY,10023,Japanese
+Dive 75,C8K3kTQ2NX5mm4jzQBRVUg,3.5,247,2,New York,NY,10023,Dive Bars
+Kashkaval Garden,TAANt0fPbfHqVP5LyMBioA,4.0,494,2,New York,NY,10019,Mediterranean
+The Greek Kitchen,blXVGUTB-4epYW9KFsQJ_g,4.0,425,2,New York,NY,10019,Greek
+Il Violino,LSOpxBBa217HxnJ7VnY2WQ,3.5,220,2,New York,NY,10023,Italian
+Cafe Frida,8WSRmH4rsSRJN1jN0qmT_A,3.5,604,2,New York,NY,10024,Mexican
+Jin Ramen,EvAJBgBdgOt1jx1EufRN7w,4.0,681,2,New York,NY,10024,Ramen
+Amorino Gelato,l-qN-2S2hoXhoWtXJ0BX-A,4.5,152,2,New York,NY,10024,Desserts
+Floating Mountain,7wp76TVNFluJ2ZZjOlf8Fg,5.0,27,2,New York,NY,10023,Tea Rooms
+Nice Matin,Knbn0h4MA1KX5Fv3eZfK4w,3.5,670,2,New York,NY,10024,French
+Lincoln Square Steak,rnPIuhjGCR09SlgpGUzIKA,4.0,454,3,New York,NY,10023,Steakhouses
+Boulud Sud,RqCMsa0IuHWhML0BEjW8_w,4.0,653,3,New York,NY,10023,Mediterranean
+Nougatine at Jean-Georges,xEDD2ScBU3jHhWxlMC7dkQ,4.0,1032,3,New York,NY,10023,French
+Cafe Luxembourg,fSQ3CCtFSJ2S8VXDi02-3Q,4.0,435,3,New York,NY,10023,American (New)
+Rosa Mexicano,DFRpXRHjOHBxYHiuvwaEQQ,3.5,1071,3,New York,NY,10023,Mexican
+Salumeria Rosi,C3E8CVVwzKtOv_sRR1WuRQ,4.0,428,3,New York,NY,10023,Italian
+Atlantic Grill,5UxJoqkdYrUEjArx8YITMw,3.5,521,3,New York,NY,10023,American (New)
+Robert,h8XLhVVPoYPYodZqQOjRMw,4.0,801,3,New York,NY,10019,American (New)
+Bar Boulud,mosd9Voq5Ws6k6Uduii_ww,3.5,787,3,New York,NY,10023,French
+Tavern on the Green,hKdvsbuQRtjajWYwjaoOQw,3.5,1114,3,New York,NY,10023,American (New)
+Burke & Wills,mWQiNb6IUGqIRLzR3rE-Fg,4.0,371,3,New York,NY,10024,Australian
+Cafe Fiorello,6n7D4amt9vEruR73tt3S9w,3.5,660,3,New York,NY,10023,Italian
+Blue Ribbon Sushi Bar & Grill - New York,CqQ2Og9kf-LhlUWtODalCQ,4.0,679,3,New York,NY,10019,Sushi Bars
+The Ribbon,WqmqQ8c9NivfIRn3sO2KiA,3.5,321,3,New York,NY,10023,American (New)
+Masseria Dei Vini,zg9Jrtx9rqTXeaqufSOxHQ,4.0,385,3,New York,NY,10019,Wine Bars
+The Milling Room,PnGSE8JGbMZKtdHi9go7Kg,4.0,352,3,New York,NY,10024,American (New)
+Tessa,8nXo6lNJlXQQIdy8Kf7J9Q,4.0,299,3,New York,NY,10024,Mediterranean
+Noi Due,7lztzQTF79er1RydVnPiDg,3.5,178,3,New York,NY,10023,Kosher
+Whole Foods Market,I9KYepKs_ZSNOYMFzmetrQ,3.5,771,3,New York,NY,10019,Grocery
+The Leopard at des Artistes,-KrQ1gOiyXCbffsWyc5SNQ,4.0,194,3,New York,NY,10023,Italian
+RedFarm,B7bxdtvLYR7Nmex4AIFd4w,3.5,528,3,New York,NY,10024,Dim Sum
+Landmarc at the Time Warner Center,uBhLATTsbHYzR5kwjQIvwQ,3.5,1014,3,New York,NY,10019,Breakfast & Brunch
+La Boite en Bois,qEbQbYZxurnuVxDrNHQUJg,3.5,194,3,New York,NY,10023,French
+Momoya,PTYUAAJbEmvIv4EsyRrcnA,4.0,387,3,New York,NY,10024,Sushi Bars
+Vai Restaurant,iBPQRnM_TMQX6tYdjCbCXA,4.0,336,3,New York,NY,10024,Italian
+The Loeb Boathouse,tGsfb07uPQk6QloAB-XC2w,3.5,1127,3,New York,NY,10128,Boating
+Bistro Cassis Restaurant,zXuwcp_d3h6fVa9CarmWzw,3.5,218,3,New York,NY,10023,French
+Cesca,VUcrIqM40HWWb2sxAS9mLA,3.5,286,3,New York,NY,10023,Italian
+Storico,k1zrPPGGMQdlHopP3MnxrQ,4.0,185,3,New York,NY,10024,Italian
+Crave Fishbar,0LKC_M1bumyOcgWgbH9OdQ,4.0,219,3,New York,NY,10024,Seafood
+Sugar Factory,QA3PkY9R7qFeg7CVRZHsAw,3.0,312,3,New York,NY,10023,Bars
+Gabriel's Bar & Restaurant,kS04TICXd1-0iZ4rgEWmvQ,4.0,142,3,New York,NY,10023,Italian
+Shun Lee West,_RhAY03oEBw9HNwUAJyBCw,3.0,410,3,New York,NY,10023,Chinese
+Library Bar at Hudson,Mq9BeYiU0-HMf2eflWf_Xw,3.5,190,3,New York,NY,10019,Lounges
+Manhattan Cricket Club,weCOWpBaTreowCDFuBznqw,4.0,78,3,New York,NY,10024,Cocktail Bars
+Grand Tier Restaurant,TdtXe9qwRrPZpB5MxjVCug,4.0,64,3,New York,NY,10023,American (New)
+Ousia,YYMbXek5-Upj0g3RAjuI7A,4.0,146,3,New York,NY,10019,Mediterranean
+Citarella Gourmet Market - Upper West Side,nO9b-iD_-EsZ-F0q0_0djw,3.5,84,3,New York,NY,10023,Grocery
+Gardenia Terrace,B3vbVvQOofXU6lFkrN1_2A,4.5,110,3,New York,NY,10019,Hookah Bars
+OLMA Restaurant & Bar,5sTcJ4QDxE8ieVz2dLpjtQ,4.0,89,3,New York,NY,10024,Seafood
+Sky Terrace Rooftop Bar,4VZjs__jJSrhvc7-b76WWw,3.5,76,3,New York,NY,10019,Lounges
+Ascent Lounge,QY8evrH-4fN6nvSCf7Ogsw,4.0,41,3,New York,NY,10019,Cocktail Bars
+Center Bar,x7LUxCcvWwqddWIoLL7raQ,3.5,94,3,New York,NY,10019,Lounges
+Fischer Brothers & Leslie Kosher Meat & Poultry,ZhdF4TT0VfFZvFty--F_fg,4.5,15,3,New York,NY,10023,Meat Shops
+The Owl's Tail,ftL-f4OoFFshVYSZwTOrYA,5.0,14,3,New York,NY,10023,Cocktail Bars
+Blue Seafood Bar,AfiSqDmx7Q3qLLgAvhHSRQ,3.5,120,3,New York,NY,10019,Wine Bars
+La Sirène,EaNRl3vlDOsNF-gkCR5mBA,4.5,24,3,New York,NY,10024,French
+Hudson Cafeteria,t0r8AFKb1kiVRnBtvZoO1Q,3.5,52,3,New York,NY,10019,American (New)
+The Empire Rooftop,Sxw0Yeup4Sy0a8H5_xs8bQ,3.5,27,3,New York,NY,10023,Lounges
+Gina la Fornarina,TmVOi5Kl6OGXGPj8cn1XyQ,3.0,17,3,New York,NY,10023,Mexican
+Jean-Georges,PBUIaPtgnhmdHE3KHglK-g,4.5,1735,4,New York,NY,10023,French
+Per Se,1DfbZ0VsSCg9g1KILmnvzQ,4.5,1442,4,New York,NY,10019,French
+Marea,H_KyiRhwho8rdlw_R93_0Q,4.0,1799,4,New York,NY,10019,Italian
+Lincoln Ristorante,uDJw4dQiySoNCBoUalW1Ww,4.0,514,4,New York,NY,10023,Italian
+Sushi Kaito,vX0_qcuVXoeeH1_24I8lSA,4.5,115,4,New York,NY,10023,Sushi Bars
+Asiate,F4vv1nvkqN8ktbn_a4lj1g,4.0,503,4,New York,NY,10023,American (New)
+Gari Columbus,iHwhkW0LLlu81ZCir-lFQA,4.0,313,4,New York,NY,10024,Sushi Bars
+Porter House Bar and Grill,UmbueYC2QcDFJy6ju7M6dw,3.5,548,4,New York,NY,10019,American (New)
+Masa,t7BIiUN0tFg33kySuuQ0aQ,4.0,287,4,New York,NY,10019,Sushi Bars
+SubCulture Dining,sX1YVKCSXqp03HdUm7iBZg,4.5,30,4,New York,NY,10023,American (New)
+The Aviary NYC,7NInwhLvL6pghm_wod2FCw,3.5,129,4,New York,NY,10023,Cocktail Bars
+Bar Masa,-BWRdjHW6CtMGIRLMxEVQQ,3.5,171,4,New York,NY,10019,Japanese
+The Office,U-ACC8NvvtSSZDHaFUY5Bw,3.5,56,4,New York,NY,10023,Cocktail Bars
+Café On One,6Sj904Mjc1-xt4inj6pLyA,1.5,8,4,Manhattan,NY,10024,Cafes
+Ladino Restaurant,YlOA0QrMKbyVKu4xbs05Tg,2.0,1,4,New York,NY,,Mexican
+Crif Dogs,2n01u4yKfIrWuOzRVvIZmw,4.0,2018,1,New York,NY,10009,Hot Dogs
+Xi'an Famous Foods,Gd3_3mxOvj2xYiqysV8rbQ,4.0,1515,1,New York,NY,10003,Chinese
+Big Gay Ice Cream Shop,qZyHpLB9QVTWbHReujNfcg,4.0,1876,1,New York,NY,10009,Ice Cream & Frozen Yogurt
+Snowdays,7jXNphhpZZ2YE37E9jP60g,4.0,1085,1,New York,NY,10003,Shaved Ice
+Artichoke Basille's Pizza,vfYhEpp0x-DrNjC6GSJjPQ,4.0,3687,1,New York,NY,10003,Pizza
+Butter Lane,qMr-lz0G0vyz2r4mJJQxmA,4.0,1183,1,New York,NY,10009,Bakeries
+Sugar Sweet Sunshine Bakery,qVSOes5JoWc5_umv4nd4Hg,4.0,1996,1,New York,NY,10002,Bakeries
+Tompkins Square Bagels - Avenue A,oi39VAwo4-KGm_gSkWPCsQ,4.0,930,1,New York,NY,10009,Bagels
+Ray's Candy Store,WEC8O6GskyWJVpri_gW3QQ,4.5,338,1,New York,NY,10009,Desserts
+Prince Street Pizza,zj8Lq1T8KIC5zwFief15jg,4.5,2139,1,New York,NY,10012,Pizza
+Mikey Likes It Ice Cream,3kipPn-7euDo-9JIqK5hlA,4.5,435,1,New York,NY,10009,Ice Cream & Frozen Yogurt
+Sunny and Annie's,pWywDImlX0n_XKPNg0Bizg,4.5,440,1,New York,NY,10003,Sandwiches
+Xe May Sandwich Shop,8M_0cxAChoXl7Ls9YkWJlg,4.5,566,1,New York,NY,10009,Sandwiches
+McSorleys Old Ale House,QArou0r7CmLNPWYRA9ecog,4.0,1644,1,New York,NY,10003,Dive Bars
+Sundaes and Cones,TPBTUvbBVUfJeEWWy1o1QQ,4.5,1393,1,New York,NY,10003,Ice Cream & Frozen Yogurt
+Stuffed Ice Cream,0kH1mGuqIb5rOrvCKGsWtA,4.5,472,1,New York,NY,10003,Ice Cream & Frozen Yogurt
+Davey's Ice Cream,GB8yF6r-isDXjV3NR35xZw,4.5,478,1,New York,NY,10003,Ice Cream & Frozen Yogurt
+Gaia Italian Café,jdNdy-MwBtnXoBGC_JVvwQ,4.5,898,1,New York,NY,10002,Italian
+Soft Swerve,7-jMpWGUxPB8EEtmoqNdqg,4.5,1401,1,New York,NY,10002,Ice Cream & Frozen Yogurt
+Mamoun's Falafel,3o0Jp9ttSpP1wu7Focs7xg,4.0,1095,1,New York,NY,10003,Middle Eastern
+Eileen's Special Cheesecake,6G_NSMacAfdf-WYOpcQ4uw,4.5,1390,1,New York,NY,10012,Bakeries
+Taiyaki NYC,vk7W3_sQwr7eZbRFsXv6rw,4.5,2238,1,New York,NY,10013,Ice Cream & Frozen Yogurt
+Chinatown Ice Cream Factory,o6q3jm-dU5A6nV3r2lBg9A,4.0,2535,1,New York,NY,10013,Ice Cream & Frozen Yogurt
+Keybar,iIixO6VbKitogJGBRIalYA,4.0,512,1,New York,NY,10009,Lounges
+Mamoun's Falafel,L-IuiVoFMDSw2K6OAciP1g,4.0,2261,1,New York,NY,10012,Middle Eastern
+Juice Vitality,ytYVlCkrzcAxxUcbT4NTgA,5.0,122,1,New York,NY,10009,Juice Bars & Smoothies
+Superiority Burger,tf3RVircY9-8adku41N6VQ,4.0,463,1,New York,NY,10009,Burgers
+Vanessa's Dumpling House,IhSVn0TaX8xXb3wcQ-fgcA,4.0,2327,1,New York,NY,10002,Chinese
+Cheeky Sandwiches,gHdejB1Mx2P5UjAgZ6BT2w,4.5,1055,1,New York,NY,10002,Sandwiches
+Fresco Gelateria,M1OgZWqdol6fY5hfNa9oSw,4.5,446,1,New York,NY,10003,Gelato
+Banh Mi Zon,Ew3d7Vt18c1MH4_X6ogxQQ,4.5,292,1,New York,NY,10009,Vietnamese
+Ninth Street Espresso,SUYDozrIGzn9yY4yZ2ajvA,4.0,262,1,New York,NY,10009,Coffee & Tea
+BaoHaus,B3i4zs5wquFu1UZyzYJ-bQ,3.5,1816,1,New York,NY,10003,Chinese
+Wah Fung No 1 Fast Food,X8ZS-dgiMIJvhwf9SaDnjw,4.5,1036,1,New York,NY,10002,Chinese
+Peter Pan Donut & Pastry Shop,O0xFECgTDf1rbZzW9qUULQ,4.5,1155,1,Brooklyn,NY,11222,Bakeries
+Boba Guys,9_PfzNxJP2iqqJs8hDubgw,4.0,586,1,New York,NY,10002,Coffee & Tea
+Num Pang Kitchen,-jYxfK6Q1k84uUCag83Fqg,4.0,1363,1,New York,NY,10003,Cambodian
+Saigon Shack,7Qvh0oFRsoqrO9qNlcMKXQ,4.0,2138,1,New York,NY,10012,Sandwiches
+Tu-Lu's Gluten-Free Bakery,80ba8DlPmZfVNLLNA39ryQ,4.0,473,1,New York,NY,10003,Bakeries
+Zaragoza Mexican Deli & Grocery,UmY9dyGOclJ0tGbn1IozlA,4.0,289,1,New York,NY,10009,Mexican
+Banh Mi Saigon,MDMw0HFK3rgeGRl-FZC9Fg,4.0,1358,1,New York,NY,10013,Vietnamese
+Ess-A-Bagel,SCornvTSCMQ2SvWGq8Z_Mw,4.0,772,1,New York,NY,10009,Bagels
+Dough,ZMQzXIiqdBIuicFySTWGKg,4.0,1353,1,New York,NY,10011,Desserts
+Bite,PpxJsItHTF6sDAK6XnDJ9w,4.0,591,1,New York,NY,10003,Sandwiches
+Nuyorican Poets Cafe,PwPzF-b_XibKklorTZ57OA,4.0,245,1,New York,NY,10009,Bars
+Breakroom,MfbVI5reXLIIs8Cc2HwgQw,4.5,1418,1,New York,NY,10013,Burgers
+Pause Cafe,sR60I9PI_63noBQcGoIrbw,4.5,317,1,New York,NY,10002,Moroccan
+Miscelanea NY,VVe74-TKuROBvyS1XgVmvw,4.5,271,1,New York,NY,10003,Coffee & Tea
+Baker's Pizza,orvnuNWLuoE3-iEx4Aj8eA,4.5,159,1,New York,NY,10009,Pizza
+Hawa Smoothies & Bubble Tea,bIEGK6ZEVhaTxEbCVQGuug,4.5,98,1,New York,NY,10009,Coffee & Tea
+Katz's Delicatessen,V7lXZKBDzScDeGB8JmnzSA,4.0,9848,2,New York,NY,10002,Delis
+Ippudo NY,44SY464xDHbvOcjDzRbKkQ,4.0,9506,2,New York,NY,10003,Ramen
+Caracas Arepa Bar,iBm8YTqNwrddsxWdqLPK-A,4.0,2476,2,New York,NY,10009,Venezuelan
+Thursday Kitchen,fVbUVAiLiGgLA_nxBFxyww,4.5,963,2,New York,NY,10009,Korean
+Clinton Street Baking Company,nU4XBdvxDABXqZ6CnB8Dig,4.0,4323,2,New York,NY,10002,Bakeries
+Veniero's,VtJd1l64kqUUyWacwK0J2Q,4.0,1834,2,New York,NY,10003,Bakeries
+Cafe Mogador,W4hobe10Fy54MKqmLaObEg,4.0,1751,2,New York,NY,10009,Moroccan
+Luke's Lobster East Village,UXTTvSG3TVbSkbVGVtZ8dA,4.0,1473,2,New York,NY,10009,Seafood
+LoveMama,jjJc_CrkB2HodEinB6cWww,4.0,3292,2,New York,NY,10003,Thai
+Momofuku Noodle Bar,HfJhenvKDi-ds8SUJFwrLg,3.5,3967,2,New York,NY,10003,Ramen
+Upstate,ehUuSk5gPTCQmwS_ubgKRA,4.5,1590,2,New York,NY,10003,Seafood
+Yuca Bar,AgAkUVLN_axMY-bzbNCfCw,4.0,1643,2,New York,NY,10009,Latin American
+Raclette,5m-TrbqMNnwJvOd7pAt6OA,4.0,987,2,New York,NY,10009,Sandwiches
+Russ & Daughters,VrCCr45dhN-RRM107iptdg,4.5,1837,2,New York,NY,10002,Bagels
+Doughnut Plant,lWOkeS-wV4no8qqA9OwwEg,4.5,3054,2,New York,NY,10002,Donuts
+Bobwhite Counter,nD7Hcq5aaCASbWzc0-Sg3A,4.5,671,2,New York,NY,10009,Southern
+Spot Dessert Bar,ikazsJps1k-Br2FbunwCtg,4.0,2669,2,New York,NY,10003,Desserts
+Minca,raelHbSJ_gTo701c-KyXWg,4.0,1570,2,New York,NY,10009,Ramen
+Root & Bone,ULt3kmA0_hbZ3j6cMORCaA,4.0,1391,2,New York,NY,10009,Southern
+The Wayland,j8cKSxr6aQ8qTx23FLyyiA,4.5,464,2,New York,NY,10009,Bars
+Angel's Share,ZD22cMZvSmfNsXS9vKizGA,4.5,1934,2,New York,NY,10003,Cocktail Bars
+Westville - East,3idAtiEXe_XfTcPoZC_DcQ,4.0,983,2,New York,NY,10009,American (Traditional)
+PMF Pardon My French,TGP5gbAgml0IDRLGCpFnCw,4.0,764,2,New York,NY,10009,French
+Luzzos La Pizza Napoletana,eVk4F9ixl89zyUHJ1G2Aiw,4.0,994,2,New York,NY,10003,Italian
+Brindle Room,sVG1whNWHhlbjP6p027YcA,4.0,920,2,New York,NY,10009,American (New)
+Shake Shack,FEVQpbOPOwAPNIgO7D3xxw,4.0,5461,2,New York,NY,10010,Burgers
+Burger & Lobster,UA2M9QFZghe-9th2KwLoWQ,4.0,4506,2,New York,NY,10011,Seafood
+The Meatball Shop,P4hm-IKNMbBbtfWSvPf25A,4.0,2672,2,New York,NY,10002,Italian
+Taverna Kyclades - East Village,apykLG7DTZ-7xnOcZGDZZA,4.0,732,2,New York,NY,10009,Greek
+S'MAC,bRPq-Nmct5bOuOtsu8fC7Q,3.5,2075,2,New York,NY,10003,American (Traditional)
+Beyond Sushi,FoR70YoGSb4_QavCe1WZEw,4.5,885,2,New York,NY,10003,Sushi Bars
+Raku,FlZ1zdVEKWv7dwqm8Uw8-w,4.5,737,2,New York,NY,10003,Japanese
+Coffee Project NY,pimuUR-TEHIjUla3S3jemQ,4.5,591,2,New York,NY,10003,Coffee & Tea
+Lombardi's Pizza,WIhm0W9197f_rRtDziq5qQ,4.0,5630,2,New York,NY,10012,Pizza
+The MasalaWala,sCC7-hSdCkNPExejZT9BAQ,4.5,1220,2,New York,NY,10002,Indian
+Cafe Habana,NOh24SMS6k4pzNv8Ds7KDg,4.0,3053,2,New York,NY,10012,Cuban
+Maharlika,1_S2RxVWOidWcgbU2tBQBQ,4.0,1375,2,New York,NY,10003,Filipino
+Cha-An,5QgBCrAbXbM1ORiqZDrBPQ,4.0,1589,2,New York,NY,10003,Japanese
+il laboratorio del gelato,HjZvV6WAdsusCRlY0iSxYg,4.0,1226,2,New York,NY,10002,Ice Cream & Frozen Yogurt
+The Summit Bar,vwVRoM9gVWuwJw1_6xfyag,4.0,379,2,New York,NY,10009,Cocktail Bars
+Veselka,CVxz9B5ncpMwVK1bk_c1YA,4.0,2241,2,New York,NY,10003,Diners
+Jeepney,-b3J-5K_beWyGxQ1Id7KQg,4.0,941,2,New York,NY,10003,Filipino
+Cornerstone Cafe,efYELOeAJ-CjKpzayEfblg,4.0,1011,2,New York,NY,10009,Italian
+Ten Degrees Bar,-p7dvuKa91_4B-aiFIFB8Q,4.0,807,2,New York,NY,10009,Wine Bars
+ChikaLicious Dessert Bar,mIhqKMgru4002wfrVW-Gfw,4.0,1241,2,New York,NY,10003,Desserts
+Williamsburg Smorgasburg - Saturday,gUJ6pHYd_fp2Ypq377P_vA,4.5,1020,2,Brooklyn,NY,11211,Food Stands
+Eataly,a0IET3_yCFcO36OqGSsisg,4.0,5067,2,New York,NY,10010,Italian
+Thai Villa,B3_K2kUVbYOU0VaLcj_LTw,4.5,1935,2,New York,NY,10003,Thai
+Mighty Quinn's Barbeque,LsITU8KVYMhV_fatv84wWA,4.0,1641,2,New York,NY,10003,Barbeque
+Poco - NYC,3LRZQolTdyps07RSoaIXpA,3.5,1375,2,New York,NY,10009,Tapas Bars
+Pylos,7xV4gzrgaOgQYtPC3FBZig,4.5,1047,3,New York,NY,10009,Greek
+Please Don't Tell,aiRctIzCj9J3UqBHd-Z3HQ,4.0,1590,3,New York,NY,10009,Lounges
+Beauty & Essex,pfmAcS-g6SiNG0KlLvrqnA,4.0,2906,3,New York,NY,10002,American (New)
+Death & Co,H1QphdrrsaB472y9HXi2Ow,4.0,1364,3,New York,NY,10009,Lounges
+Momofuku Ssam Bar,1Ed-tb_0dBGrXfsYyehmvg,4.0,2279,3,New York,NY,10003,American (New)
+ABC Kitchen,dMhRafXdr765DHe0k-QfaQ,4.0,2757,3,New York,NY,10003,American (New)
+The Stanton Social,GXW2ADbOJKLry33sRaH9mw,4.0,2698,3,New York,NY,10002,Lounges
+Pouring Ribbons,zk3Q0RKA6xhitWDoSMqnQA,4.0,354,3,New York,NY,10009,Lounges
+Tuome,R7EGjHWw0tNheY6-ahH8fQ,4.5,349,3,New York,NY,10009,American (New)
+Gyu-Kaku Japanese BBQ,bB8dHfAEJrF5tNcHr0yJjA,4.0,1531,3,New York,NY,10003,Japanese
+Traif,qLLxS7RwNEjP_jq_KQrPfA,4.5,1770,3,Brooklyn,NY,11211,American (New)
+Bohemian Restaurant,8fr5FYU1ip0phERt1mrekg,4.5,672,3,New York,NY,10012,Japanese
+Buenos Aires,ZgIfySJ3cnB1svoyJAiCzg,4.0,455,3,New York,NY,10009,Argentine
+Desnuda,odX0anvOSQ_X4SXdoqJFNQ,4.0,378,3,New York,NY,10009,Seafood
+Balthazar Restaurant,KgpOYAG-r_eDsQXFXt0nnQ,4.0,2749,3,New York,NY,10012,French
+Hearth,7Oq1UdUHUGZGH_QI6N-0LQ,4.0,655,3,New York,NY,10009,American (New)
+Avant Garden,jvPYm9rYK-5ddnjU30Oz4Q,4.5,252,3,New York,NY,10009,American (New)
+Noreetuh,rCpO-kMHljieU0geK0RJQw,4.0,372,3,New York,NY,10009,American (New)
+Timna,VR4Ki8V4f_B7GAGJSY9TRQ,4.5,285,3,New York,NY,10009,Mediterranean
+Edi & the Wolf,gDHzJKjqY2ToDoPa9O2V2g,4.0,400,3,New York,NY,10009,German
+Lavagna,jku9Fg8JsUbv_LQzg6PK4g,4.0,343,3,New York,NY,10009,Italian
+Zenkichi,DpZ7Xaub8Lhpg7VJdHaPpg,4.0,904,3,Brooklyn,NY,11249,Japanese
+Scarpetta,raqwXUBlnc0e8c7CYmxEJQ,4.0,1707,3,New York,NY,10016,Italian
+Oiji,FsuJ7VC5vxX3wcLhFrb97Q,4.5,414,3,New York,NY,10003,Korean
+Virginia's,Gn7oaWjBoEGHe1_bfsBikg,4.5,147,3,New York,NY,10009,American (New)
+Raines Law Room,J4pAppaiXwCkbLOGc4wHww,4.5,1296,3,New York,NY,10011,Lounges
+ilili,B55Ocx5RBWxo6AGSucYSIA,4.0,2152,3,New York,NY,10001,Mediterranean
+Minetta Tavern,PYcL2z9gHj6-ZTlViT9Nqw,4.0,2014,3,New York,NY,10012,French
+The Eddy,TMzgYJWl-DeKaA3kGcuK8A,4.5,343,3,New York,NY,10003,American (New)
+Union Square Cafe,lXGCo-K7eftxRT_6E59-Iw,4.0,1092,3,New York,NY,10003,American (New)
+Maialino,yi6jIxzHo-nbAOG4KWuqcw,4.0,1251,3,New York,NY,10010,Italian
+Gato,Ve9eysLcTjGLbKp7tjOd9w,4.0,989,3,New York,NY,10012,Mediterranean
+The NoMad Restaurant,1z5Nu66M6W8mk5Ap4osZwA,4.0,1350,3,New York,NY,10001,French
+Dear Irving,-dQexkmhlgbiKvZ94jBmjQ,4.5,557,3,New York,NY,10003,Cocktail Bars
+SakaMai,wcwftlB-61XG4ymGTR61aw,4.0,544,3,New York,NY,10002,Japanese
+Alta,XEugUtbw4rRmGr9S1XA-aQ,4.0,1722,3,New York,NY,10011,Tapas Bars
+Lupa,yZJbealagfujEkgesAl2hA,4.0,1396,3,New York,NY,10012,Italian
+Maison Premiere,O4rYM6YBj90W2u7RhG3Mvg,4.0,1040,3,Brooklyn,NY,11249,Seafood
+Casa Mono,8PhwiTru5teSaZ8C6hrIww,3.5,1136,3,New York,NY,10003,Spanish
+Prune,4LV-7hGnfimAhoAuYhgvEg,3.5,991,3,New York,NY,10003,American (New)
+BondSt,m6sYBuozGY1JhnHlBf1Bzg,4.0,892,3,New York,NY,10012,Japanese
+Riverpark,OqNmzS2N2I750zYgUC6IgA,4.0,711,3,New York,NY,10016,American (New)
+Lure Fishbar - New York,aSFBv64GBpMOFPqIleeQFQ,4.0,1499,3,New York,NY,33139,Seafood
+Blue Water Grill,NZNPFJ405oo1z043hH4Fnw,4.0,1428,3,New York,NY,10003,Seafood
+Kanoyama,VVlHJ6_sJbRAodV5lCzBnA,4.0,591,3,New York,NY,10003,Japanese
+Hillstone Restaurant,01isnBO1rFO2LTOeNfYl9w,4.0,834,3,New York,NY,10010,American (New)
+Uncle Boons,m6bu1AGIIIM9GNn9_cjsmg,4.0,706,3,New York,NY,10012,Thai
+Saxon + Parole,7y7E2wavr-HBwEmq2snMLw,4.0,696,3,New York,NY,10012,American (New)
+Osteria Morini,KCBfW6sWl9Gx-LvMff08jg,4.0,1015,3,New York,NY,10012,Italian
+Upland,xkvv0n7jbl4Ra3Vm_jfxaA,4.0,783,3,New York,NY,10010,American (New)
+Gramercy Tavern,veq1Bl1DW3UWMekZJUsG1Q,4.5,2578,4,New York,NY,10003,American (New)
+Kura,nEkVibaTuIFEcTNtltFgJg,4.5,399,4,New York,NY,10009,Japanese
+Peter Luger,4yPqqJDJOQX69gC66YUDkA,4.0,4895,4,Brooklyn,NY,11211,Steakhouses
+Eleven Madison Park,nRO136GRieGtxz18uD61DA,4.5,1873,4,New York,NY,10010,American (New)
+Kyo Ya,ytABgZNWnFXQUjOYjh460A,4.5,428,4,New York,NY,10009,Japanese
+Gotham Bar and Grill,_gzXNKarTxagBp6_PkmQKw,4.5,1461,4,New York,NY,10003,American (New)
+Babbo,-hUvO0C0A-pGZdiSKvjoFw,4.0,2249,4,New York,NY,10011,Italian
+Sushi Dojo NYC,je92kXXWjANmiN-dfwNapg,4.0,360,4,New York,NY,10009,Sushi Bars
+Craft,Rgm8BwcoqfIVSl2QSEOhbQ,4.0,941,4,New York,NY,10003,American (New)
+Cagen Japan Restaurant,IYlO-XRwjZlUl0yoKY87cA,4.5,164,4,New York,NY,10009,Japanese
+Secchu Yokota,ynR4-QgEOsE7VhNfIWo73w,5.0,65,4,New York,NY,10009,Japanese
+Blue Hill,4Objcs7HXSGuzpb0SOa-Jw,4.5,905,4,New York,NY,10011,American (New)
+Momofuku Ko,GticI2JB8Iw2ktRfLv6aRQ,4.5,241,4,New York,NY,10003,American (New)
+Strip House,DijUyfUGs6WoN4dp0_OANQ,4.0,908,4,New York,NY,10003,Steakhouses
+BLT Prime,bgKyR2yDILuDq9f7uKZYnw,4.0,761,4,New York,NY,10010,Steakhouses
+15 East Restaurant,GBWMJJ4_rDWqiXJ7AvHAOg,4.0,596,4,New York,NY,10003,Japanese
+Jewel Bako,juoHZs-uMmqW4gQ1iISvxA,4.0,507,4,New York,NY,10003,Sushi Bars
+Carbone,7_hGsGEkHrjgAiYVjrCFnw,4.0,757,4,New York,NY,10012,Italian
+Il Mulino New York - Downtown,DtnlLLvcqeEUIyZTypHnzw,4.0,494,4,New York,NY,10012,Italian
+Tocqueville Restaurant,a0AvIH1UnFmqAXhZDEQtrw,4.0,328,4,New York,NY,10003,American (New)
+Uogashi,bSgJYwutzr5mIn6Ar3bzUg,4.0,106,4,New York,NY,10009,Sushi Bars
+Contra,5K0b-fEk96xUJCV_5ytNog,4.0,262,4,New York,NY,10002,American (New)
+O Ya,WHXgDm3kcU-aONfjR8tX0A,4.5,198,4,New York,NY,10016,Japanese
+Shuko,EBIjeMlkgU12CyCcUDj-kg,4.0,241,4,New York,NY,10003,Japanese
+Le Coucou,obFs12x7mgYPGxgalBd22w,4.0,387,4,New York,NY,10013,French
+Mayanoki,lPz4dEFSE1YzASjXYPVYnA,4.5,35,4,New York,NY,10003,Sushi Bars
+Neta,8NDTQb7JLHd4r0yDmpzjUA,4.0,339,4,New York,NY,10011,Sushi Bars
+Aska,UM3DuPsG6UKdmsC23O_Icw,4.5,76,4,Brooklyn,NY,11249,Scandinavian
+Greenwich Steakhouse,jkl1ukPtVM2UZqMLSJdWFw,4.5,158,4,New York,NY,10011,Steakhouses
+Uchu,OINi1A9bSUUN5vi7xgi3ZQ,4.5,47,4,New York,NY,10002,Sushi Bars
+Sushi Zo,GknCLz8E_mC211psEX8lYg,4.5,66,4,New York,NY,10012,Japanese
+Omakase Room by Tatsu,fDeC90b2ZqPQClL62jOUmw,4.5,76,4,New York,NY,10014,Sushi Bars
+Shabushabu Macoron,R9jTfyPlnfk23gy8VCCVAg,4.5,41,4,New York,NY,10002,Japanese
+ZZ's Clam Bar,xymU2HPO_euz1Ss1AE9Fyw,4.5,90,4,New York,NY,10012,Seafood
+Sushi Daizen,JPEIN-ZFo0-6X06nz6cfYA,4.5,86,4,Long Island City,NY,11101,Sushi Bars
+Bouley at Home,sqbSuwMNFg76ys2yNpbgVg,4.5,55,4,New York,NY,10010,American (New)
+Di An Di,1xJV03v3g3oP3G5oDlWuoQ,4.0,60,4,Brooklyn,NY,11222,Vietnamese
+The Box,LppKzOZ2ZGmD7GrP5JAh5Q,2.5,304,4,New York,NY,10002,Cocktail Bars
+Atomix,NsACuDqm5AVPpUocvuXONg,4.5,21,4,New York,NY,10016,Korean
+Tokyo Record Bar,zaYK-LuVRUoUVt6EV-xmPg,4.0,63,4,New York,NY,10012,Izakaya
+Truffles Murder Mystery,agz8qfhZTWIHVvD6ltE78A,4.5,43,4,New York,NY,10036,Comedy Clubs
+noda,IPhWpqIuAiEerKlLS82RpQ,4.5,16,4,New York,NY,10001,Sushi Bars
+2nd Ave Smoke Shop,2rrJ-7S_3ibvj1Z7-CWzVg,4.5,10,4,New York,NY,10003,Tobacco Shops
+et al.,WFfsu07M-XtVAcUebtpUdA,4.0,14,4,New York,NY,10002,Lounges
+Marchi's Restaurant,aP2gsHT_aBFpXOD7tvPONg,3.5,36,4,New York,NY,10016,Italian
+Ben & Jerry's,aACkpN-xVZO-sQZDt2lUWQ,3.5,16,4,New York,NY,10003,Desserts
+Woodward Gallery,8f4_m9EBg9e0I-gGfA0v3g,5.0,5,4,New York,NY,10002,Art Galleries
+Polish & Slavic Center Cafeteria,sHRFCUDuvekILW4ZueTXMg,4.5,8,4,Brooklyn,NY,11222,Polish
+Jinyunfu Tea Shop,LAFoN3hSG5hob6rMp3v0WA,5.0,6,4,New York,NY,10010,Antiques
+Village 122 Cafe,cv53cUtUS9kwZyO4iHovjg,5.0,4,4,New York,NY,10012,Cafes
+Burrito House,8ZWuMPU9OH6Z7HR3R2FXLg,5.0,8,1,Schuyler,NE,68661,Restaurants
+Kolache Korner Cafe,xxfBxjbeqUYDbl3uJFLgzw,5.0,3,1,Prague,NE,68050,Bakeries
+Nowhere Special,oW9bEwPZyYXJ2Hqs5goUMA,4.5,3,1,Linwood,NE,68036,American (Traditional)
+Corner Cafe,LXoPAFxFiHXjVpERXhMvhA,4.0,7,1,North Bend,NE,68649,American (Traditional)
+Runza,u8cg2LgLQqGJAsQSLtgo6Q,5.0,3,1,David City,NE,68632,American (New)
+Northside,RO7UzAYLtkmBK29RJ7owRQ,4.0,3,1,David City,NE,68632,Gas Stations
+Bottom Road Bar,chhQ3B70NsDcaQT4z5-i6A,2.5,2,1,Morse Bluff,NE,68648,Bars
+Huey's Smokehouse BBQ,wOD-ScTTz5aNyCu0uFuvwA,4.5,52,2,Fremont,NE,68025,Barbeque
+Lippy's BBQ,Py0smEULn4MOZXmKsvgRqg,4.5,52,2,Malcolm,NE,68402,Barbeque
+Honest Abe's Burgers and Freedom,4FsHqroT5hLmHUOXCkRwYA,4.5,333,2,Lincoln,NE,68505,Burgers
+LeadBelly,n8hof5pjuL2FP7aMM3OodA,4.0,343,2,Lincoln,NE,68508,American (New)
+The Woodcliff Restaurant,5eaTmDIKq23EF16mr4huwg,4.5,26,2,Fremont,NE,68025,American (New)
+Acapulco,Pl8ROGKCtpDfafI4eJXCMg,4.0,14,2,Wahoo,NE,68066,Latin American
+Phat Jacks,PtBORCE3jrA8rCbDD4QtQg,4.0,208,2,Lincoln,NE,68528,Barbeque
+SchillingBridge Cork & Tap House,bpEccShOHa4RQJEy5t8Y7A,4.0,78,2,Lincoln,NE,68521,Gastropubs
+Blue Sushi Sake Grill,Nj1bcla4T_r1gTy2yKNArQ,4.0,215,2,Lincoln,NE,68508,Sushi Bars
+The Single Barrel,czHbrIuNFcjq4_2P450hXw,4.0,167,2,Lincoln,NE,68508,Steakhouses
+El Centenario,VVdC7VCcPP9iLiZo8KzDJQ,4.5,4,2,David City,NE,68632,Mexican
+The Oven,zo4LbXSMdhsFVE7Xx6KfVw,4.0,202,2,Lincoln,NE,68508,Indian
+Toast,inqdWdLK9l46SMngGIEhgg,3.5,114,2,Lincoln,NE,68521,Burgers
+Simply Delicious Restaurant,ff_arvBSF39GlZAs79SLzw,4.5,23,2,Valley,NE,68064,American (Traditional)
+The Green Gateau,QxL4KANHgaeZRWtBp1VF5g,4.0,171,2,Lincoln,NE,68508,French
+Railcar Modern American Kitchen,7CWQlnzHrbrW2YYagG50ZQ,4.0,348,2,Omaha,NE,68154,American (New)
+Honest Abe's,DgKBBKxVPGJcJ1gC528QwQ,4.5,125,2,Lincoln,NE,68508,Burgers
+Daffodil Mediterranean Cuisine and Catering,uy6Dj74ssqarl1nwec55ZQ,4.5,119,2,Lincoln,NE,68516,Persian/Iranian
+Over Easy,H5K9MdMeueakS2DGlRlz4A,4.0,249,2,Omaha,NE,68135,American (New)
+Lazlo's In the Haymarket,XsSHzeSRVhgMRSfp3dDemw,3.5,305,2,Lincoln,NE,68508,American (Traditional)
+Blatt Beer & Table,b9JUEfZX4FDT2spgSwndHA,4.0,156,2,Omaha,NE,68130,American (Traditional)
+Grey Whale  Sushi & Grill,OgCNrvbzEl--LoIpbs38pA,4.5,86,2,Lincoln,NE,68508,Japanese
+El Mezcal Mexican Restaurant,i3nml5jfTTWetNSwqBr4Xg,4.5,13,2,Columbus,NE,68601,Sports Bars
+Firebirds Wood Fired Grill,rk2KkExQSK8V0nBc3gD6Rg,4.0,199,2,Omaha,NE,68118,Steakhouses
+Baby Blue Sushi Sake Grill - Shops of Legacy,Yhep3irMklXND6J9W1B0Iw,4.0,177,2,Omaha,NE,68130,Sushi Bars
+Dante,RL_q_ky4s2iyGp8QYxAnPQ,4.0,177,2,Omaha,NE,68130,Italian
+Yia Yia's Pizza & Beer,kGqOpDiauIeP3Z4CHwlAEA,4.0,167,2,Lincoln,NE,68508,Pizza
+Ling's Asian Cuisine,Ic13IPwLRwCdfZKdIvP3qg,4.5,89,2,Omaha,NE,68136,Vietnamese
+Oscar's Pizza & Sports Grille,4PqYEgMgT3Ai3_1fyfTYww,4.0,186,2,Omaha,NE,68130,Pizza
+Dusters,X_NyMRV_1mqn5OnY7Qpe7g,3.0,32,2,Columbus,NE,68601,American (Traditional)
+Starlite Lounge & Banquet Room,vDPN2pR1d1hDeLqdHA6Ssg,4.5,71,2,Lincoln,NE,68508,Lounges
+Pho Factory,iebogl98hQAOrd6JlylqJA,4.0,109,2,Lincoln,NE,68503,Vietnamese
+Blue Orchid Restaurant,DW3Gx6SfAdeCASj9FROQ2Q,3.5,180,2,Lincoln,NE,68508,Thai
+Ninja Steak & Sushi house,7esJUjsAPeZUlmPUNrsnsw,4.0,29,2,Fremont,NE,68025,Sushi Bars
+Blue Sushi Sake Grill - Grayhawk Pointe,XiVn7rm68IFSpyPKIR3lWQ,4.0,164,2,Omaha,NE,68116,Sushi Bars
+Piezon's Pizzeria,Fi1aY_fxqr9F4o_hCHidaw,4.5,98,2,Omaha,NE,68130,Pizza
+Hiro 88,DwhOiqEh6Q4RKWoLH6IuWQ,4.0,121,2,Lincoln,NE,68508,American (New)
+Screamers Dining & Cabaret,zi1RYsXV4pBqIX-To9UCmQ,4.5,45,2,Lincoln,NE,68508,American (New)
+Sushi Japan,yzH7tpR2YaB3HSQCxEJf7g,4.0,122,2,Omaha,NE,68144,Japanese
+Thai Kitchen,N_FhZ9rW8LaZGxyZo5c2HQ,4.0,85,2,Omaha,NE,68130,Thai
+HopCat,CGksYClKzMTpM_9wI9Y2xw,4.0,152,2,Lincoln,NE,68508,American (Traditional)
+Pitch,KjIaGyVTEoHeS_OTnFQTFQ,3.5,203,2,Omaha,NE,68118,American (New)
+Leroy's Steakhouse,NxtWCkt4cPP8e1yw8JzFKg,4.0,5,2,North Bend,NE,68649,Steakhouses
+9 South Chargrill,ZIaKcriUfO2g5Q-0xBDmnw,4.0,120,2,Lincoln,NE,68502,American (New)
+L.A. Fire Proof Door,1H3hJ-PcXUdV_F37Zensdw,3.5,32,2,Fremont,NE,68025,Burgers
+Pan Asian Terrace,viAWl78HsFFeYsNLiZNoGA,4.5,79,2,Omaha,NE,68130,Pan Asian
+Prairie Plate Restaurant,XG5BHLh0Ghy0oiTv_SswWw,4.5,14,2,Waverly,NE,68462,American (New)
+Hub Cafe,fapYVSvrTtwS2zUxyUP37A,4.0,76,2,Lincoln,NE,68503,Cafes
+Chez Bubba Cafe,WWIu_qYAtSg0xqYEON1RYw,4.5,30,2,Goehner,NE,68364,American (Traditional)
+Isles Pub & Pizza,znQw4EPVGAuDIVaFHZhTcw,4.5,49,2,Lincoln,NE,68507,Pizza
+The Other Room,hUib4rTey_txdQXTWlpa5g,4.5,49,3,Lincoln,NE,68508,Cocktail Bars
+DISH Restaurant,IayNZPrMHl0kOlwXRKQUcQ,4.0,90,3,Lincoln,NE,68508,American (New)
+Le Voltaire,wWcWiYwesW7KEsKycEYYRg,4.5,85,3,Omaha,NE,68154,French
+Kobe Steakhouse of Japan,X6MEVc4WdUkKY_gTq29O0w,4.0,97,3,Omaha,NE,68118,Steakhouses
+Johnny's Italian Steakhouse,Cu5s55b8MUE8U6wmy-UJ3w,3.5,105,3,Omaha,NE,68118,Steakhouses
+Rodizio Grill,nE3vhSF-RvdDONV9Riy3Zw,3.5,117,3,Lincoln,NE,68508,Steakhouses
+JTK Cuisine & Cocktails,x4zfAwLXfcYgjR7Z2qd2rA,4.0,63,3,Lincoln,NE,68508,American (New)
+Alotta Brownies Bakery,rPiq1HyNsOPH_bzTUqNtHw,4.0,9,3,Fremont,NE,68025,Bakeries
+Tavern 180,WmsASJI09u3Y8jknbeSZ3A,3.5,51,3,Omaha,NE,68118,Seafood
+Yogurt City,iaXnHUKy7Vj9YrnydHWWSA,5.0,2,3,Columbus,NE,68601,Ice Cream & Frozen Yogurt
+Misty's,0awv35N07qeoHuBWi_87yQ,3.0,52,3,Lincoln,NE,68507,Steakhouses
+Scooter's Coffee,phswnme2mYObcWf02XZZxw,4.0,3,3,Columbus,NE,68601,Coffee & Tea
+Steak & Grapes,a4qnKwOdNL6s6hTgWCodCA,3.5,42,3,Omaha,NE,68130,"Beer, Wine & Spirits"
+Nothing Bundt Cakes,ugmjvVdGLUJy8rrHZVl7QA,4.0,15,3,Lincoln,NE,68506,Desserts
+Elegant Endings,m_uAggyo30Uk1w6K9Kw0lw,5.0,5,3,Lincoln,NE,68510,Caterers
+Cupcakes & More,tooeUKcfEeu62NotnjjchA,3.5,10,3,Lincoln,NE,68516,Bakeries
+501 Bar & Grill,xiQF96PnuiED2E6BliC-VQ,3.0,6,3,Lincoln,NE,68522,Dive Bars
+Nebraska Club,29iK7l-NKDOprCHgJt-MVg,3.0,4,3,Lincoln,NE,68508,American (New)
+Dunkin Donuts,iNRtRa3FRSDNm0L0hMXauw,2.5,9,3,Lincoln,NE,68526,Donuts
+Tiburon Golf Club,2jbd2Np3yNoxYeAn13H3rg,4.0,2,3,Omaha,NE,68136,Sports Bars
+Valentino's,PU0lCVlknBxx31elnn8Z7Q,2.5,3,3,Lincoln,NE,68516,Pizza
+Last Second Saloon,kBL9QfEGqu-z_qICgoHpIg,4.0,1,4,North Bend,NE,68649,Sports Bars
+Black Sheep Coffee House,NBb9Bscy3pT2BgBsMDyLHg,4.5,5,4,Springfield,NE,68059,Coffee & Tea
+Poppi's BBQ,n4bkyuj-3cXepe5slgTd8Q,1.0,2,4,Lincoln,NE,68512,Barbeque
+El Vallarta,rtFZ_EKyyY4Y64PNrFUz3w,4.0,21,1,Blair,NE,68008,Mexican
+Chatterbox Brews,2Z7cgT2cLCJzCRZb_wVNIA,4.5,4,1,Tekamah,NE,68061,Bars
+Connie's Blair Bakery,yxK9v0ZymY6aHfWFcWnp9w,4.5,11,1,Blair,NE,68008,Bakeries
+Memories Cafe,EzdHS0bkPGfZ-t7ugQlyDw,4.0,2,1,Oakland,NE,68045,Cafes
+Green Lantern Steak House & Lounge,DShxvf92ZI120FuPRffRxQ,4.0,9,1,Decatur,NE,68020,Steakhouses
+Millers Kitchen,5VtqVCJ25M6v0nYnXVDTdQ,4.5,7,1,Onawa,IA,51040,American (Traditional)
+Petersen Bar 75,gA_VLCpHSYZtT24TG2ZMRg,4.0,3,1,Herman,NE,68029,Bars
+Uptown Restaurant & Lounge,NNfDbJRIUn0krsm7C1l5JQ,4.5,4,1,West Point,NE,68788,Restaurants
+Runza,xfyqKp4wQnKUmFvbipaAOQ,3.5,6,1,Blair,NE,68008,Burgers
+Billy's Blair Maple Cafe,wEwGbxz6eHeKSgHQWmwKfg,3.0,8,1,Blair,NE,68008,American (New)
+Iron Horse Food & Spirits,z_AFw99Ydw6BJUtH5Lx4wQ,4.0,2,1,Hooper,NE,68031,Lounges
+Pizza Ranch,yRzkdjwV1sW-Ze0McKO3Mg,3.5,2,1,West Point,NE,68788,Pizza
+Viking Steaks & Seafood,0t32Cd7Xoj8kPfe8abwE5g,3.0,5,1,Blair,NE,68008,Seafood
+Subway,cc2GuMr0wIAxE3uKTRjVlw,3.5,3,1,Blair,NE,68008,Sandwiches
+Dairy Queen,s4UwVjeHqOdIvrH_ERZ6FA,2.5,3,1,West Point,NE,68788,Fast Food
+Burger King,4PAwambvdQHku9fWt6XRIg,2.5,3,1,Blair,NE,68008,Burgers
+McDonald's,ebWNwxTLRazQlcNRc5VoRQ,2.5,5,1,Blair,NE,68008,Fast Food
+Dairy Queen,21jfEG3KCX_G6BN9jFeTxQ,2.0,6,1,Blair,NE,68008,Fast Food
+Mel's Bar & Lounge,bcvogoGXe9ffwnr_zthkcA,5.0,1,1,Scribner,NE,68057,Bars
+Scooter's Coffeehouse,34m5xehyv8hGMJ7mX4z4dA,2.0,3,1,Blair,NE,68008,Coffee & Tea
+Onawa Dairy Queen,KnRmbs3mlgkaNwYLykFSJQ,2.5,4,1,Onawa,IA,51040,Fast Food
+Bamboo Village Chinese Cafe,mwk4xKmHhoXWFGZU_gvVVw,4.0,1,1,Onawa,IA,51040,Chinese
+Master's Hand,92byffFCuK6CNbmHNzGbeA,5.0,5,2,Tekamah,NE,68061,Flowers & Gifts
+Hide-Away Grill,2G6flpz3SwPPAmFgIUOKgw,4.5,14,2,West Point,NE,68788,American (Traditional)
+Main Street BBQ & Grill,O3U2v1Kgd-iqtRtZ8QNZ3A,4.0,24,2,Blair,NE,68008,American (Traditional)
+The Office Bar & Grill,ALY-wcWnLp1YwshSSbQ4_g,4.5,6,2,Hooper,NE,68031,American (New)
+Fernando's Cafe & Cantina,xtOfaq0-nmucUfrCr5TNxg,3.5,19,2,Blair,NE,68008,Mexican
+Hoshi Palate,bbPmtoLVU0cSoUwouNHVhw,4.0,13,2,Blair,NE,68008,Sushi Bars
+Blair Marina,MILhTXBQST6qQleRbLLJzg,5.0,6,2,Blair,NE,68008,American (New)
+Winners Grill,6dupB4JYQ8-Q08-qst4VlQ,4.0,3,2,Tekamah,NE,68061,Burgers
+651 Grill,ACzAxlmCyJX_oAzVEr5oCg,4.0,7,2,Blair,NE,68008,American (Traditional)
+Butch's Deli,JGBDFzb0sh_EEwmgjbNspA,4.0,9,2,Blair,NE,68008,Salad
+Z's Bar and Grill,uQBpOhRMNB9vukRGvdXLBQ,4.5,4,2,Scribner,NE,68057,American (Traditional)
+Dan's Pizza,QQe8UwoUxiVCWFVrtHtHSQ,5.0,3,2,Onawa,IA,51040,Pizza
+Pop-N-Doc's,Snvy6EKOWBPcHPvNuA2YAA,4.0,4,2,Decatur,NE,68020,Burgers
+J & D's Bar & Grill,Qn0C2JdqTJuiSIpOgBQuiQ,3.0,5,2,West Point,NE,68788,Restaurants
+Suds n Jugs,wNpGejwXYyGdv_24oHSK7g,4.0,4,2,Onawa,IA,51040,Burgers
+Jimmy John's,BGqLIGAvkUkCgs0qZp-CJg,2.5,3,2,Blair,NE,68008,Delis
+The Drover,H_m48-oFNpTIvi1zhYGPNQ,4.0,590,3,Omaha,NE,68124,Steakhouses
+The Grey Plume,uaUEOnVDjpeorYFvo54DEQ,4.5,267,3,Omaha,NE,68131,American (New)
+Au Courant,X63aSFPk9MDpOaCCp0c6dA,4.5,135,3,Omaha,NE,68104,Modern European
+Dolce,2_BNrInCx0DexNHXaCJzNA,4.5,135,3,Omaha,NE,68164,American (New)
+Boiler Room,6aBLmr3XaHte4yxGEK239w,4.0,250,3,Omaha,NE,68102,American (New)
+Spencer's for Steaks & Chops,R1Nmdyj4BHBDv4N9GzB_vQ,4.0,190,3,Omaha,NE,68102,Steakhouses
+Le Voltaire,wWcWiYwesW7KEsKycEYYRg,4.5,85,3,Omaha,NE,68154,French
+V. Mertz,alQopmLbuy4l6QV8BWGUhA,4.0,93,3,Omaha,NE,68102,American (New)
+Kith & Kin,mkW-YlJuw64RQrbqVit03Q,4.0,100,3,Omaha,NE,68132,Southern
+Brother Sebastian's Steak House & Winery,FBi4ozHpxWk355zGHjgBAA,4.0,158,3,Omaha,NE,68144,Steakhouses
+Sullivan's Steakhouse,bH-jkmhifSIsIo7dCo08Ww,3.5,185,3,Omaha,NE,68102,Steakhouses
+Kobe Steakhouse of Japan,X6MEVc4WdUkKY_gTq29O0w,4.0,97,3,Omaha,NE,68118,Steakhouses
+Johnny's Italian Steakhouse,Cu5s55b8MUE8U6wmy-UJ3w,3.5,105,3,Omaha,NE,68118,Steakhouses
+Monarch Prime & Bar,DYEMQUcZXzri4WWO4NfPTA,4.0,50,3,Omaha,NE,68106,Steakhouses
+The Flatiron Cafe,Lj4xJI39W5jLh20NhT-y4w,4.0,47,3,Omaha,NE,68102,American (New)
+Omaha Prime,pupFTBt5Dqr_leLBGtZ1qQ,3.5,100,3,Omaha,NE,68102,Steakhouses
+The Driftwood Inn,tDd5iXred_6QI3aLBDYO_w,4.0,8,3,Blair,NE,68008,Steakhouses
+Tavern 180,WmsASJI09u3Y8jknbeSZ3A,3.5,51,3,Omaha,NE,68118,Seafood
+Jack Binion's Steak House,PZEb1AvE0VsvNYYugxpW1g,4.0,38,3,Council Bluffs,IA,51501,Steakhouses
+J's on Jackson,JRRkjf8ulSM34sHQQhxIvQ,2.5,126,3,Omaha,NE,68102,Steakhouses
+Alotta Brownies Bakery,rPiq1HyNsOPH_bzTUqNtHw,4.0,9,3,Fremont,NE,68025,Bakeries
+Steak & Grapes,a4qnKwOdNL6s6hTgWCodCA,3.5,42,3,Omaha,NE,68130,"Beer, Wine & Spirits"
+360 Steakhouse,OUsWEu6vYSzJ6JKLtZmTqQ,3.5,47,3,Council Bluffs,IA,51501,Steakhouses
+RIVA Steak & Seafood,jI1-P6Be-iS_x4emf80Pbw,3.0,13,3,Council Bluffs,IA,51501,American (New)
+Omaha Press Club,4A9KW3fkCMNAdna6OiZQZw,3.5,6,3,Omaha,NE,68102,Venues & Event Spaces
+Starbucks,x20LztbiGbYanQOcMArGjQ,4.5,3,3,Council Bluffs,IA,51501,Coffee & Tea
+Starbucks,QWsWHsYx1_jqjLZ5hvTKmw,3.0,2,3,Omaha,NE,68137,Coffee & Tea
+Mahogany Prime Steakhouse,oosHP5KEFk-3ySnhiXABgw,4.5,168,4,Omaha,NE,68154,Steakhouses
+801 Chophouse at the Paxton,K61IcSFXZWmDme3vgMZsCg,4.0,283,4,Omaha,NE,68102,Steakhouses
+Fleming's Prime Steakhouse & Wine Bar,9lar65wVSvvjt0PMZI87Hw,4.0,116,4,Omaha,NE,68114,Wine Bars
+Embassy Suites Hotel Omaha,bRG8UUjXS7xaD3zQaXxPEg,3.0,73,4,Omaha,NE,68102,Hotels
+El Rinconcito,a2vW4kdK8-sHtNhkYSzJLw,3.0,13,4,Omaha,NE,68107,Salvadoran
+Arby's,k2I1x0ClBwReUWrOO7j27A,2.0,4,4,Missouri Valley,IA,51555,Sandwiches
+McDonald's,Y3TF15Rc1D7u4_1Cik2ojw,2.0,5,4,Council Bluffs,IA,51501,Fast Food
+Last Second Saloon,kBL9QfEGqu-z_qICgoHpIg,4.0,1,4,North Bend,NE,68649,Sports Bars
+Cheri O's Coffee House & Ice Cream Parlour,WLkRIZuqsrxrBvfdWnpfSw,4.0,20,1,Ashland,NE,68003,Coffee & Tea
+Don's Bar,py71U-wu-6PwGDnA596F-g,4.0,4,1,Memphis,NE,68042,Bars
+Dos De Oros,ZMK7VDa_w-Wygb2wTtSVHg,4.5,33,1,Omaha,NE,68117,Food Stands
+KC's Eastside Saloon,723I1JCm0zP1u1hZI9uAug,4.5,3,1,Ashland,NE,68003,Lounges
+BW's Pub & Grill,o8O2LK1OvoXvO3P7hUHKMg,2.5,6,1,Ashland,NE,68003,Barbeque
+The Tastee Trailer,zhlqrjPan1NtabGAIiBItw,5.0,3,1,Lincoln,NE,68508,Food Trucks
+Dos de Oros,Hj0HDyWgaNqbi7FBMI8r8w,5.0,1,1,Bellevue,NE,68005,Food Trucks
+Over Easy,H5K9MdMeueakS2DGlRlz4A,4.0,249,2,Omaha,NE,68135,American (New)
+Ling's Asian Cuisine,Ic13IPwLRwCdfZKdIvP3qg,4.5,89,2,Omaha,NE,68136,Vietnamese
+Blatt Beer & Table,b9JUEfZX4FDT2spgSwndHA,4.0,156,2,Omaha,NE,68130,American (Traditional)
+Baby Blue Sushi Sake Grill - Shops of Legacy,Yhep3irMklXND6J9W1B0Iw,4.0,177,2,Omaha,NE,68130,Sushi Bars
+Dante,RL_q_ky4s2iyGp8QYxAnPQ,4.0,177,2,Omaha,NE,68130,Italian
+Honest Abe's Burgers and Freedom,4FsHqroT5hLmHUOXCkRwYA,4.5,333,2,Lincoln,NE,68505,Burgers
+The Beanery,DJu9IGAsWAk3vwVWvF4-dw,4.5,24,2,Gretna,NE,68028,Coffee & Tea
+Oscar's Pizza & Sports Grille,4PqYEgMgT3Ai3_1fyfTYww,4.0,186,2,Omaha,NE,68130,Pizza
+Firebirds Wood Fired Grill,rk2KkExQSK8V0nBc3gD6Rg,4.0,199,2,Omaha,NE,68118,Steakhouses
+Piezon's Pizzeria,Fi1aY_fxqr9F4o_hCHidaw,4.5,98,2,Omaha,NE,68130,Pizza
+Railcar Modern American Kitchen,7CWQlnzHrbrW2YYagG50ZQ,4.0,348,2,Omaha,NE,68154,American (New)
+El Vallarta,eWARzW6gtMnf7kFITaL9KA,4.0,35,2,Gretna,NE,68028,Mexican
+Thai Kitchen,N_FhZ9rW8LaZGxyZo5c2HQ,4.0,85,2,Omaha,NE,68130,Thai
+Sushi Japan,yzH7tpR2YaB3HSQCxEJf7g,4.0,122,2,Omaha,NE,68144,Japanese
+Twisted Cork Bistro,ErMbXNAH3v_M0lltn7EieQ,4.0,242,2,Omaha,NE,68114,American (New)
+Pitch,KjIaGyVTEoHeS_OTnFQTFQ,3.5,203,2,Omaha,NE,68118,American (New)
+Pan Asian Terrace,viAWl78HsFFeYsNLiZNoGA,4.5,79,2,Omaha,NE,68130,Pan Asian
+We'll Smoke U BBQ,qvP8wfhvLPxfTvqIV4YziA,3.5,53,2,Gretna,NE,68028,Barbeque
+Lazlo's Brewery and Grill,JxFWKufusUBvGRwnUOSbNw,4.0,114,2,Omaha,NE,68130,American (Traditional)
+Cilantro's Mexican Bar & Grill,LrRFlE-cDSO3Bb81hUQdpA,4.0,133,2,Omaha,NE,68137,Mexican
+Maru Sushi  Korean Grill,4SjfLfnkJdeqUCWy1zpHvA,4.0,168,2,Omaha,NE,68137,Korean
+Taste of Thailand,WRAx16DRloWZXbKdMT_aGA,4.0,96,2,Omaha,NE,68130,Thai
+Round the Bend Steakhouse & Saloon,jSZ-h6nmYSNUNoeXv_XYrw,3.5,46,2,Ashland,NE,68003,Steakhouses
+A Hill of Beans Coffee Roasters,UTs25cd-2u39sPXAxqNejA,4.5,43,2,Omaha,NE,68144,Coffee & Tea
+Shucks Pacific Fish House and Oyster Bar,qXMgwiqV7xK0F3fpLAcHmA,4.0,166,2,Omaha,NE,68144,Seafood
+First Watch,tsVGSbUYVQAlIK21oXZMtA,4.5,57,2,Omaha,NE,68130,Breakfast & Brunch
+Bailey's Breakfast & Lunch,qt17WcrrC5Mlp2rdH2XYrg,4.0,150,2,Omaha,NE,68144,Breakfast & Brunch
+LeadBelly,n8hof5pjuL2FP7aMM3OodA,4.0,343,2,Lincoln,NE,68508,American (New)
+Kona Grill,O0HL2dwV3LE1PJwRRaI5-g,3.5,213,2,Omaha,NE,68118,American (New)
+Prairie Plate Restaurant,XG5BHLh0Ghy0oiTv_SswWw,4.5,14,2,Waverly,NE,68462,American (New)
+Blue Sushi Sake Grill - Grayhawk Pointe,XiVn7rm68IFSpyPKIR3lWQ,4.0,164,2,Omaha,NE,68116,Sushi Bars
+Shucks Legacy Fish House & Oyster Bar,uIxgDmKHG_-IlvufyVQ_vA,4.0,81,2,Omaha,NE,68130,Seafood
+Lombardo's Bistro & Bar,kIPzRJ8k_-lb1PY4BdEAkg,4.5,141,2,Omaha,NE,68164,Italian
+Charred Burger + Bar,Sf9lmbJp6-V0dsHCGEzdeQ,4.0,160,2,Omaha,NE,68144,Burgers
+Buffalo Wings & Rings,GmcjKXdHnJxxPoA_MpUJjg,4.0,115,2,Omaha,NE,68137,Chicken Wings
+Ollie and Hobbes Craft Kitchen,Phhu7ltBq_ZB8AxvJtrS8A,4.0,163,2,Papillion,NE,68046,American (New)
+SPIN! Neapolitan Pizza,Fc4AgByVs2BZxFF50ETjsA,4.0,134,2,Papillion,NE,68046,Pizza
+Voodoo Taco,p3fzDRUEUGcLuVFqlL1W9w,2.5,106,2,Gretna,NE,68028,Tex-Mex
+Tired Texan BBQ,-iBRNG3BKhTgvVmZ1DcHXw,4.0,132,2,Omaha,NE,68137,Barbeque
+Texas Roadhouse,TaA69gwp7X8gHJpCIvqzog,4.0,85,2,Omaha,NE,68154,Steakhouses
+Mangia Italiana,f2t1xgVCwBKe6LwUEmfWcg,4.5,178,2,Omaha,NE,68122,Italian
+Hiro 88,2aF24D2aZUUhNS0peTDyfg,4.0,61,2,Omaha,NE,68135,Sushi Bars
+Simply Delicious Restaurant,ff_arvBSF39GlZAs79SLzw,4.5,23,2,Valley,NE,68064,American (Traditional)
+Blue Sushi Sake Grill,Nj1bcla4T_r1gTy2yKNArQ,4.0,215,2,Lincoln,NE,68508,Sushi Bars
+Thunderhead Brewing Taproom,xTnsd5t5CmxTCPidgDzAwQ,4.5,36,2,Omaha,NE,68144,Breweries
+Whisk + Measure Specialty Bakery and Coffee,IxlclkmklKcA6Tz4omHDxA,4.5,55,2,Omaha,NE,68144,Coffee & Tea
+The Jaipur,4E62x93p1MMr8VfmmVb0JQ,4.0,158,2,Omaha,NE,68144,Indian
+The Cordial Cherry,Qa5RrY5HO0mt9E0Sj84WwQ,4.5,20,2,Omaha,NE,68130,Desserts
+Wave Bistro,tUT2Wpn2HGyj4mHSWqvcYw,4.0,96,2,Omaha,NE,68116,Asian Fusion
+Phat Jacks,PtBORCE3jrA8rCbDD4QtQg,4.0,208,2,Lincoln,NE,68528,Barbeque
+Le Voltaire,wWcWiYwesW7KEsKycEYYRg,4.5,85,3,Omaha,NE,68154,French
+Dolce,2_BNrInCx0DexNHXaCJzNA,4.5,135,3,Omaha,NE,68164,American (New)
+Kobe Steakhouse of Japan,X6MEVc4WdUkKY_gTq29O0w,4.0,97,3,Omaha,NE,68118,Steakhouses
+Johnny's Italian Steakhouse,Cu5s55b8MUE8U6wmy-UJ3w,3.5,105,3,Omaha,NE,68118,Steakhouses
+Brother Sebastian's Steak House & Winery,FBi4ozHpxWk355zGHjgBAA,4.0,158,3,Omaha,NE,68144,Steakhouses
+The Other Room,hUib4rTey_txdQXTWlpa5g,4.5,49,3,Lincoln,NE,68508,Cocktail Bars
+Tavern 180,WmsASJI09u3Y8jknbeSZ3A,3.5,51,3,Omaha,NE,68118,Seafood
+DISH Restaurant,IayNZPrMHl0kOlwXRKQUcQ,4.0,90,3,Lincoln,NE,68508,American (New)
+Steak & Grapes,a4qnKwOdNL6s6hTgWCodCA,3.5,42,3,Omaha,NE,68130,"Beer, Wine & Spirits"
+Rodizio Grill,nE3vhSF-RvdDONV9Riy3Zw,3.5,117,3,Lincoln,NE,68508,Steakhouses
+JTK Cuisine & Cocktails,x4zfAwLXfcYgjR7Z2qd2rA,4.0,63,3,Lincoln,NE,68508,American (New)
+Misty's,0awv35N07qeoHuBWi_87yQ,3.0,52,3,Lincoln,NE,68507,Steakhouses
+Elegant Endings,m_uAggyo30Uk1w6K9Kw0lw,5.0,5,3,Lincoln,NE,68510,Caterers
+Tiburon Golf Club,2jbd2Np3yNoxYeAn13H3rg,4.0,2,3,Omaha,NE,68136,Sports Bars
+Starbucks,QWsWHsYx1_jqjLZ5hvTKmw,3.0,2,3,Omaha,NE,68137,Coffee & Tea
+501 Bar & Grill,xiQF96PnuiED2E6BliC-VQ,3.0,6,3,Lincoln,NE,68522,Dive Bars
+Nebraska Club,29iK7l-NKDOprCHgJt-MVg,3.0,4,3,Lincoln,NE,68508,American (New)
+Mahogany Prime Steakhouse,oosHP5KEFk-3ySnhiXABgw,4.5,168,4,Omaha,NE,68154,Steakhouses
+801 Chophouse at the Paxton,K61IcSFXZWmDme3vgMZsCg,4.0,283,4,Omaha,NE,68102,Steakhouses
+Fleming's Prime Steakhouse & Wine Bar,9lar65wVSvvjt0PMZI87Hw,4.0,116,4,Omaha,NE,68114,Wine Bars
+Black Sheep Coffee House,NBb9Bscy3pT2BgBsMDyLHg,4.5,5,4,Springfield,NE,68059,Coffee & Tea
+Embassy Suites Hotel Omaha,bRG8UUjXS7xaD3zQaXxPEg,3.0,73,4,Omaha,NE,68102,Hotels
+El Rinconcito,a2vW4kdK8-sHtNhkYSzJLw,3.0,13,4,Omaha,NE,68107,Salvadoran
+McDonald's,Y3TF15Rc1D7u4_1Cik2ojw,2.0,5,4,Council Bluffs,IA,51501,Fast Food
+Last Second Saloon,kBL9QfEGqu-z_qICgoHpIg,4.0,1,4,North Bend,NE,68649,Sports Bars
+Poppi's BBQ,n4bkyuj-3cXepe5slgTd8Q,1.0,2,4,Lincoln,NE,68512,Barbeque
+Arby's,k2I1x0ClBwReUWrOO7j27A,2.0,4,4,Missouri Valley,IA,51555,Sandwiches
+Ammo Box Café,9MxibgjK5HoN-Qz6hT6sKA,5.0,26,1,Omaha,NE,68138,Cafes
+Cheri O's Coffee House & Ice Cream Parlour,WLkRIZuqsrxrBvfdWnpfSw,4.0,20,1,Ashland,NE,68003,Coffee & Tea
+Billy's Gretna Café,_jfP6jlxviifbc7EKxIh0g,4.0,21,1,Gretna,NE,68028,Cafes
+Sweet Lime Thai Food Express,Tz5zhbsRpEMYhezPnXIYIA,3.5,16,1,Springfield,NE,68059,Thai
+Springfield Drug,9XAe43anMKAOuVszIATrKg,5.0,6,1,Springfield,NE,68059,Drugstores
+Dos De Oros,ZMK7VDa_w-Wygb2wTtSVHg,4.5,33,1,Omaha,NE,68117,Food Stands
+Mrs T's Dari Creme,HnQcEBwVz2GFXO8MHkOZlQ,3.5,7,1,Louisville,NE,68037,Ice Cream & Frozen Yogurt
+Runza,t6pfp0TQU9hWjLOSFsxAfQ,3.5,8,1,Gretna,NE,68028,Fast Food
+Scooter's Coffee,IfPYh4Uz2ZZ6uXDLH4I_hg,3.5,4,1,Gretna,NE,68028,Coffee & Tea
+KC's Eastside Saloon,723I1JCm0zP1u1hZI9uAug,4.5,3,1,Ashland,NE,68003,Lounges
+Gambino's Pizza,YBUPmJZOJEXk-eig0Rj71Q,2.0,13,1,Louisville,NE,68037,Pizza
+Scooter's Coffee Drive-Thru,_MdlwtqjVgX6ShiUaPs7pw,3.5,8,1,Gretna,NE,68028,Coffee & Tea
+Jimmy John's,D074859GXoy67HgWXydkHg,4.0,6,1,Gretna,NE,68028,Sandwiches
+Spikers Sports & Spirits,nru7ocpfkxXxpJEDRU-GgQ,3.5,6,1,Gretna,NE,68028,Sports Bars
+Don's Bar,py71U-wu-6PwGDnA596F-g,4.0,4,1,Memphis,NE,68042,Bars
+Buddha Belly,7APPloErkWbqBy-SDyBL3g,3.0,9,1,Gretna,NE,68028,Chinese
+McDonald's,3iSIjdszRvwt9Vu8r6-vng,1.5,11,1,Gretna,NE,68028,Burgers
+"Uncle Earnie's Beer, Bait & BBQ",joAadl1xh2qXTvSDmsJrbw,5.0,1,1,Cedar Creek,NE,68016,Barbeque
+BW's Pub & Grill,o8O2LK1OvoXvO3P7hUHKMg,2.5,6,1,Ashland,NE,68003,Barbeque
+Pizza Hut,gQz34wBkaUmSO8_ndbnUKw,3.0,8,1,Papillion,NE,68046,Pizza
+Get-A-Way Bar & Grill,_DMd5Fnpe8Co0-u4a3WIcw,4.0,2,1,Manley,NE,68403,Bars
+Sonic Drive-In,HFYCYPT0ZsYK4dmc-Jn7NA,1.5,11,1,Gretna,NE,68028,Fast Food
+Subway,g3LNPbYJ8aQldraCUbYxfQ,2.5,3,1,Gretna,NE,68028,Sandwiches
+Gretna BP,tjJ2KlWrNmivgRgU95KVLg,3.5,2,1,Gretna,NE,68028,Pizza
+Arby's,J0yU5e0cOgryVQTvr7rceg,1.5,4,1,Gretna,NE,68028,Fast Food
+Taco John's,KMyVoK4d4-rN0MPAWddodw,1.5,4,1,Gretna,NE,68028,Mexican
+Sahara food truck,U0sFfgxhatNKDX-F5xFQ3A,5.0,2,1,Omaha,NE,68131,Mediterranean
+Subway,D1DsXYOkWsyzMcZhrwPu9g,1.5,2,1,Gretna,NE,68028,Sandwiches
+The Tastee Trailer,zhlqrjPan1NtabGAIiBItw,5.0,3,1,Lincoln,NE,68508,Food Trucks
+Dos de Oros,Hj0HDyWgaNqbi7FBMI8r8w,5.0,1,1,Bellevue,NE,68005,Food Trucks
+Round the Bend Steakhouse & Saloon,jSZ-h6nmYSNUNoeXv_XYrw,3.5,46,2,Ashland,NE,68003,Steakhouses
+The Beanery,DJu9IGAsWAk3vwVWvF4-dw,4.5,24,2,Gretna,NE,68028,Coffee & Tea
+El Vallarta,eWARzW6gtMnf7kFITaL9KA,4.0,35,2,Gretna,NE,68028,Mexican
+Voodoo Taco,p3fzDRUEUGcLuVFqlL1W9w,2.5,106,2,Gretna,NE,68028,Tex-Mex
+We'll Smoke U BBQ,qvP8wfhvLPxfTvqIV4YziA,3.5,53,2,Gretna,NE,68028,Barbeque
+Wicked Hen Farmhouse,UiFCTOGqeHBQzlRpuJ8Gng,4.5,16,2,Springfield,NE,68059,Cafes
+Heron Bay,r8ZuuQivqY4WykeSCIqFLg,3.5,20,2,Springfield,NE,68059,American (New)
+"Local Beer, Patio and Kitchen - Gretna",wMP4FIdhs6nCElUTJ1QBig,2.5,58,2,Gretna,NE,68028,American (New)
+Denny's,WvNR4VACOG5kSvbJuo13rw,3.0,18,2,Gretna,NE,68028,American (Traditional)
+Angus Burgers and Shakes,UheMcNBEIgg6KOYKo2okdQ,3.5,32,2,Omaha,NE,68136,Burgers
+Pieocracy Pizza,7BJGGjyzI_FUQkd531lxWQ,2.0,46,2,Gretna,NE,68028,Pizza
+El Bees,zt2j3lgdsQDqxriWGCB4SA,2.5,59,2,Omaha,NE,68138,Tex-Mex
+Godfather's Pizza,289DDG1I5HDPcpbBoLHmyQ,5.0,4,2,Gretna,NE,68028,Pizza
+Langdon's Bar & Grill,tYj0NYIYEzaDLTC8hKiyKA,3.5,14,2,Gretna,NE,68028,Bars
+Breadeaux Pizza,Ad_tqIf2_dv_u6buAtQ5fw,3.5,5,2,Ashland,NE,68003,Pizza
+Peter Kiewit Lodge & Restaurant,d8qde3TcWYgI-cZlDaAmSA,2.0,6,2,Ashland,NE,68003,American (New)
+Trojan Tavern,FFcKR4E1A_hKh7pLfvOSSA,4.0,5,2,Springfield,NE,68059,Bars
+Waterfall Lounge,7AKzbZf_hGNfwvZe3tuEZQ,3.0,18,2,Omaha,NE,68136,Lounges
+Lighthouse Bar & Grill,GpRkCilKI-WLN3XqgyiF-A,2.5,26,2,Omaha,NE,68136,Sports Bars
+Phoenix Food & Spirits,rykElw2mDPZ84HMYRbbIwQ,3.5,6,2,Omaha,NE,68138,Sports Bars
+Pizza Hut,9W0YE9m78Z12J2oGomXmFw,2.0,9,2,Gretna,NE,68028,Pizza
+Casey's General Store,kbuFE2AxPfgTESovHpRpzQ,2.0,1,2,Ashland,NE,68003,Pizza
+The Drover,H_m48-oFNpTIvi1zhYGPNQ,4.0,590,3,Omaha,NE,68124,Steakhouses
+The Grey Plume,uaUEOnVDjpeorYFvo54DEQ,4.5,267,3,Omaha,NE,68131,American (New)
+Au Courant,X63aSFPk9MDpOaCCp0c6dA,4.5,135,3,Omaha,NE,68104,Modern European
+Dolce,2_BNrInCx0DexNHXaCJzNA,4.5,135,3,Omaha,NE,68164,American (New)
+Le Voltaire,wWcWiYwesW7KEsKycEYYRg,4.5,85,3,Omaha,NE,68154,French
+Boiler Room,6aBLmr3XaHte4yxGEK239w,4.0,250,3,Omaha,NE,68102,American (New)
+Brother Sebastian's Steak House & Winery,FBi4ozHpxWk355zGHjgBAA,4.0,158,3,Omaha,NE,68144,Steakhouses
+Kobe Steakhouse of Japan,X6MEVc4WdUkKY_gTq29O0w,4.0,97,3,Omaha,NE,68118,Steakhouses
+Johnny's Italian Steakhouse,Cu5s55b8MUE8U6wmy-UJ3w,3.5,105,3,Omaha,NE,68118,Steakhouses
+Spencer's for Steaks & Chops,R1Nmdyj4BHBDv4N9GzB_vQ,4.0,190,3,Omaha,NE,68102,Steakhouses
+V. Mertz,alQopmLbuy4l6QV8BWGUhA,4.0,93,3,Omaha,NE,68102,American (New)
+Kith & Kin,mkW-YlJuw64RQrbqVit03Q,4.0,100,3,Omaha,NE,68132,Southern
+Sullivan's Steakhouse,bH-jkmhifSIsIo7dCo08Ww,3.5,185,3,Omaha,NE,68102,Steakhouses
+Tavern 180,WmsASJI09u3Y8jknbeSZ3A,3.5,51,3,Omaha,NE,68118,Seafood
+The Other Room,hUib4rTey_txdQXTWlpa5g,4.5,49,3,Lincoln,NE,68508,Cocktail Bars
+Monarch Prime & Bar,DYEMQUcZXzri4WWO4NfPTA,4.0,50,3,Omaha,NE,68106,Steakhouses
+The Flatiron Cafe,Lj4xJI39W5jLh20NhT-y4w,4.0,47,3,Omaha,NE,68102,American (New)
+DISH Restaurant,IayNZPrMHl0kOlwXRKQUcQ,4.0,90,3,Lincoln,NE,68508,American (New)
+Steak & Grapes,a4qnKwOdNL6s6hTgWCodCA,3.5,42,3,Omaha,NE,68130,"Beer, Wine & Spirits"
+Omaha Prime,pupFTBt5Dqr_leLBGtZ1qQ,3.5,100,3,Omaha,NE,68102,Steakhouses
+Rodizio Grill,nE3vhSF-RvdDONV9Riy3Zw,3.5,117,3,Lincoln,NE,68508,Steakhouses
+JTK Cuisine & Cocktails,x4zfAwLXfcYgjR7Z2qd2rA,4.0,63,3,Lincoln,NE,68508,American (New)
+Jack Binion's Steak House,PZEb1AvE0VsvNYYugxpW1g,4.0,38,3,Council Bluffs,IA,51501,Steakhouses
+Misty's,0awv35N07qeoHuBWi_87yQ,3.0,52,3,Lincoln,NE,68507,Steakhouses
+J's on Jackson,JRRkjf8ulSM34sHQQhxIvQ,2.5,126,3,Omaha,NE,68102,Steakhouses
+360 Steakhouse,OUsWEu6vYSzJ6JKLtZmTqQ,3.5,47,3,Council Bluffs,IA,51501,Steakhouses
+Nothing Bundt Cakes,ugmjvVdGLUJy8rrHZVl7QA,4.0,15,3,Lincoln,NE,68506,Desserts
+Elegant Endings,m_uAggyo30Uk1w6K9Kw0lw,5.0,5,3,Lincoln,NE,68510,Caterers
+Tiburon Golf Club,2jbd2Np3yNoxYeAn13H3rg,4.0,2,3,Omaha,NE,68136,Sports Bars
+RIVA Steak & Seafood,jI1-P6Be-iS_x4emf80Pbw,3.0,13,3,Council Bluffs,IA,51501,American (New)
+Cupcakes & More,tooeUKcfEeu62NotnjjchA,3.5,10,3,Lincoln,NE,68516,Bakeries
+Omaha Press Club,4A9KW3fkCMNAdna6OiZQZw,3.5,6,3,Omaha,NE,68102,Venues & Event Spaces
+Alotta Brownies Bakery,rPiq1HyNsOPH_bzTUqNtHw,4.0,9,3,Fremont,NE,68025,Bakeries
+Starbucks,QWsWHsYx1_jqjLZ5hvTKmw,3.0,2,3,Omaha,NE,68137,Coffee & Tea
+Starbucks,x20LztbiGbYanQOcMArGjQ,4.5,3,3,Council Bluffs,IA,51501,Coffee & Tea
+Dunkin Donuts,iNRtRa3FRSDNm0L0hMXauw,2.5,9,3,Lincoln,NE,68526,Donuts
+501 Bar & Grill,xiQF96PnuiED2E6BliC-VQ,3.0,6,3,Lincoln,NE,68522,Dive Bars
+The Driftwood Inn,tDd5iXred_6QI3aLBDYO_w,4.0,8,3,Blair,NE,68008,Steakhouses
+Nebraska Club,29iK7l-NKDOprCHgJt-MVg,3.0,4,3,Lincoln,NE,68508,American (New)
+Valentino's,PU0lCVlknBxx31elnn8Z7Q,2.5,3,3,Lincoln,NE,68516,Pizza
+Smitty's Lounge,bEzIJpHivwbjQlhOs3cB2Q,2.0,1,3,Tabor,IA,51653,Bars
+Mahogany Prime Steakhouse,oosHP5KEFk-3ySnhiXABgw,4.5,168,4,Omaha,NE,68154,Steakhouses
+801 Chophouse at the Paxton,K61IcSFXZWmDme3vgMZsCg,4.0,283,4,Omaha,NE,68102,Steakhouses
+Fleming's Prime Steakhouse & Wine Bar,9lar65wVSvvjt0PMZI87Hw,4.0,116,4,Omaha,NE,68114,Wine Bars
+Black Sheep Coffee House,NBb9Bscy3pT2BgBsMDyLHg,4.5,5,4,Springfield,NE,68059,Coffee & Tea
+Embassy Suites Hotel Omaha,bRG8UUjXS7xaD3zQaXxPEg,3.0,73,4,Omaha,NE,68102,Hotels
+El Rinconcito,a2vW4kdK8-sHtNhkYSzJLw,3.0,13,4,Omaha,NE,68107,Salvadoran
+McDonald's,Y3TF15Rc1D7u4_1Cik2ojw,2.0,5,4,Council Bluffs,IA,51501,Fast Food
+Arby's,k2I1x0ClBwReUWrOO7j27A,2.0,4,4,Missouri Valley,IA,51555,Sandwiches
+Poppi's BBQ,n4bkyuj-3cXepe5slgTd8Q,1.0,2,4,Lincoln,NE,68512,Barbeque
+Last Second Saloon,kBL9QfEGqu-z_qICgoHpIg,4.0,1,4,North Bend,NE,68649,Sports Bars
+The Warehouse,j2qqv5EL9ftzLMZzUM79lA,3.5,27,1,Omaha,NE,68007,American (Traditional)
+Dos De Oros,ZMK7VDa_w-Wygb2wTtSVHg,4.5,33,1,Omaha,NE,68117,Food Stands
+Nate's Stumble Inn Bar & Grill,Li2mLTTtnEOZZEB4uXeJZw,3.5,15,1,Bennington,NE,68007,Bars
+Runza,jEtJfgSklISpAE5fbqxjTg,4.0,5,1,Bennington,NE,68007,Burgers
+Godfather's Pizza,JX1gMeBD82k25LVPwAMj4Q,2.5,3,1,Bennington,NE,68007,Pizza
+Sahara food truck,U0sFfgxhatNKDX-F5xFQ3A,5.0,2,1,Omaha,NE,68131,Mediterranean
+Dos de Oros,Hj0HDyWgaNqbi7FBMI8r8w,5.0,1,1,Bellevue,NE,68005,Food Trucks
+The Tastee Trailer,zhlqrjPan1NtabGAIiBItw,5.0,3,1,Lincoln,NE,68508,Food Trucks
+Mangia Italiana,f2t1xgVCwBKe6LwUEmfWcg,4.5,178,2,Omaha,NE,68122,Italian
+Railcar Modern American Kitchen,7CWQlnzHrbrW2YYagG50ZQ,4.0,348,2,Omaha,NE,68154,American (New)
+Lombardo's Bistro & Bar,kIPzRJ8k_-lb1PY4BdEAkg,4.5,141,2,Omaha,NE,68164,Italian
+Pitch Coal-fire Pizzeria,JYlfyMoypBWLzND1jx9BGg,4.0,460,2,Omaha,NE,68132,Pizza
+Twisted Cork Bistro,ErMbXNAH3v_M0lltn7EieQ,4.0,242,2,Omaha,NE,68114,American (New)
+Blue Sushi Sake Grill - Grayhawk Pointe,XiVn7rm68IFSpyPKIR3lWQ,4.0,164,2,Omaha,NE,68116,Sushi Bars
+Benson Brewery,1GcILsSMaph24VpIypdIOg,4.0,255,2,Omaha,NE,68104,Gastropubs
+Firebirds Wood Fired Grill,rk2KkExQSK8V0nBc3gD6Rg,4.0,199,2,Omaha,NE,68118,Steakhouses
+Wave Bistro,tUT2Wpn2HGyj4mHSWqvcYw,4.0,96,2,Omaha,NE,68116,Asian Fusion
+Krug Park,GD6m5dlHfUREBSe2jBXLpg,4.5,116,2,Omaha,NE,68104,Pubs
+Pizzeria Davlo,Tb7YZZbhKqe9FwLHNhhVlw,4.0,113,2,Omaha,NE,68164,Pizza
+Avoli Osteria,U-lPn_Jjxj5jwwU7cE1UhQ,4.0,190,2,Omaha,NE,68132,Italian
+Shucks Pacific Fish House and Oyster Bar,qXMgwiqV7xK0F3fpLAcHmA,4.0,166,2,Omaha,NE,68144,Seafood
+Bailey's Breakfast & Lunch,qt17WcrrC5Mlp2rdH2XYrg,4.0,150,2,Omaha,NE,68144,Breakfast & Brunch
+Hiro 88,b4OXFJxB07oHLujk_crfiQ,3.5,157,2,Omaha,NE,68164,Japanese
+Yoshitomo,ijvztKL0Atdwl6U_EQx0wQ,4.5,78,2,Omaha,NE,68104,Japanese
+Rivera's,PMRca2iUxz23tGaN6z76TQ,4.0,195,2,Omaha,NE,68164,Mexican
+Jams,iLvnhZw7-7iIsi-e22w8DQ,4.0,201,2,Omaha,NE,68114,Bars
+Pitch,KjIaGyVTEoHeS_OTnFQTFQ,3.5,203,2,Omaha,NE,68118,American (New)
+Pan Asian Terrace,viAWl78HsFFeYsNLiZNoGA,4.5,79,2,Omaha,NE,68130,Pan Asian
+Charred Burger + Bar,Sf9lmbJp6-V0dsHCGEzdeQ,4.0,160,2,Omaha,NE,68144,Burgers
+Bonefish Grill,WT5qLtF6IhZEgep8AYHR7Q,4.0,154,2,Omaha,NE,68114,Seafood
+Taxi's Grille & Bar,rSlx-YG8HuGftf6Ntrio1w,4.0,87,2,Omaha,NE,68154,Bars
+Jim & Jennie's Greek Village,AP0zxnADBJ6f_j-1ue0Y7A,4.5,77,2,Omaha,NE,68134,Greek
+Kona Grill,O0HL2dwV3LE1PJwRRaI5-g,3.5,213,2,Omaha,NE,68118,American (New)
+Beercade,NQty5UIVIOg_isvMGm3mGw,4.0,99,2,Omaha,NE,68104,Bars
+Charleston's,Fuqzwe0dbdHuIbCB3YXEaw,4.0,138,2,Omaha,NE,68154,Steakhouses
+Golden Palace,p_LIAcTBd8GPl3wuibbpQA,4.0,76,2,Omaha,NE,68164,Chinese
+Texas Roadhouse,TaA69gwp7X8gHJpCIvqzog,4.0,85,2,Omaha,NE,68154,Steakhouses
+Blue & Fly Asian Kitchen,ZNMo6NFH_li9aM9f1ZAl2Q,4.0,114,2,Omaha,NE,68114,Chinese
+Fusion Taste,dgjRVSnz-x5GeBd_7xWlGw,4.0,60,2,Omaha,NE,68116,Vietnamese
+First Watch,ux4cxbk520T-0DDiD3i3oA,4.0,184,2,Omaha,NE,68106,Cafes
+Ika Ramen and Izakaya,VMFLM5mNTO5I3tD7LB8C7w,3.5,194,2,Omaha,NE,68104,Ramen
+Fox Hollow Coffee,20cSpk2iIYak-SWMNNJnpw,4.5,56,2,Omaha,NE,68154,Coffee & Tea
+Cunningham's Pub and Grill,FwvRXzkX_2Sai4Xs7NDheA,4.0,94,2,Omaha,NE,68154,American (New)
+Mantra Bar & Grille,of6tCPdwX5xnoXhiHy43tA,4.0,113,2,Omaha,NE,68104,Sports Bars
+Sakura Bana,NcRDiRnFaSYgVb9qXVSg7w,4.0,123,2,Omaha,NE,68114,Japanese
+Le Petit Paris - French Bakery,a7l3qFAOVIPVN2JaeJG4Yg,4.5,38,2,Omaha,NE,68154,Bakeries
+Swartz's Delicatessen & Bagels,4THBKSwHCDVBMvowM5HbRQ,4.0,147,2,Omaha,NE,68114,Sandwiches
+Nothing Bundt Cakes,L--WNV38Bhiz077jqO9XLg,4.5,42,2,Omaha,NE,68114,Desserts
+J Coco,zvHVIrhtdnaYcIhPXuAr5Q,4.0,160,2,Omaha,NE,68106,American (New)
+Greenbelly,5wpr7UDTqTZlgl9M4DrnfA,4.0,125,2,Omaha,NE,68154,American (New)
+Flagship Commons,Noq1vY6v0XWQDWXMK9ipQg,3.5,165,2,Omaha,NE,68114,Food Court
+Safari Cigars and Lounge,leV1ahj_52HtYwY7VBh3-A,4.5,23,2,Omaha,NE,68164,Tobacco Shops
+Biaggi's Ristorante Italiano,1BSradrjnD1eoebblO6fKQ,3.5,102,2,Omaha,NE,68154,Italian
+Caribbean Delight,Hd2Xr8P7AfxnOQtCfRP2Dw,4.5,56,2,Omaha,NE,68134,Caribbean
+Timber Wood Fire Bistro,BSiHfhR-gzWSWnz3Fvkzfg,3.5,149,2,Omaha,NE,68114,Pizza
+Growler USA - Omaha,DREdiopEGztRpyLQHx1RKw,3.5,80,2,Omaha,NE,68116,Pubs
+Acadian Grille Scratch Kitchen,rKd_24k2WevELAR6yoExew,4.5,34,2,Omaha,NE,68154,Cajun/Creole
+Brazen Head Irish Pub,mL4PgG1kdyfaXER1gQ-NNQ,4.0,102,2,Omaha,NE,68114,Pubs
+Dolce,2_BNrInCx0DexNHXaCJzNA,4.5,135,3,Omaha,NE,68164,American (New)
+Au Courant,X63aSFPk9MDpOaCCp0c6dA,4.5,135,3,Omaha,NE,68104,Modern European
+Le Voltaire,wWcWiYwesW7KEsKycEYYRg,4.5,85,3,Omaha,NE,68154,French
+Kobe Steakhouse of Japan,X6MEVc4WdUkKY_gTq29O0w,4.0,97,3,Omaha,NE,68118,Steakhouses
+Brother Sebastian's Steak House & Winery,FBi4ozHpxWk355zGHjgBAA,4.0,158,3,Omaha,NE,68144,Steakhouses
+Johnny's Italian Steakhouse,Cu5s55b8MUE8U6wmy-UJ3w,3.5,105,3,Omaha,NE,68118,Steakhouses
+Kith & Kin,mkW-YlJuw64RQrbqVit03Q,4.0,100,3,Omaha,NE,68132,Southern
+Tavern 180,WmsASJI09u3Y8jknbeSZ3A,3.5,51,3,Omaha,NE,68118,Seafood
+Mahogany Prime Steakhouse,oosHP5KEFk-3ySnhiXABgw,4.5,168,4,Omaha,NE,68154,Steakhouses
+801 Chophouse at the Paxton,K61IcSFXZWmDme3vgMZsCg,4.0,283,4,Omaha,NE,68102,Steakhouses
+Fleming's Prime Steakhouse & Wine Bar,9lar65wVSvvjt0PMZI87Hw,4.0,116,4,Omaha,NE,68114,Wine Bars
+Embassy Suites Hotel Omaha,bRG8UUjXS7xaD3zQaXxPEg,3.0,73,4,Omaha,NE,68102,Hotels
+El Rinconcito,a2vW4kdK8-sHtNhkYSzJLw,3.0,13,4,Omaha,NE,68107,Salvadoran
+Black Sheep Coffee House,NBb9Bscy3pT2BgBsMDyLHg,4.5,5,4,Springfield,NE,68059,Coffee & Tea
+McDonald's,Y3TF15Rc1D7u4_1Cik2ojw,2.0,5,4,Council Bluffs,IA,51501,Fast Food
+Arby's,k2I1x0ClBwReUWrOO7j27A,2.0,4,4,Missouri Valley,IA,51555,Sandwiches
+Last Second Saloon,kBL9QfEGqu-z_qICgoHpIg,4.0,1,4,North Bend,NE,68649,Sports Bars
+Zipp's Pizzaria,rNgn7OzzgHGWtZroKfWYpA,4.5,26,1,Adair,IA,50002,Pizza
+Chuckwagon Restaurant,tda4Bv9zM9Ao_FXSl_b59Q,4.0,39,1,Adair,IA,50002,American (Traditional)
+The Weather Vane Cafe,Fd6DPfUbLUCJZwbtOm9n_Q,4.0,14,1,Anita,IA,50020,Diners
+Menlo Cafe,4KyI4r4tKpjEnGzAnJ3UJw,4.5,9,1,Menlo,IA,50164,American (Traditional)
+Subway,jkVKr5F-srVcWOnZwCo2fQ,2.5,3,1,Adair,IA,50002,Sandwiches
+Darrel's Place,GO4vzt6UgfeixGCKX8ih7g,4.0,14,1,Hamlin,IA,50117,Bars
+Mel's Diner,REbelSx0d1VgPv25CnKmRg,4.5,5,1,Brayton,IA,50042,Diners
+PJ's Drive In,2F6ZyI5Ky-gKdv6OksM4rg,4.0,15,1,Panora,IA,50216,Burgers
+Sweet Joy Shoppe,1YOlhJBZyVwEDjpr6T2BNw,4.5,8,1,Atlantic,IA,50022,Desserts
+China Hut,hclYGoXRQuDietsVMhamkg,4.5,8,1,Atlantic,IA,50022,Chinese
+Rancho Grande,mGZGds8PuPdpUtZNBQfeJw,4.0,13,1,Atlantic,IA,50022,Mexican
+The Corner,CDgVtcz3Ltu9ILdFqQNAGg,4.5,4,1,Greenfield,IA,50849,Coffee & Tea
+Los Altos Mexican Restaurant,905a-55SdilbEqIffnCKsA,4.5,3,1,Greenfield,IA,50849,Mexican
+West Side Diner,kWQ7BgJLNKlCYQDDfC0Zcw,4.0,10,1,Atlantic,IA,50022,Diners
+Crafty's Coffee & Gifts,dLPjk638AyXYvW09lav_2Q,5.0,2,1,Panora,IA,50216,Coffee & Tea
+Subway,MVvuJ4JrxcraH8vRH2EB1g,4.0,3,1,Stuart,IA,50250,Fast Food
+Adobe Mexican Restaurant,EnY5I6qJwyBE8BeWjryCKg,3.5,5,1,Audubon,IA,50025,Mexican
+McDonald's,_WVZfycc586EezmfkVVGAA,1.5,22,1,Stuart,IA,50250,Burgers
+The Alley,7ZWt5WRMR4ffcWQwYJLmvQ,3.0,5,1,Atlantic,IA,50022,American (Traditional)
+Tiger Drive-In,9IMKOGoBOAP67nndDmbTGw,4.0,2,1,Greenfield,IA,50849,American (Traditional)
+Burger King,3SC5wv35kihiB2oG75k44A,1.5,16,1,Stuart,IA,50250,Burgers
+Subway,4vEJlU_-8eaehHMYoMpfCw,3.5,4,1,Atlantic,IA,50022,Fast Food
+44 Drive Inn,cJDo08hcbx0bVxBYEXVTfw,5.0,1,1,Panora,IA,50216,Ice Cream & Frozen Yogurt
+Taco Bell,BSWMsc1jV-owmpLqy7UlSg,3.0,2,1,Atlantic,IA,50022,Fast Food
+Family Table of Atlantic,0ouM6aU7IxszMK8ahJTpNg,2.0,4,1,Atlantic,IA,50022,American (Traditional)
+Thirsty Mermaids Brew Cafe,EzT_ecLd3UcBu030V5rKZA,5.0,1,1,Elk Horn,IA,51531,Pizza
+KFC,VGQI76d0OvdU7crXOXMDkA,1.0,3,1,Atlantic,IA,50022,Fast Food
+Los Altos,kwU0JXuvCzrUuOVvK2adFg,4.5,35,2,Stuart,IA,50250,Mexican
+Redwood Steak House,pN2LI9x5aTsEu_vaV6Dydw,3.0,14,2,Anita,IA,50020,Nightlife
+Billy Vee's,LnA_C35kEtXy7Ya6Fh03Tw,4.5,22,2,West Des Moines,IA,50265,Italian
+The Flour Mill,6fuKiLWgBdnR7tKjsS6WXg,5.0,22,2,Elk Horn,IA,51531,Pizza
+Sf Martin House,yhz_CUlc-U-r1DFmSiSOEw,5.0,8,2,Atlantic,IA,50022,Hotels
+Owls Nest,cJUnmor5BIuAE0x9yKWXGQ,4.0,11,2,Panora,IA,50216,American (Traditional)
+Country Kitchen,b2lz09tOI_BWupSa_G5oAg,2.5,23,2,Stuart,IA,50250,American (New)
+Stuart Bowl & Lounge,3yF0VU9Q6wSc06vJ3enThA,4.5,3,2,Stuart,IA,50250,Bowling
+Pines,CLrIwwURNTDQDfZG4GrYtQ,4.5,4,2,Atlantic,IA,50022,Restaurants
+Ruby's Pub,N9AQK4R8p65ZDyf00GK0HQ,3.5,6,2,Stuart,IA,50250,Pubs
+Danish Inn,ZGO8fbxS6Pzi9ej-3qk-aA,4.0,5,2,Elk Horn,IA,51531,Desserts
+Oinkers Lounge and Grill,-k-5OYbInXI1O9boCPRrXA,4.5,3,2,Atlantic,IA,50022,Steakhouses
+Wiota Steak House & Lounge,JFAyKsAl_mIt6yVhgRjFFQ,3.5,3,2,Wiota,IA,50274,Restaurants
+Weitzels,zpRuN3Ba7pg8Xjxv94jUgg,2.5,11,2,Atlantic,IA,50022,American (New)
+Coffee 7,hYM3y_IjjImVy60JanedAw,4.5,2,2,Atlantic,IA,50022,Donuts
+Pizza Hut,0IbiFEW6mXKjtrpWiwxyzA,2.0,3,2,Atlantic,IA,50022,Pizza
+Rube's Steakhouse & Lounge,khUhkSXRF0b4jjaZR5IlAA,4.0,44,3,Waukee,IA,50263,Steakhouses
+The Port,lyL9WVFeJ-yXfbmRDcw3Iw,3.0,11,3,Panora,IA,50216,American (Traditional)
+The Redwood Steakhouse,cP8H2B7Hxhm5hr3oj4mx1w,3.0,2,3,Anita,IA,50020,Nightlife
+Miss NiNi's Desserterie,ySY3boXIhF1YDvdRukWBjg,4.0,13,3,West Des Moines,IA,50266,Desserts
+Casa De Oro,AqUY9JskcAFkFdr4JNy9Vw,4.0,18,3,Red Oak,IA,51566,Mexican
+Pizza Hut,lYR2MnWqw-yJaSf9V0h6pg,1.0,1,3,Perry,IA,50220,Pizza
+Roberts Bakery Treats & Treasures,NEcxabSDU6PlpmP2FID8rQ,4.5,6,4,Walnut,IA,51577,Antiques
+The Sports Page,TBWLRG1JZrzQheExvekaQw,2.5,11,4,Winterset,IA,50273,American (Traditional)
+Uncle Nancy's Coffee House & Eatery,Oy_ntuzDibzTyKYMQgjn_g,4.5,13,1,Newton,IA,50208,Coffee & Tea
+Bridgehouse Coffee,trUnh1yPky56vl4htD80kg,5.0,6,1,Newton,IA,50208,Coffee & Tea
+Dan's Sandwich Shop,uW5KvkiqPWYBUU9GcP2Qtg,4.0,13,1,Newton,IA,50208,Bakeries
+China King,gnma_JERI-fBYRAvYEpebg,4.5,7,1,Newton,IA,50208,Chinese
+Midtown Cafe,cbQRmT6xnErHV9II7283-g,4.0,9,1,Newton,IA,50208,Coffee & Tea
+Cardinal Corner,KD4-fkv4bSClJWhcSOwB5A,5.0,4,1,Newton,IA,50208,Ice Cream & Frozen Yogurt
+Pj's Deli,4XAxRLyG_B4onD6IPkFE9w,4.0,8,1,Newton,IA,50208,Delis
+Cocina Hernandez,p08JfzYJ0fRuj-kwtbVN1g,4.0,9,1,Colfax,IA,50054,Mexican
+Perkins Restaurant & Bakery,z0VDhtJWeo9c6ejcbyL6CA,2.5,20,1,Newton,IA,50208,Breakfast & Brunch
+Culver's,d9-VAPvJZwyKQU_CfHCtJg,3.5,9,1,Newton,IA,50208,Ice Cream & Frozen Yogurt
+Newton Family Restaurant,7FqS0tlS6MnhvQUnajOFTw,4.0,8,1,Newton,IA,50208,Comfort Food
+Taco John's,06BaeEKdkATpkE3lKfyX9Q,3.0,6,1,Newton,IA,50208,Mexican
+Poppy's Family Restaurant,1NLcc-3VV0_iWjjQ3dogbA,3.5,3,1,Colfax,IA,50054,Pizza
+McDonald's,sbgVqFkpueGrwbWJJSWEBQ,2.0,5,1,Newton,IA,50208,Fast Food
+Burrito Torpedo,tYu3RIjjUP7BroUJpTesfQ,2.0,4,1,Newton,IA,50208,Tex-Mex
+Cookies by Design,xyFvAAqBynpVKoVQVjWxbg,4.5,6,1,Urbandale,IA,50322,Bakeries
+Moo's BBQ,f2TzZya_JenQml_GmXcTHQ,4.5,60,2,Newton,IA,50208,Barbeque
+Georgioz,Q3VxifM3KuQtHKe-xP2iNg,4.0,21,2,Colfax,IA,50054,American (New)
+Panda Garden Buffet,kDvi8Sgy1xih9leFOkTDdA,4.5,14,2,Newton,IA,50208,Chinese
+Yanni's Bar & Grill,rulfRWJ9ba8vEoC_bSxZWw,4.0,15,2,Newton,IA,50208,Greek
+Giovanni's Pizza,6L9FzJ9UXu1XTmV7Ttf2Qw,4.0,13,2,Newton,IA,50208,Pizza
+La Cabana Mexican Restaurant,WqdWT8Im1pDQoxcsVeS6zQ,3.5,28,2,Newton,IA,50208,Mexican
+Okoboji Grill,zTzoIOrEE_qTVHS6XdnpFw,3.5,29,2,Newton,IA,50208,American (Traditional)
+Montana Mike's,UqfnWMq7h6JQPGhjVlpTqg,3.0,35,2,Newton,IA,50208,Steakhouses
+Pizza Ranch,tqErN4ku7ULlZNdLs1lMeQ,3.5,8,2,Newton,IA,50208,Pizza
+The Lemon Tree Tea House & Restaurant,6BMxABrsRicKEEin5FDwNw,4.0,5,2,Newton,IA,50208,Tea Rooms
+El Sombrero,io3HSy12te5OBB5RCAX-SA,3.0,10,2,Newton,IA,50208,Mexican
+Sned's Raceway Cafe,rAhg2kw6Egr981U-4a_zdg,3.5,3,2,Newton,IA,50208,Pizza
+Dairy Queen,2AXXgH6Y4bPrCkLTWUnEvQ,3.0,4,2,Newton,IA,50208,Ice Cream & Frozen Yogurt
+Pizza Hut,KNfLPL7F6VkjfaQeAAEZVQ,2.0,4,2,Newton,IA,50208,Pizza
+Jimmy John's,wMFZGvZjn6mLDu7pUg9eJQ,3.0,3,2,Newton,IA,50208,Sandwiches
+Proof,V3ahq84dFzUAnxGXcdEHTA,4.5,201,3,Des Moines,IA,50309,Mediterranean
+Baru 66,Ma-kxcSsjQV0CIoPVsiy6w,4.5,87,3,Windsor Heights,IA,50324,French
+Rube's Steakhouse,2nJt2PSe2zn6-RlhnMyGqQ,4.5,32,3,Montour,IA,50173,Steakhouses
+Splash Seafood Bar & Grill,G3qLA9oOqSb1KNMNMFbuvg,3.5,122,3,Des Moines,IA,50309,Seafood
+AJ's Steakhouse,kItkfOCCqcrREjrofvajpA,4.0,19,3,Altoona,IA,50009,Steakhouses
+Johnny's Italian Steakhouse,kZWrPS218p6atlsqydoVKw,3.0,66,3,Altoona,IA,50009,Steakhouses
+The Seafood Trap,3gTJxnnrZEUWWjOWqHVtOQ,4.5,32,3,Des Moines,IA,50316,Seafood
+Sam & Gabes,77voCtPHfZ6Ai5S5dxv9cw,4.0,50,3,Des Moines,IA,50309,American (New)
+Johnny's Italian Steakhouse,T8XMMRZxdK9_IPlu69YBPQ,3.5,108,3,Des Moines,IA,50321,Italian
+Sam & Gabe's,Xj8ve8_47C_1SDVN1cKIsg,4.0,85,3,Urbandale,IA,50322,Italian
+Fleming's Prime Steakhouse & Wine Bar,t2TXAhQcUnXY3SnsHZpIwA,4.5,90,3,West Des Moines,IA,50266,Steakhouses
+Aposto,67NqWyggBNZqGOORzvWmug,4.5,23,3,Des Moines,IA,50314,Mediterranean
+Trostel's Greenbriar,H6xMJRaN0UIm69v-2cSG4A,3.5,48,3,Johnston,IA,50131,Steakhouses
+The Whiskey House and Bourbon Grill,MUC72uBBfm1Is87y7MOUlg,3.0,28,3,Ankeny,IA,50023,Bars
+Rube's Steakhouse & Lounge,khUhkSXRF0b4jjaZR5IlAA,4.0,44,3,Waukee,IA,50263,Steakhouses
+BOS,y1JnkK97RnSFvflTArJMKQ,3.0,15,3,Des Moines,IA,50309,American (New)
+Perkins Restaurant & Bakery,GDe-5BNEAA66h5x7bwpzxw,2.0,10,3,Marshalltown,IA,50158,Bakeries
+Jimmy John's,SBQ898v0xtPbv-tAgN8CGQ,3.0,3,3,Altoona,IA,50009,Sandwiches
+Miss NiNi's Desserterie,ySY3boXIhF1YDvdRukWBjg,4.0,13,3,West Des Moines,IA,50266,Desserts
+Panera Bread,_n9RKcXbxIxTJ4MilIvHkA,3.0,10,3,Des Moines,IA,50321,Salad
+Harlan's Food Mart,I-rr3gCUE8qJXTgPs-DJLg,3.5,4,3,Story City,IA,50248,Grocery
+Mojo's Bar,RG6RW5fS81nNDxTSjyQa6g,4.0,1,3,Indianola,IA,50125,Sports Bars
+801 Chophouse,mbOTWlu2aZRvBGcCF6BrZQ,4.0,143,4,Des Moines,IA,50309,Steakhouses
+Jeannie's Bottle,gl_K_DaRY1VMdtHk24LhDQ,3.0,5,4,Des Moines,IA,50310,Party & Event Planning
+Percussion the Restaurant,oTsM73CYOqabnUcqM0Nakg,5.0,14,1,Osceola,IA,50213,American (Traditional)
+Nana Greer's Family Table Restaurant,v14I-HRPjuaQEs0IKtTcsA,3.5,44,1,Osceola,IA,50213,American (New)
+Junction Creamery,OzGL-OCmM0XfGTrLSs0vgQ,4.5,8,1,Osceola,IA,50213,Ice Cream & Frozen Yogurt
+The Outside Scoop,DxClw6-HS70JPQVBEuHtlg,5.0,18,1,Indianola,IA,50125,Ice Cream & Frozen Yogurt
+Dinky Diner,_sI7No3Mv0m6MTKwVW7tHg,4.0,25,1,Decatur,IA,50067,Diners
+Jaarsma Bakery,n6Y2_VCViGusjaJgEA6Ivw,5.0,66,1,Pella,IA,50219,Bakeries
+Mahalo's Coffee Co Mini Donuts & Catering,Bce2OgsSpuPMZk7aHY-fhA,5.0,46,1,West Des Moines,IA,50265,Donuts
+Sam's Fine Food Egg Rolls,mXuR3Jk_k4tVdZBy5GC1KQ,4.5,68,1,Des Moines,IA,50315,Chinese
+Smitty's Tenderloins Shop,S7ce02Nxsy9bLmBUQnArmg,4.0,87,1,Des Moines,IA,50315,American (Traditional)
+Classic Frozen Custard,yIDJsjIx-IGxtTgpRagefw,4.5,47,1,Des Moines,IA,50320,Ice Cream & Frozen Yogurt
+Nick's,rB91C7yIL8PKyX8ZxFD6Nw,4.0,68,1,Des Moines,IA,50315,Sandwiches
+Mishmash Eats,qahbolb-fgoybX1CaTX_2w,4.5,12,1,Indianola,IA,50125,Bakeries
+Funaro's Deli & Bakery,HAzwa1OHmSJFCyEr8ftuXA,4.5,13,1,Indianola,IA,50125,Bakeries
+Crouse Cafe,W9FdGXhLH1cmX1WJua_45Q,3.5,23,1,Indianola,IA,50125,Cafes
+The China Star,M_l6OOVz-7p2OFCPr4Qiwg,3.5,5,1,Osceola,IA,50213,Chinese
+The Cellar Peanut Pub,4nGPZidfL0jACq42CKEsmg,5.0,17,1,Pella,IA,50219,Pubs
+Smokey Row Coffee,nYHazueWkrAEC4Ju9aqFiw,4.5,27,1,Pella,IA,50219,Coffee & Tea
+Vander Ploeg Bakery,bCMqUSFfAwfPAhFcusgBXQ,4.5,16,1,Pella,IA,50219,Bakeries
+Waveland Cafe Booneville,D7BNlgtcgde_lw9nAC3fMw,4.5,27,1,Booneville,IA,50038,Breakfast & Brunch
+Big Al's BBQ South,WL7ZZIaJ_S0Yi3PsDjkVHQ,4.0,43,1,Des Moines,IA,50315,Barbeque
+George & Nick's Pizza & Steakhouse,Ho93wTVmbkxm45AsojkKzg,4.5,15,1,Centerville,IA,52544,Pizza
+Hitchin Post Grill,lI2ZBBk0BnBiWUIXXxhhaQ,4.0,16,1,Bevington,IA,50033,American (New)
+The Rib Shack,eRbXONQANg7zdevxy4cI8A,4.0,17,1,Knoxville,IA,50138,Barbeque
+Chick-fil-A,wn-MmSfpCJoUhhW8KrmtGQ,4.5,26,1,West Des Moines,IA,50266,Fast Food
+Arby's,kiEnW3aokdJFd4jheAO0hA,3.0,6,1,Osceola,IA,50213,Fast Food
+McDonald's,vu0SQKKcqovQr_3QAejo8g,2.0,14,1,Osceola,IA,50213,Fast Food
+Linden St Coffee House,1dC7kqAM6EEt-AoiBBmeLw,4.5,10,1,Lamoni,IA,50140,Coffee & Tea
+Noodles & Company,8fO6-LcRKSeVZDkEsX0uuA,4.0,32,1,West Des Moines,IA,50310,Noodles
+In't Veld Meat Market,l4Rmh69jvV1y3Vrg8C0bNQ,4.5,15,1,Pella,IA,50219,Meat Shops
+China Chef,LpXguCjFb98XezTQemeCFQ,4.0,31,1,Des Moines,IA,50315,Chinese
+Twisted Bean Coffee Company,rUS9bAfxPjk8lJ0yE-3Jiw,5.0,11,1,Des Moines,IA,50320,Coffee & Tea
+Tasty Tacos,zl6gjtl8xM5JqdbwP0KlSQ,3.5,55,1,West Des Moines,IA,50266,Mexican
+A & W Family Restaurant,QWGB9XW_ZU6uCnidscdyJg,3.5,17,1,Indianola,IA,50125,American (New)
+The Zoo,nNl9xvVjM2uO1wsry3sO2Q,4.5,6,1,Indianola,IA,50125,Bars
+Orlondo's,3cDpXBkeSnPYESUtQ0mJvg,4.0,36,1,Des Moines,IA,50321,Pizza
+Abelardo's,bCTzuGn-CMYu4M23xJXGiw,4.0,38,1,West Des Moines,IA,50266,Mexican
+Tasty Tacos,x7-0wKfdLyhuRjBTqiBomg,3.5,32,1,Des Moines,IA,50320,Mexican
+Monterrey Mexican Restaurant,L9IRV5pZJk4Cg12WtenH3w,3.5,62,1,West Des Moines,IA,50266,Mexican
+The Coffee Connection,pCBy4tpdlB0zaRZ1NeNthg,5.0,5,1,Knoxville,IA,50138,Coffee & Tea
+Pizza Shack,kqok0G54oHYbELxSExUW2A,4.0,10,1,Lamoni,IA,50140,Pizza
+New China Buffet & Grill,8iuaTvIdz_WEq2sgMJ68Nw,4.0,25,1,Des Moines,IA,50315,Buffets
+B-Bops,j5A28BfdHydJEEEmOD1Bow,4.0,22,1,Des Moines,IA,50321,Burgers
+Houston's on Main,9BqwkMQcKuFUh0i5HVoqEQ,4.5,3,1,Milo,IA,50166,Bars
+China Cafe,vWNWAdNusZZabRcSWWQxYA,4.5,10,1,Winterset,IA,50273,Chinese
+Brew Coffee House,_TVaP1YFzV0vkqbMrMS6XQ,4.5,11,1,Pella,IA,50219,Juice Bars & Smoothies
+Tsing Tsao South,tpPF0jLiO1GR28N52Xd0UA,3.5,26,1,Des Moines,IA,50321,Chinese
+Smokey Row Coffee House,L-SIm8J6XXdaokEUNl1xtw,4.5,23,1,Oskaloosa,IA,52577,Sandwiches
+Noodles Pasta & Sandwich Shop,K72nQIRbuildp-ntcVS_hw,4.5,12,1,Des Moines,IA,50315,Sandwiches
+Firehouse 54,5kvgK9SxAGk628zZPrzkNw,5.0,9,1,Eagleville,MO,64442,Pizza
+La Villa Mexican Restaurant,dJmBwyLTb9UK7qk_Xdm-tw,4.0,14,1,Carlisle,IA,50047,Mexican
+Iron Horse Neighborhood Grill,LiOgn1ilkvuY7CRcCNkBog,4.0,43,2,Osceola,IA,50213,Burgers
+La Casa Mexican Restaurant,sH8nwXxDy9yy3LbJCyDUZw,4.5,37,2,Indianola,IA,50125,Mexican
+Kathmandu Restaurant,MmBe3_nzGQlpJdhpBkodbQ,4.5,70,2,Des Moines,IA,50320,Indian
+Skips,dyNd8crEoqG1gyXtvoHpqw,4.0,112,2,Des Moines,IA,50321,Desserts
+Winns Pizza & Steak house,ayOB4EYsjfDgZiZqMJNpRQ,4.5,26,2,Indianola,IA,50125,Steakhouses
+Firebirds Wood Fired Grill,ueTOYnPpM4Lp34CWupZwEg,4.0,182,2,West Des Moines,IA,50266,Seafood
+Francies,mlptWVu2XTFHUjjOuJwLkA,4.5,76,2,Des Moines,IA,50321,American (Traditional)
+Angry Goldfish Pub And Eatery,b10WsB1eD_XolIeJHsQ22w,4.5,65,2,Des Moines,IA,50315,Pubs
+Northside Cafe,bRRaLNT8735vemvK_nSB8A,4.0,52,2,Winterset,IA,50273,Cafes
+Peace Tree Brewing Company,J5xOhIXOTmokk5qElgH1sQ,4.5,16,2,Knoxville,IA,50138,Breweries
+Luigis Italian Restorante,jeSGRBL_8K6AhkUp-fS3JQ,4.5,64,2,Des Moines,IA,50320,Italian
+Playa Margaritas Mexican Restaurants,VeayaSSMR7O09OnGcL4z_w,3.5,10,2,Osceola,IA,50213,Mexican
+Albia Brewing,DTKgYwbTl3b-TbqZfehhEw,4.5,20,2,Albia,IA,52531,Breweries
+One Eleven Public House Kitchen + Drink,s5XrNUrHTfbhySzWFJxE2g,4.5,16,2,Knoxville,IA,50138,Desserts
+Everest Restaurant,UvKKcuc9Wi3-8tlSJGfi8Q,4.5,23,2,Des Moines,IA,50320,Indian
+Kaldera Restaurant & Lounge,UiFYmaE5CDMwoP1JpO0gkg,4.0,54,2,Pella,IA,50219,American (New)
+Bordenaro's Pizza,Rd90jl1iGtjiHHnxo1xaFw,4.0,54,2,Des Moines,IA,50315,Pizza
+Villaggio,v73iFxlo6A3H1hMSadF81g,4.5,31,2,Norwalk,IA,50211,Pizza
+Pete's Pizza,I_4N5sICy1tDFsQfhBnNkQ,4.5,10,2,Indianola,IA,50125,Pizza
+Fat Tuesday,XPDyp5Sg-smk9X5EThGzmw,4.0,67,2,Des Moines,IA,50315,Cajun/Creole
+Paradise Biryani Pointe,Qh3w6F5enrsW5XrrJE7scQ,4.0,109,2,West Des Moines,IA,50266,Indian
+HyVee Market grille,amHwZHLgiRmV3rEkmffPxg,3.0,6,2,Chariton,IA,50049,Burgers
+Banana Leaf,uFUAUrftc_TiSdO4Ej0y0g,4.0,56,2,West Des Moines,IA,50266,Asian Fusion
+Baratta's,0h4zs_vVdqe7NjPq5vV9Eg,4.0,54,2,Des Moines,IA,50315,Italian
+The Operating Room,xOtdhAh-eqxHuY4JfNhUGQ,4.5,40,2,West Des Moines,IA,50266,Arcades
+Bonefish Grill,9_IZK3Dj_SJ7RLRUsC1bHw,4.0,75,2,West Des Moines,IA,50266,Seafood
+Winn's Pizza & Steakhouse,OHoaHrB7FW8dqoQgndDqEw,4.5,21,2,Norwalk,IA,50211,Pizza
+Bar Louie,Dg-uYIN4xYy4RuwKT2Lt9w,3.5,113,2,West Des Moines,IA,50266,Bars
+Iron Wok,_Z7vBDrs8Hr7KTA0lHs18w,4.0,46,2,West Des Moines,IA,50266,Chinese
+Nut POB Restaurant,-8Y60jXZlTDC3QFc09vkMQ,3.5,50,2,Des Moines,IA,50315,Thai
+5 De Mayo Mexican Restaurant,XRkwjrqLpp_jXk4KhSAVYw,3.5,43,2,Des Moines,IA,50320,Mexican
+Paesanos Pizza,yKM3eBdBBThmm6izkIT5yg,4.0,38,2,Des Moines,IA,50315,Pizza
+Bogie's Steak House,dzEzZgbOvehlYqtlFk6iqg,4.0,12,2,Albia,IA,52531,Restaurants
+China Dragon,Hfz_SgyzW8hKfDpno_Zw9w,4.5,12,2,Norwalk,IA,50211,Chinese
+George's Pizza,C9iZ2DuTGUrSWQvDB4a-8A,4.0,36,2,Pella,IA,50219,Pizza
+La Cocina Real,qV8lzC9wwuWIFW1KpofBBA,4.5,12,2,Lamoni,IA,50140,Mexican
+Wellman's Pub and Rooftop,YfkCuLObGqUutyltWKsXPA,3.0,114,2,West Des Moines,IA,50266,Pubs
+Office,ZFLMMCMLAjzwgqAIKckknQ,3.0,1,2,Chariton,IA,50049,Bars
+Samurai Sushi and Hibachi,gyVee-dKOKJDqtoDDJJOuA,3.0,98,2,West Des Moines,IA,50266,Japanese
+Get Fit Grill,vDnwefHiV542wEvg-fEihw,4.0,38,2,West Des Moines,IA,50266,American (Traditional)
+Fire Creek,FuLksER95SEmn8t9eE8fJQ,3.5,49,2,West Des Moines,IA,50265,American (Traditional)
+Lucile's Steaks & Spirits,qL62IGA1SnLeut4Lvophzw,4.0,14,2,Centerville,IA,52544,Bars
+Blu Toro Cantina & Grill,Ycb8OEM7RjHshbOmSXjsFw,3.5,76,2,West Des Moines,IA,50266,Tacos
+Fuddruckers,j1wT6LjcAVJneQg9jz8GAQ,4.0,34,2,West Des Moines,IA,50266,Burgers
+Johnny's Italian Steakhouse,M6KLkrgdWdUDq7y_QdXPpA,3.5,56,2,West Des Moines,IA,50266,Steakhouses
+Grumpy Goat,hAFKzSDVL2ZBXFG4usK2Ww,3.0,102,2,West Des Moines,IA,50266,Sports Bars
+The Depot Restaurant and Catering,2z_MdxL7zf4RsONhD0UHyw,4.5,2,2,New Virginia,IA,50210,American (Traditional)
+Downtown Diner,-z8fvUL6gqnBaBXQcEvVSA,5.0,3,2,Knoxville,IA,50138,American (Traditional)
+Persis Biryani Indian Grill,NNxhEPsOU1pFjzY_c2PNuQ,3.0,49,2,West Des Moines,IA,50266,Indian
+Portermill,rEkpzOEdy7wi4GxPRADzoA,4.0,19,2,Des Moines,IA,50321,Bars
+Fleming's Prime Steakhouse & Wine Bar,t2TXAhQcUnXY3SnsHZpIwA,4.5,90,3,West Des Moines,IA,50266,Steakhouses
+Johnny's Italian Steakhouse,T8XMMRZxdK9_IPlu69YBPQ,3.5,108,3,Des Moines,IA,50321,Italian
+Rube's Steakhouse & Lounge,khUhkSXRF0b4jjaZR5IlAA,4.0,44,3,Waukee,IA,50263,Steakhouses
+Panera Bread,_n9RKcXbxIxTJ4MilIvHkA,3.0,10,3,Des Moines,IA,50321,Salad
+Mojo's Bar,RG6RW5fS81nNDxTSjyQa6g,4.0,1,3,Indianola,IA,50125,Sports Bars
+The Sports Page,TBWLRG1JZrzQheExvekaQw,2.5,11,4,Winterset,IA,50273,American (Traditional)
+Sub City,PCN2lEFcCfJsPUeXdfSLyQ,5.0,20,1,Marshalltown,IA,50158,Sandwiches
+Taylor's Maid-Rite,cEWbtnMPLL8yLxGJ1JBzVw,4.0,49,1,Marshalltown,IA,50158,Burgers
+Maria's Tacos,__Q496X_ViBKNefsxcp3Tg,4.5,12,1,Marshalltown,IA,50158,Mexican
+Tacos Y Mariscos Maravilla,Tz-l6IqYlDQQO2RBVoHk4g,4.5,8,1,Marshalltown,IA,50158,Mexican
+Ocean City Chinese Restaurant,NiWq4cCcA8vAZAeq7-_8JA,4.0,16,1,Marshalltown,IA,50158,Szechuan
+Taco John's,F7E-9ORt1Gzhq8qTf2nmhA,4.0,11,1,Marshalltown,IA,50158,Fast Food
+Ay Caramba,SK9GhpXH8p10Bo5dqXHZ-g,5.0,4,1,Marshalltown,IA,50158,Mexican
+Chef King,XEEYneXk1PKLYGTbyRsCrg,3.5,9,1,Marshalltown,IA,50158,Chinese
+Plaza Mexico,SAi-NC9w4iVIdb5VG17pFQ,3.5,6,1,Marshalltown,IA,50158,Mexican
+Old Timer Tavern,BPZAvezyxhex9kMo4TuHIg,3.5,3,1,Marshalltown,IA,50158,Bars
+Forget-Me-Not Bakery and Coffee,7WP2edGjUP5t-Q_44giCWw,3.5,2,1,Marshalltown,IA,50158,Coffee & Tea
+Uncle Jack's Tacos,frgcaRF0VVPDQhVnDnsNjA,2.5,2,1,Marshalltown,IA,50158,Restaurants
+Dave's,9RdpSNK1c5trvnkTBLakqQ,3.0,1,1,Marshalltown,IA,50158,Bars
+That Place Restaurant,sjaOEn-Gj3K7ea6bOtewTQ,4.0,22,2,Conrad,IA,50621,Restaurants
+Zeno's Pizza,rQB8gsty7VSR49x4J2Oq8Q,4.0,40,2,Marshalltown,IA,50158,Pizza
+Tremont On Main,Ljsu65r8PvJAObyx5ZVLyA,4.0,21,2,Marshalltown,IA,50158,American (New)
+Smokin G's BBQ,PVBJTWEEgIH-14V_Si98iA,4.0,18,2,Marshalltown,IA,50158,Barbeque
+Jack's Pho' House,s-fds2_-Z76PIK2Hd7VnZQ,3.5,14,2,Marshalltown,IA,50158,Vietnamese
+El Puente Mexican Restaurant,n2OiiMt35INHO-cQvbgO2Q,4.5,6,2,Marshalltown,IA,50158,Mexican
+Fiddle and Whistle,pTVNGRdVyfU-aTRPLALZ6w,4.5,3,2,Marshalltown,IA,50158,Irish Pub
+Rube's Steakhouse,2nJt2PSe2zn6-RlhnMyGqQ,4.5,32,3,Montour,IA,50173,Steakhouses
+Galleria De Paco,NbfnsZdBR_xQ-_V8EqQIJw,4.5,63,3,Waterloo,IA,50701,American (New)
+Proof,V3ahq84dFzUAnxGXcdEHTA,4.5,201,3,Des Moines,IA,50309,Mediterranean
+Baru 66,Ma-kxcSsjQV0CIoPVsiy6w,4.5,87,3,Windsor Heights,IA,50324,French
+Splash Seafood Bar & Grill,G3qLA9oOqSb1KNMNMFbuvg,3.5,122,3,Des Moines,IA,50309,Seafood
+The Seafood Trap,3gTJxnnrZEUWWjOWqHVtOQ,4.5,32,3,Des Moines,IA,50316,Seafood
+Sam & Gabe's,Xj8ve8_47C_1SDVN1cKIsg,4.0,85,3,Urbandale,IA,50322,Italian
+Sam & Gabes,77voCtPHfZ6Ai5S5dxv9cw,4.0,50,3,Des Moines,IA,50309,American (New)
+Johnny's Italian Steakhouse,kZWrPS218p6atlsqydoVKw,3.0,66,3,Altoona,IA,50009,Steakhouses
+AJ's Steakhouse,kItkfOCCqcrREjrofvajpA,4.0,19,3,Altoona,IA,50009,Steakhouses
+Aposto,67NqWyggBNZqGOORzvWmug,4.5,23,3,Des Moines,IA,50314,Mediterranean
+Trostel's Greenbriar,H6xMJRaN0UIm69v-2cSG4A,3.5,48,3,Johnston,IA,50131,Steakhouses
+Perkins Restaurant & Bakery,GDe-5BNEAA66h5x7bwpzxw,2.0,10,3,Marshalltown,IA,50158,Bakeries
+The Whiskey House and Bourbon Grill,MUC72uBBfm1Is87y7MOUlg,3.0,28,3,Ankeny,IA,50023,Bars
+Harlan's Food Mart,I-rr3gCUE8qJXTgPs-DJLg,3.5,4,3,Story City,IA,50248,Grocery
+BOS,y1JnkK97RnSFvflTArJMKQ,3.0,15,3,Des Moines,IA,50309,American (New)
+Beer Hall,Hru0935eqrqB2oi1GUE8Gg,4.5,2,3,Waterloo,IA,50701,Beer Bar
+Pakodas Steak House,PQlKyMsiutd2TJBI-nTqYA,3.5,5,3,Hampton,IA,50441,Restaurants
+Jimmy John's,SBQ898v0xtPbv-tAgN8CGQ,3.0,3,3,Altoona,IA,50009,Sandwiches
+Aj's Eatery & Spirits,zgGpUfpHnQ-YaKNz-__n6w,1.0,1,3,Waterloo,IA,50702,Restaurants
+801 Chophouse,mbOTWlu2aZRvBGcCF6BrZQ,4.0,143,4,Des Moines,IA,50309,Steakhouses
+McDonald's,3XaAjJE1MWnk9PkXFq74wQ,2.0,4,4,Cedar Falls,IA,50613,Fast Food
+Jeannie's Bottle,gl_K_DaRY1VMdtHk24LhDQ,3.0,5,4,Des Moines,IA,50310,Party & Event Planning
+Goldies Ice Cream Shoppe,XMjsve3A7Be0KmM9HNgY1g,4.5,46,1,Prairie City,IA,50228,Ice Cream & Frozen Yogurt
+Main Street Cafe & Bakery,t4iVBiDsXzpYNbBZhbuRkQ,4.5,133,1,Ankeny,IA,50023,Cafes
+Sub City,PCN2lEFcCfJsPUeXdfSLyQ,5.0,20,1,Marshalltown,IA,50158,Sandwiches
+Taylor's Maid-Rite,cEWbtnMPLL8yLxGJ1JBzVw,4.0,49,1,Marshalltown,IA,50158,Burgers
+A1 Thai Cuisine,mFfl9xcC5IP5Xcdit_p7sA,4.5,26,1,Marshalltown,IA,50158,Thai
+Alohana Hawaiian Grill,GZUvKx4iwAd7pmfxKKV8Tw,4.0,107,1,Ankeny,IA,50021,Hawaiian
+Pho 85,8tkXXTrgPHTj0rDB-HBMDw,4.5,57,1,Ankeny,IA,50021,Vietnamese
+Downtown Deli,BzbDax_9tXt-SZYvfWEz8A,4.5,41,1,Ames,IA,50010,Delis
+Ambrosia Donuts,3LYbL4T7mgXdDc5p3NHsSg,4.5,43,1,Ankeny,IA,50023,Donuts
+Niland's Cafe,nOzpVJVZDdLggziX4xg4vA,4.0,14,1,Colo,IA,50056,American (Traditional)
+Uncle Nancy's Coffee House & Eatery,Oy_ntuzDibzTyKYMQgjn_g,4.5,13,1,Newton,IA,50208,Coffee & Tea
+Pammel Grocery and Deli,O3W6J-EgTt_t-7RcJjxskw,4.5,56,1,Ames,IA,50014,Grocery
+Cafe Diem,ZYB7Kd8I-AUglsITb1v-bg,4.5,50,1,Ames,IA,50010,Coffee & Tea
+Gazali's,-1xy3Bkvs4KYtEyoe-U3Ow,4.5,141,1,Des Moines,IA,50311,Greek
+Country House Family Restaurant,qjOy2EwySOqD0HFwhEnITQ,4.0,15,1,Colo,IA,50056,American (Traditional)
+West Street Deli,j9-rGoob28ldwibURO6PbQ,4.5,65,1,Ames,IA,50014,Delis
+Grove Cafe,d_BESJ4CsHt27lUGc4JA_w,4.0,59,1,Ames,IA,50010,Breakfast & Brunch
+Pho All Seasons,68DZx2x1q1kBfTXemFK9Mw,4.5,114,1,Des Moines,IA,50316,Vietnamese
+Maria's Tacos,__Q496X_ViBKNefsxcp3Tg,4.5,12,1,Marshalltown,IA,50158,Mexican
+Mr. Burrito,REFiDvuvOSnQ1peu7zpspA,4.5,44,1,Ames,IA,50014,Mexican
+High Life Lounge,XFKxs56Wm3VpJXFKqUM3wg,4.0,182,1,Des Moines,IA,50309,Dive Bars
+Starbuck's,AhjA39O28oquZgI5YTPrnw,4.0,16,1,Nevada,IA,50201,Ice Cream & Frozen Yogurt
+Tacos Mariana's,ezUKFaVKHqgb6OEN5akdiw,4.5,134,1,Des Moines,IA,50311,Mexican
+Porch Light Coffehouse,DB0knlpG2Ofxa0ME7kzo6w,5.0,23,1,Ankeny,IA,50023,Coffee & Tea
+Lucky Bamboo,HjwivLt9JKBcSeu1aCmdBA,4.0,54,1,Ankeny,IA,50021,Chinese
+Which Wich Superior Sandwiches,FL15KlncOdUVlaM9i4BuPg,4.5,34,1,Ankeny,IA,50023,Sandwiches
+Bridgehouse Coffee,trUnh1yPky56vl4htD80kg,5.0,6,1,Newton,IA,50208,Coffee & Tea
+Ankeny Diner,zcl2NO_-_SZBDWP99RVRCw,3.5,64,1,Ankeny,IA,50021,Diners
+A Dong Restaurant,0NWAuhxUfQoajRCqOO8d4A,4.0,228,1,Des Moines,IA,50309,Vegetarian
+Sorriso Grille,_sHmsJmzsaLyvIkNUrlpSw,4.5,32,1,Ankeny,IA,50023,American (Traditional)
+Morning Bell Coffee Roasters,wyVx8QFn9K7zTc8SEVD45Q,4.5,23,1,Ames,IA,50010,Coffee Roasteries
+Thai Kitchen,Uz7v7me1GQsp1QBEldETxg,4.0,81,1,Ames,IA,50014,Thai
+Up-Down,csHwRCJBH31TKLtv9HL7AA,4.5,102,1,Des Moines,IA,50309,Bars
+Scenic Route Bakery,FGj6gkyWq5bHT_xdyAr9Gw,4.5,100,1,Des Moines,IA,50309,Bakeries
+Dan's Sandwich Shop,uW5KvkiqPWYBUU9GcP2Qtg,4.0,13,1,Newton,IA,50208,Bakeries
+Iowa's Best Burger Cafe,JlGPxhzFnNHOAoH9sPkDvg,3.5,35,1,Kellogg,IA,50135,Burgers
+Ritual Cafe,ldG5GS-x6prTlC8ly1RuCg,4.5,117,1,Des Moines,IA,50309,Coffee & Tea
+Blaze Fast Fire'd Pizza,G3uH1AvgTkjZ3cTkIRiv4g,4.0,117,1,Des Moines,IA,50309,Salad
+China King,gnma_JERI-fBYRAvYEpebg,4.5,7,1,Newton,IA,50208,Chinese
+Cafe Diem,EyHvEEz610sYYf3f2TCCFw,4.0,44,1,Ankeny,IA,50023,Desserts
+Vinyl Cafe,EIBzEtZd7RF_zpAEELyOKw,4.5,21,1,Ames,IA,50010,Coffee & Tea
+Mars Cafe,ixMbVwUI4sNbixWnBieOcw,4.5,102,1,Des Moines,IA,50311,Coffee & Tea
+Horizon Line Coffee,VilTSRENXGPwjqFK4mrGBg,5.0,53,1,Des Moines,IA,50309,Coffee Roasteries
+Tacopocalypse,59rNUb52GF0KVka2cTQdgw,3.5,315,1,Des Moines,IA,50309,Mexican
+Burgie's Coffee and Tea Company,janYE5BHsYxe9x0qM7ushA,4.5,24,1,Ames,IA,50010,Coffee & Tea
+Zanzibar's Coffee Adventure,Sfu9iT-6d7uxbmmPU4i0QA,4.0,128,1,Des Moines,IA,50312,Coffee & Tea
+El Portal,IykCD0h7RSuIeEcw1l3fBg,3.0,37,1,Marshalltown,IA,50158,Mexican
+Rolling Wok,pgl7fSM3q8642sGkdSiY4w,4.5,73,1,Des Moines,IA,50309,Chinese
+Tasty Tacos,-MYcttPS7J9re11gXDOOeQ,4.0,47,1,Ankeny,IA,50021,Mexican
+Mi Casita,MuvjioLn5tmzztZ_CwBmMw,4.5,11,1,Nevada,IA,50201,Mexican
+Moo's BBQ,f2TzZya_JenQml_GmXcTHQ,4.5,60,2,Newton,IA,50208,Barbeque
+The Cafe,yDf8_64Lp05EXglmcl2Slg,4.5,309,2,Ames,IA,50010,Bakeries
+The Mucky Duck Pub,90wYasFlXTjSWsA3BjF4zw,4.5,100,2,Ames,IA,50010,British
+Hickory Park Restaurant Co.,GNAiaFeLzy2J_8S2ZxrybQ,4.0,332,2,Ames,IA,50010,American (Traditional)
+Zombie Burger + Drink Lab,axPC_Mv7pjsyVlVASNfj7A,4.0,1014,2,Des Moines,IA,50309,Burgers
+Big Steer Restaurant & Lounge,2FX3nFYAhW-OvvJWfFQTkA,4.0,87,2,Altoona,IA,50009,Steakhouses
+Dublin Bay Irish Pub & Grill,PXmhUIYWV6Wa3Ua3UFNV0Q,4.0,113,2,Ames,IA,50010,American (Traditional)
+Wasabi Tao,EWR8Fe6KojIN4_zOv4v-jA,4.5,294,2,Des Moines,IA,50309,Japanese
+Flavory Bistro,jHTeKd1lRe-RCQG9A2op4A,4.5,80,2,Ankeny,IA,50023,Mediterranean
+Fong's Pizza,KkHR4CnO8Xk4ISiT8n0mjw,4.0,556,2,Des Moines,IA,50309,Pizza
+Fongs Pizza - Ankeny,W_Xh-mUx9UVC6IazaH0MMg,4.0,134,2,Ankeny,IA,50023,Pizza
+The Great Plains Sauce & Dough,8nD2P50BFqaUQAG-4TY36w,4.0,116,2,Ames,IA,50010,Pizza
+El Bait Shop,xWw8LK7C5eajCFcrv_H6Vg,4.5,351,2,Des Moines,IA,50309,Bars
+Centro,AM8eN1XRCAktALneCIIGqQ,4.0,399,2,Des Moines,IA,50309,American (New)
+Flying Mango,wN0iABcxmQ0ayOITw-CD5A,4.5,307,2,Des Moines,IA,50310,Barbeque
+Zeno's Pizza,rQB8gsty7VSR49x4J2Oq8Q,4.0,40,2,Marshalltown,IA,50158,Pizza
+Georgioz,Q3VxifM3KuQtHKe-xP2iNg,4.0,21,2,Colfax,IA,50054,American (New)
+Aunt Maude's,fpgvJRuhP0rh-ZWQ_FB81A,4.0,83,2,Ames,IA,50010,American (New)
+Provisions Lot F,5UQIWWFOGF_3ZC5XLpuUuQ,4.5,70,2,Ames,IA,50010,American (New)
+Cafe Beaudelaire,nBD8--K7WqV_j7jGR7_Z5w,4.0,95,2,Ames,IA,50014,Brazilian
+St Kilda,Dm7AtN32TIdWUWdYJt2fYw,4.5,203,2,Des Moines,IA,50309,Cafes
+Chocolaterie Stam,fi-Ob62rEx-HqhdE11BK6A,4.5,35,2,Ames,IA,50010,Chocolatiers & Shops
+Bigfoot Bacon & Brew,fUPd6GGkWJ6yB4QQJ39CVQ,4.0,64,2,Altoona,IA,50009,Burgers
+Americana,Xb6BcFtU2Hr26mfizCz28g,4.0,401,2,Des Moines,IA,50309,American (New)
+Smokey D's BBQ,X0ms0azAn8rQyADIG-TPGQ,4.0,265,2,Des Moines,IA,50313,Barbeque
+Sweet Swirls Rolled Ice Cream,ERIZY-v59qFcOVf4Qf9D5g,4.5,40,2,Ankeny,IA,50023,Food Trucks
+Wasabi Chi,RnYfDCfvqVtgvJUkAkWuEw,4.5,203,2,Des Moines,IA,50310,Sushi Bars
+La Mie,hLbyIE2mem2zseLRU-D02g,4.5,257,2,Des Moines,IA,50312,Bakeries
+Jethro n' Jake's Smokehouse Steaks,NX8mPPSa-wIRK95lMb9JlA,3.5,128,2,Altoona,IA,50009,Steakhouses
+Waterfront Seafood Restaurant,JVGfoCHgmk5j1h_60XMPyg,3.5,113,2,Ankeny,IA,50021,Seafood
+Guadalajara Mexican Restaurant,YANjW1ZnIqJHn3iXn-sx8w,4.0,63,2,Ankeny,IA,50021,Mexican
+Mi Patria Ecuadorian Restaurant,IeQ8bRQKGF4cd6tLQb_yNA,4.5,254,2,West Des Moines,IA,50266,Latin American
+Panda Garden Buffet,kDvi8Sgy1xih9leFOkTDdA,4.5,14,2,Newton,IA,50208,Chinese
+Akebono 515,7EtdqYcINDyqdq-VZnBO_g,4.5,190,2,Des Moines,IA,50309,Sushi Bars
+Yanni's Bar & Grill,rulfRWJ9ba8vEoC_bSxZWw,4.0,15,2,Newton,IA,50208,Greek
+Haverhill Social Club,foMqDHobRDn9EvhLTKRMnw,5.0,8,2,Haverhill,IA,50120,Pubs
+Eatery A,hBClIZY5Oec15fmkHsfzIA,4.0,306,2,Des Moines,IA,50312,Mediterranean
+Tremont On Main,Ljsu65r8PvJAObyx5ZVLyA,4.0,21,2,Marshalltown,IA,50158,American (New)
+Prairie Canary Restaurant & Bar,paUSNLXFTBeUwUbyntcxIA,4.0,93,2,Grinnell,IA,50112,Vegetarian
+Siam Table,ioDvbtSE-SEoaRHj9c3dsw,4.5,32,2,Ankeny,IA,50023,Thai
+Gong Fu Tea,lCPirkjKheVTAH5l9yrQdg,5.0,62,2,Des Moines,IA,50309,Coffee & Tea
+Jethro's BBQ,LIGpeC--UWQhuNFMAlTglg,4.0,281,2,Des Moines,IA,50311,Barbeque
+Cafe Fuzion,keFS6_xi2CZgXucIXwQgtA,4.5,95,2,Des Moines,IA,50316,Vietnamese
+Giovanni's Pizza,6L9FzJ9UXu1XTmV7Ttf2Qw,4.0,13,2,Newton,IA,50208,Pizza
+La Cabana Mexican Restaurant,WqdWT8Im1pDQoxcsVeS6zQ,3.5,28,2,Newton,IA,50208,Mexican
+Stomping Grounds,uRKuCqTanuxWZFn-24jfIQ,3.5,104,2,Ames,IA,50014,Bars
+Hessen Haus,hufUA9WfHKzlbZCVvdfU2A,4.0,233,2,Des Moines,IA,50309,German
+Bubba,yPysKbumSjbx7bv2xhk6BA,4.0,221,2,Des Moines,IA,50309,Southern
+The Fletcher Full Service Kitchen + Bar,LP9rArXdILc86pTaaaDp7g,3.5,96,2,Ankeny,IA,50023,Sports Bars
+Woody's Smoke Shack,rrbkXhy6JP-B86O29ntKeg,4.5,136,2,Des Moines,IA,50311,Barbeque
+Proof,V3ahq84dFzUAnxGXcdEHTA,4.5,201,3,Des Moines,IA,50309,Mediterranean
+Rube's Steakhouse,2nJt2PSe2zn6-RlhnMyGqQ,4.5,32,3,Montour,IA,50173,Steakhouses
+Baru 66,Ma-kxcSsjQV0CIoPVsiy6w,4.5,87,3,Windsor Heights,IA,50324,French
+AJ's Steakhouse,kItkfOCCqcrREjrofvajpA,4.0,19,3,Altoona,IA,50009,Steakhouses
+Johnny's Italian Steakhouse,kZWrPS218p6atlsqydoVKw,3.0,66,3,Altoona,IA,50009,Steakhouses
+Splash Seafood Bar & Grill,G3qLA9oOqSb1KNMNMFbuvg,3.5,122,3,Des Moines,IA,50309,Seafood
+Fleming's Prime Steakhouse & Wine Bar,t2TXAhQcUnXY3SnsHZpIwA,4.5,90,3,West Des Moines,IA,50266,Steakhouses
+The Seafood Trap,3gTJxnnrZEUWWjOWqHVtOQ,4.5,32,3,Des Moines,IA,50316,Seafood
+Sam & Gabes,77voCtPHfZ6Ai5S5dxv9cw,4.0,50,3,Des Moines,IA,50309,American (New)
+Sam & Gabe's,Xj8ve8_47C_1SDVN1cKIsg,4.0,85,3,Urbandale,IA,50322,Italian
+Johnny's Italian Steakhouse,T8XMMRZxdK9_IPlu69YBPQ,3.5,108,3,Des Moines,IA,50321,Italian
+Aposto,67NqWyggBNZqGOORzvWmug,4.5,23,3,Des Moines,IA,50314,Mediterranean
+Trostel's Greenbriar,H6xMJRaN0UIm69v-2cSG4A,3.5,48,3,Johnston,IA,50131,Steakhouses
+The Whiskey House and Bourbon Grill,MUC72uBBfm1Is87y7MOUlg,3.0,28,3,Ankeny,IA,50023,Bars
+Perkins Restaurant & Bakery,GDe-5BNEAA66h5x7bwpzxw,2.0,10,3,Marshalltown,IA,50158,Bakeries
+Rube's Steakhouse & Lounge,khUhkSXRF0b4jjaZR5IlAA,4.0,44,3,Waukee,IA,50263,Steakhouses
+Miss NiNi's Desserterie,ySY3boXIhF1YDvdRukWBjg,4.0,13,3,West Des Moines,IA,50266,Desserts
+BOS,y1JnkK97RnSFvflTArJMKQ,3.0,15,3,Des Moines,IA,50309,American (New)
+Jimmy John's,SBQ898v0xtPbv-tAgN8CGQ,3.0,3,3,Altoona,IA,50009,Sandwiches
+Panera Bread,_n9RKcXbxIxTJ4MilIvHkA,3.0,10,3,Des Moines,IA,50321,Salad
+Harlan's Food Mart,I-rr3gCUE8qJXTgPs-DJLg,3.5,4,3,Story City,IA,50248,Grocery
+Mojo's Bar,RG6RW5fS81nNDxTSjyQa6g,4.0,1,3,Indianola,IA,50125,Sports Bars
+801 Chophouse,mbOTWlu2aZRvBGcCF6BrZQ,4.0,143,4,Des Moines,IA,50309,Steakhouses
+Jeannie's Bottle,gl_K_DaRY1VMdtHk24LhDQ,3.0,5,4,Des Moines,IA,50310,Party & Event Planning
