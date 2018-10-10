@@ -21,7 +21,7 @@ Good Mong Kok Bakery,-sg6DqQNGyTMt0MHoY7diQ,4.0,2192,1,San Francisco,CA,94108,Ba
 Tacorea,u39mZEYojBiNic3lqKhPNw,4.5,1239,1,San Francisco,CA,94108,Mexican
 Smitten Ice Cream,mMiOVbGovegeBg-6YyqDxA,4.0,2346,1,San Francisco,CA,94102,Ice Cream & Frozen Yogurt
 Benkyodo Co,0100LAmvjZPFjEPswwrDBQ,4.5,891,1,San Francisco,CA,94115,Bakeries
-Garden Creamery,OvBC83vOK6vRw175vHiArg,4.5,614,1,San Francisco,CA,94110,Ice Cream & Frozen Yogurt
+Garden Creamery,OvBC83vOK6vRw175vHiArg,4.5,615,1,San Francisco,CA,94110,Ice Cream & Frozen Yogurt
 Four Barrel Coffee,E8RJkjfdcwgtyoPMjQ_Olg,4.0,2022,1,San Francisco,CA,94103,Coffee & Tea
 Belly Good Cafe & Crepes,V6L23CJAM9cm0zzWAhSwVA,4.5,1221,1,San Francisco,CA,94115,Ice Cream & Frozen Yogurt
 The Chairman Truck,sT8TRzofJym5w0khZkOJhw,4.0,1408,1,San Francisco,CA,94102,Food Trucks
@@ -46,7 +46,7 @@ Pancho Villa Taqueria,UjjNgzBFAVXF3iVXPVjH_Q,4.0,2370,1,San Francisco,CA,94103,M
 Blue Bottle Coffee,vJaF4HdnmSVF_V0BjeKjtg,4.0,1462,1,San Francisco,CA,94111,Coffee & Tea
 Thorough Bread & Pastry,MTIqLOBdISaon4G22qb5Lg,4.5,789,1,San Francisco,CA,94114,Patisserie/Cake Shop
 Wonderful Dessert & Cafe,xji2vmCj8kqsbA_cvd5hvw,4.0,1204,1,San Francisco,CA,94122,Candy Stores
-Brenda's French Soul Food,lJAGnYzku5zSaLnQ_T6_GQ,4.0,9717,2,San Francisco,CA,94102,Breakfast & Brunch
+Brenda's French Soul Food,lJAGnYzku5zSaLnQ_T6_GQ,4.0,9718,2,San Francisco,CA,94102,Breakfast & Brunch
 Tartine Bakery & Cafe,ri7UUYmx21AgSpRsf4-9QA,4.0,7385,2,San Francisco,CA,94110,Bakeries
 Hog Island Oyster Co,Xg-FyjVKAN70LO4u4Z1ozg,4.5,5348,2,San Francisco,CA,94111,Seafood
 Burma Superstar,eYXwVR4mMAjzkJnm5wneHQ,4.0,6287,2,San Francisco,CA,94118,Burmese
@@ -181,7 +181,7 @@ Khai,hE6Fc0ts1-EPaCvRW4Gt8w,4.5,115,4,San Francisco,CA,94103,Vietnamese
 An Japanese Restaurant,zWpV3kVw1CO9Fb3JroQpqw,4.5,116,4,San Francisco,CA,94115,Sushi Bars
 OzaOza,Y96P7pYNYya_bP-Ogun-0w,4.5,81,4,San Francisco,CA,94115,Japanese
 Petit Crenn,kiRsScNQs_UdDV6jPyeCWg,4.0,330,4,San Francisco,CA,94102,French
-Birdsong,XVPiXV_TPivnr9szB5kc-A,4.5,78,4,San Francisco,CA,94103,American (New)
+Birdsong,XVPiXV_TPivnr9szB5kc-A,4.5,79,4,San Francisco,CA,94103,American (New)
 Robin,_CY0LgS5OOBhImGNeWwHWg,4.0,233,4,San Francisco,CA,94102,Sushi Bars
 Kingza,2QGpLQwpzcPK99JfS5G4cQ,4.5,130,4,San Francisco,CA,94110,Sushi Bars
 Parallel 37,GnxzYamcJRd5NG94wGxdcw,4.0,193,4,San Francisco,CA,94108,American (New)
@@ -225,7 +225,7 @@ Banh Mi Saigon,MDMw0HFK3rgeGRl-FZC9Fg,4.0,1359,1,New York,NY,10013,Vietnamese
 Xi'an Famous Foods,Gd3_3mxOvj2xYiqysV8rbQ,4.0,1517,1,New York,NY,10003,Chinese
 NY Pizza Suprema,-9NO2IDCJMyNGZMAQ1-VQw,4.0,1606,1,New York,NY,10001,Pizza
 88 Lan Zhou Handmade Noodles,Lbs8QBRN1U7IYBo5Mcv-RQ,4.0,1527,1,New York,NY,10013,Chinese
-Dough,ZMQzXIiqdBIuicFySTWGKg,4.0,1357,1,New York,NY,10011,Desserts
+Dough,ZMQzXIiqdBIuicFySTWGKg,4.0,1356,1,New York,NY,10011,Desserts
 Schmackary's,jz_FnuRpCNzfwwHHQ6Nbeg,4.0,1697,1,New York,NY,10036,Desserts
 Snowdays,7jXNphhpZZ2YE37E9jP60g,4.0,1087,1,New York,NY,10003,Shaved Ice
 Bleecker Street Pizza,oJ_XSPZFpvIt6rvheSQl7A,4.0,1846,1,New York,NY,10014,Pizza
@@ -370,7 +370,7 @@ Benjamin Steakhouse,sSSV7G16yUijp-Peq4fmsA,4.0,908,4,New York,NY,10017,Steakhous
 Chef's Table at Brooklyn Fare,diCW3Pj1PTVRSyol_d7cZw,4.5,454,4,New York,NY,10018,Japanese
 Nobu Fifty Seven,SxKvgnkMMZdhBJcxxKQnww,4.0,1054,4,New York,NY,10019,Sushi Bars
 Strip House,DijUyfUGs6WoN4dp0_OANQ,4.0,909,4,New York,NY,10003,Steakhouses
-One If By Land Two If By Sea,B_HFzZkFsZgmzcea6R4exw,3.5,1302,4,New York,NY,10014,American (New)
+One If By Land Two If By Sea,B_HFzZkFsZgmzcea6R4exw,3.5,1303,4,New York,NY,10014,American (New)
 Kyo Ya,ytABgZNWnFXQUjOYjh460A,4.5,429,4,New York,NY,10009,Japanese
 Tanoshi Sushi Sake Bar,wSGZA3DOFSUvALZRKCM_Sw,4.5,539,4,New York,NY,10021,Sushi Bars
 Aquavit,f7apP8A_0_KqcGQTK4V2TQ,4.0,687,4,New York,NY,10022,Scandinavian
@@ -2937,8 +2937,8 @@ Kenka,9xRIcn0jTyvWNH9aBO3oAA,3.5,1455,2,New York,NY,10003,Sushi Bars
 Ootoya Times Square,wjIyCBEpCG_HRp8veiI0YQ,4.0,740,2,New York,NY,10036,Japanese
 Bouchon Bakery & Cafe,S3Fw7s_GA94lJLbLFrqZrw,4.0,1304,2,New York,NY,10019,Bakeries
 Aunt Jake's,I2lgw_7DUnwD92ND4PN-Ow,4.0,874,2,New York,NY,10013,Italian
-Hakata Tonton,KfaG5PoTEPpbODHBta9irw,4.0,921,2,New York,NY,10014,Japanese
 Tabaré,4axlhxyN2bKuRWfnY2IhuQ,4.0,597,2,Brooklyn,NY,11211,Latin American
+Hakata Tonton,KfaG5PoTEPpbODHBta9irw,4.0,921,2,New York,NY,10014,Japanese
 Greecologies,t2iNgfFikLQJynJSURth0A,4.5,376,2,New York,NY,10013,Juice Bars & Smoothies
 Buddha Bodai Kosher Vegetarian Restaurant,tguMh2GgOcU9fu6WN3dqpw,4.0,868,2,New York,NY,10013,Chinese
 Flor De Mayo,H1jops1lmuhrq9lP7lEGJQ,4.0,1079,2,New York,NY,10024,Chinese
@@ -3592,10 +3592,10 @@ Varsity Sports Cafe and Roman Coin Pizza - Dundee,gQ6p_d0CfEOMigl7sFOJSw,3.0,74,
 Costa El Sol,hAnnmlxaogRMZpr-8xW2eg,4.0,20,2,Omaha,NE,68127,Latin American
 El Dorado,FG2MhEJn3lDuAEvDKSfIOA,3.0,61,2,Omaha,NE,68107,Seafood
 The Original Draught House,k4oi9xwl6bZEVyi4ly-KjA,3.5,48,2,Omaha,NE,68144,Sports Bars
-"Local Beer, Patio, and Kitchen - Millard",ADu1_ZVdS-ZK-8kLRge38g,3.5,57,2,Omaha,NE,68137,Beer Bar
 Crane Coffee & Bakery,Bzj3VJvVPZPmXNYmKni7Lg,3.5,28,2,Omaha,NE,68106,Coffee & Tea
 Margarita's Mexican Restaurant,CQA0jntFGhxkGSI_GvudBA,3.5,37,2,Omaha,NE,68127,Mexican
 Funny Bone Comedy Club,AbSFpQvUwDNjp8e7fEit_g,3.5,34,2,Omaha,NE,68118,Comedy Clubs
+"Local Beer, Patio, and Kitchen - Millard",ADu1_ZVdS-ZK-8kLRge38g,3.5,57,2,Omaha,NE,68137,Beer Bar
 Agave Azteca,WjXPQBQMMljCktB-g1LTEQ,4.5,12,2,Omaha,NE,68127,Mexican
 Night Flight Pizza,zY-HS4O5lPQNmk7np0Sycg,3.0,45,2,Omaha,NE,68114,Pizza
 Flixx,qwkwbkQqTwvBNjofZ6wG6A,4.0,19,2,Omaha,NE,68103,Gay Bars
@@ -3682,8 +3682,8 @@ Contraband Coffee Bar,NUrDd8QedLz9G6KFC458sA,4.0,710,2,San Francisco,CA,94109,Co
 Cioppino's,6h7YCp2KLfbu3tbRmNSb-g,3.5,1436,2,San Francisco,CA,94109,Italian
 Bullshead Restaurant,jhVo92kIQSPFQTzBaIhP6w,4.0,773,2,San Francisco,CA,94127,Steakhouses
 Puerto Alegre,vp1VTH08YSA9O9w6ej-G0A,3.5,1026,2,San Francisco,CA,94110,Mexican
-Le Cafe du Soleil,R3YMmqmPIjJh8V80VpTD1w,4.0,687,2,San Francisco,CA,94102,Coffee & Tea
 U :Dessert Story,aVskw5NKrs7ibAQ54E_bZw,4.5,389,2,San Francisco,CA,94114,Desserts
+Le Cafe du Soleil,R3YMmqmPIjJh8V80VpTD1w,4.0,687,2,San Francisco,CA,94102,Coffee & Tea
 La Traviata,eQHepA7u_mb-0TIb8t8EXQ,4.0,549,2,San Francisco,CA,94110,Italian
 Jitlada Thai Cuisine,DhxBcPJr1igtHNqDyvJ_lA,4.0,582,2,San Francisco,CA,94115,Thai
 Rosamunde Sausage Grill,J-gFvT4B5UoZgoEOAmxNxw,3.5,928,2,San Francisco,CA,94110,Bars
@@ -5522,7 +5522,7 @@ Shopsin's,6jsGtz0vwEGZ44urQKQkeQ,4.0,672,2,New York,NY,10002,Diners
 Saraghina,fU22eRTnKLT2C-OFJ6eUGQ,4.0,760,2,Brooklyn,NY,11233,Pizza
 Sami's Kabab House,hXqrA_Z3jZ8Q1O6ZehWSwQ,4.5,208,2,Astoria,NY,11106,Afghan
 Chela & Garnacha,AUyKmFjpaVLwc3awfUnqgQ,4.5,310,2,Astoria,NY,11106,Mexican
-Casa Adela,RThvexVhZQ8KA6JAr0UkCQ,4.0,389,2,New York,NY,10009,Latin American
+Casa Adela,RThvexVhZQ8KA6JAr0UkCQ,4.0,390,2,New York,NY,10009,Latin American
 Noodle Pudding,_N92SH1Zi-Hbxn_bNHFz0Q,4.0,521,2,Brooklyn,NY,11201,Italian
 Sarabeth's,-u02f3nAME2AcjDwioLWsw,3.5,1603,2,New York,NY,10019,Breakfast & Brunch
 Topaz Noodle Bar,43r4ynjeIZeQI1w7SWARuQ,4.0,450,2,New York,NY,10019,Thai
@@ -5790,7 +5790,7 @@ Arepera Guacuco,q6FcRtW3ZoQ-hynSCSa8Ig,4.0,482,2,Brooklyn,NY,11237,Salad
 Hummus Place,TxHx1fb8O_MsfQB_ODdTQg,4.0,565,2,New York,NY,10023,Vegetarian
 L'albero Dei Gelati,Q-yTbpW4vrq80oRW40W_Pg,4.5,247,2,Brooklyn,NY,11215,Gelato
 "Mosaic Craft Cocktail, Beer & Wine Bar",WRPrwGH50FBm7yiuYKiLjw,4.5,265,2,Astoria,NY,11102,Venues & Event Spaces
-Peaches,OYKNRBU-unLF-r0bRZwY3A,3.5,943,2,Brooklyn,NY,11233,Southern
+Peaches,OYKNRBU-unLF-r0bRZwY3A,3.5,942,2,Brooklyn,NY,11233,Southern
 Astoria Bier and Cheese,ZLCv2BKISBqmuYSWnFvFTg,4.5,324,2,Astoria,NY,11106,Bars
 Arts and Crafts Beer Parlor,7sQYI_Ym9RzlxHIhJpj6hg,4.5,226,2,New York,NY,10011,Pubs
 Café Grumpy,IYDE89R_ETmVP1-e82Y_xQ,4.0,686,2,New York,NY,10011,Cafes
